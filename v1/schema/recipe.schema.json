@@ -1,0 +1,163 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "JaxFit Recipe v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "title",
+    "description",
+    "cuisine",
+    "mealType",
+    "protocols",
+    "prepMinutes",
+    "servings",
+    "difficulty",
+    "digestiveLoad",
+    "whyItWorks",
+    "nutrition",
+    "ingredients",
+    "steps",
+    "coverImage"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^(in|bd|us|gb|de|jp|kr|br|gl)_(sa|be|am|br|ge|ja|ko|la|un)_(wo|mr|hy|ld)_[0-9]{3}$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3
+    },
+    "description": {
+      "type": "string",
+      "minLength": 15
+    },
+    "cuisine": {
+      "type": "string",
+      "minLength": 3
+    },
+    "mealType": {
+      "enum": [
+        "window_opener",
+        "main_refuel",
+        "hydration_broth",
+        "light_digest"
+      ]
+    },
+    "protocols": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "12:12",
+          "14:10",
+          "16:8",
+          "18:6"
+        ]
+      },
+      "uniqueItems": true
+    },
+    "prepMinutes": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "servings": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "difficulty": {
+      "enum": [
+        "Easy",
+        "Medium",
+        "Hard"
+      ]
+    },
+    "digestiveLoad": {
+      "enum": [
+        "Low",
+        "Moderate",
+        "High"
+      ]
+    },
+    "whyItWorks": {
+      "type": "string",
+      "minLength": 20
+    },
+    "nutrition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "calories",
+        "proteinGrams",
+        "fatGrams",
+        "netCarbsGrams",
+        "fiberGrams",
+        "sodiumMg",
+        "potassiumMg"
+      ],
+      "properties": {
+        "calories": {
+          "type": "number",
+          "minimum": 0
+        },
+        "proteinGrams": {
+          "type": "number",
+          "minimum": 0
+        },
+        "fatGrams": {
+          "type": "number",
+          "minimum": 0
+        },
+        "netCarbsGrams": {
+          "type": "number",
+          "minimum": 0
+        },
+        "fiberGrams": {
+          "type": "number",
+          "minimum": 0
+        },
+        "sodiumMg": {
+          "type": "number",
+          "minimum": 0
+        },
+        "potassiumMg": {
+          "type": "number",
+          "minimum": 0
+        }
+      }
+    },
+    "ingredients": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "item",
+          "amount"
+        ],
+        "properties": {
+          "item": {
+            "type": "string",
+            "minLength": 2
+          },
+          "amount": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "steps": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "string",
+        "minLength": 10
+      }
+    },
+    "coverImage": {
+      "const": "cover.webp"
+    }
+  }
+}

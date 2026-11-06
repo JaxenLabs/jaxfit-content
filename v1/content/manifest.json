@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "repository": "JaxenLabs/jaxfit-content",
+  "countryFolders": [
+    "in",
+    "bd",
+    "us",
+    "gb",
+    "de",
+    "jp",
+    "kr",
+    "br",
+    "global_default"
+  ],
+  "fallback": "global_default",
+  "recipesPerCountry": 120,
+  "sections": [
+    "wo",
+    "mr",
+    "hy",
+    "ld"
+  ],
+  "imageStatus": "pending",
+  "assetBudgetBytesPerCountry": 20000000,
+  "maxImageBytes": 100000,
+  "cdnBase": "https://cdn.jsdelivr.net/gh/JaxenLabs/jaxfit-content@v1.0.0/v1/content/"
+}
