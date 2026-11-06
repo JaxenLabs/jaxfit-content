@@ -1,0 +1,53 @@
+{
+  "id": "br_la_mr_020",
+  "title": "Tofu Farofa Vegetable Bowl with Spinach",
+  "description": "Tofu Farofa Vegetable Bowl with Spinach. A balanced refuel intended to provide protein, energy and vegetables.",
+  "cuisine": "Latin/Brazilian",
+  "mealType": "main_refuel",
+  "protocols": [
+    "16:8",
+    "18:6"
+  ],
+  "prepMinutes": 30,
+  "servings": 1,
+  "difficulty": "Easy",
+  "digestiveLoad": "Moderate",
+  "whyItWorks": "Protein-containing foods and a balanced portion can support normal daily nutrient intake. Adjust portions for individual needs.",
+  "nutrition": {
+    "calories": 475,
+    "proteinGrams": 29,
+    "fatGrams": 17,
+    "netCarbsGrams": 43,
+    "fiberGrams": 7,
+    "sodiumMg": 490,
+    "potassiumMg": 620
+  },
+  "ingredients": [
+    {
+      "item": "Main protein or legumes for Tofu Farofa Vegetable Bowl",
+      "amount": "120 g"
+    },
+    {
+      "item": "Cooked whole grain or starchy vegetable",
+      "amount": "100 g"
+    },
+    {
+      "item": "Mixed vegetables",
+      "amount": "100 g"
+    },
+    {
+      "item": "Olive oil or local cooking oil",
+      "amount": "1 tsp"
+    },
+    {
+      "item": "Spinach",
+      "amount": "30 g"
+    }
+  ],
+  "steps": [
+    "Wash and measure the ingredients; cook any raw animal proteins thoroughly.",
+    "Prepare the main ingredients using the traditional method suitable for the named dish.",
+    "Combine with the measured vegetables and serve as one portion."
+  ],
+  "coverImage": "cover.webp"
+}
