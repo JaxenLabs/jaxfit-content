@@ -1,0 +1,1086 @@
+{
+  "locale": "de",
+  "imageType": "labeled_illustration",
+  "assets": {
+    "de_ge_wo_001": {
+      "foodId": "de_ge_wo_001",
+      "title": "Quark and Oats Bowl",
+      "recipe": "recipes/de_ge_wo_001/recipe.json",
+      "image": "recipes/de_ge_wo_001/cover.webp",
+      "bytes": 6738,
+      "sha256": "ad7fe1d8d928b3e6a13b7dd79ae4f0df988e6d93f62b4ea86e4501392ae56c76",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_002": {
+      "foodId": "de_ge_wo_002",
+      "title": "Quark and Oats Bowl with Spinach",
+      "recipe": "recipes/de_ge_wo_002/recipe.json",
+      "image": "recipes/de_ge_wo_002/cover.webp",
+      "bytes": 7400,
+      "sha256": "2f90e2f092ffe3a974e7913aa67336051ffc0f8288adbfa1b924f76d3d50fac7",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_003": {
+      "foodId": "de_ge_wo_003",
+      "title": "Quark and Oats Bowl with Carrot",
+      "recipe": "recipes/de_ge_wo_003/recipe.json",
+      "image": "recipes/de_ge_wo_003/cover.webp",
+      "bytes": 7116,
+      "sha256": "f4338149c27285c4efd59d37af7acbfcfd06bee971b80c330e7606fc654251e4",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_004": {
+      "foodId": "de_ge_wo_004",
+      "title": "Quark and Oats Bowl with Ginger",
+      "recipe": "recipes/de_ge_wo_004/recipe.json",
+      "image": "recipes/de_ge_wo_004/cover.webp",
+      "bytes": 7526,
+      "sha256": "18d30416ad85215ac0fdb858b31d44e29b225fc1065e5b2d7667be76133f5e68",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_005": {
+      "foodId": "de_ge_wo_005",
+      "title": "Quark and Oats Bowl with Tomato",
+      "recipe": "recipes/de_ge_wo_005/recipe.json",
+      "image": "recipes/de_ge_wo_005/cover.webp",
+      "bytes": 7214,
+      "sha256": "0c9a2bd035b40cc2ab1db18f01e5f34b6c02adc513931a9d311213e5c96fc2a8",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_006": {
+      "foodId": "de_ge_wo_006",
+      "title": "Quark and Oats Bowl with Fresh Herbs",
+      "recipe": "recipes/de_ge_wo_006/recipe.json",
+      "image": "recipes/de_ge_wo_006/cover.webp",
+      "bytes": 7722,
+      "sha256": "6f06c484e725ab2ca42c8aa223f6f3d7382fd3bfe257ed152797835ca46039e2",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_007": {
+      "foodId": "de_ge_wo_007",
+      "title": "Soft Rye Egg Toast",
+      "recipe": "recipes/de_ge_wo_007/recipe.json",
+      "image": "recipes/de_ge_wo_007/cover.webp",
+      "bytes": 5552,
+      "sha256": "401a51e1fb7ea516513a8e46b89363f12611e0da3c761b963db9069754cd22e9",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_008": {
+      "foodId": "de_ge_wo_008",
+      "title": "Soft Rye Egg Toast with Spinach",
+      "recipe": "recipes/de_ge_wo_008/recipe.json",
+      "image": "recipes/de_ge_wo_008/cover.webp",
+      "bytes": 6508,
+      "sha256": "645165f8960a743164dbfe7d5e1f06c1a8a60c99134feb06eddeca0ce36ff6f5",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_009": {
+      "foodId": "de_ge_wo_009",
+      "title": "Soft Rye Egg Toast with Carrot",
+      "recipe": "recipes/de_ge_wo_009/recipe.json",
+      "image": "recipes/de_ge_wo_009/cover.webp",
+      "bytes": 6188,
+      "sha256": "90418e9167276007cab59e0714b8db7bdd59e02067f54d07b3d263547093f0a2",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_010": {
+      "foodId": "de_ge_wo_010",
+      "title": "Soft Rye Egg Toast with Ginger",
+      "recipe": "recipes/de_ge_wo_010/recipe.json",
+      "image": "recipes/de_ge_wo_010/cover.webp",
+      "bytes": 6136,
+      "sha256": "2936f832e56d956e52674985da8196a462580c829455dafd750db582062beb49",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_011": {
+      "foodId": "de_ge_wo_011",
+      "title": "Soft Rye Egg Toast with Tomato",
+      "recipe": "recipes/de_ge_wo_011/recipe.json",
+      "image": "recipes/de_ge_wo_011/cover.webp",
+      "bytes": 6406,
+      "sha256": "49272d5bb0a9d487e141103270eb3ee97b604269a60b02cbc76e4e681351cbaf",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_012": {
+      "foodId": "de_ge_wo_012",
+      "title": "Soft Rye Egg Toast with Fresh Herbs",
+      "recipe": "recipes/de_ge_wo_012/recipe.json",
+      "image": "recipes/de_ge_wo_012/cover.webp",
+      "bytes": 7014,
+      "sha256": "43f1007477535d0627af94dcd886089c13b343beb89c79eaf8259f6568e418f2",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_013": {
+      "foodId": "de_ge_wo_013",
+      "title": "Warm Buckwheat Porridge",
+      "recipe": "recipes/de_ge_wo_013/recipe.json",
+      "image": "recipes/de_ge_wo_013/cover.webp",
+      "bytes": 7054,
+      "sha256": "0083ddf71e5e6b7d0b0ecd56f8e9b80fdf4a3d07e343143c48e86f15e3d7f175",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_014": {
+      "foodId": "de_ge_wo_014",
+      "title": "Warm Buckwheat Porridge with Spinach",
+      "recipe": "recipes/de_ge_wo_014/recipe.json",
+      "image": "recipes/de_ge_wo_014/cover.webp",
+      "bytes": 7624,
+      "sha256": "d9738339dc6f55a9760f212357462dbd4e7eedc06bcc9c271d32cdf3c5637a41",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_015": {
+      "foodId": "de_ge_wo_015",
+      "title": "Warm Buckwheat Porridge with Carrot",
+      "recipe": "recipes/de_ge_wo_015/recipe.json",
+      "image": "recipes/de_ge_wo_015/cover.webp",
+      "bytes": 7558,
+      "sha256": "3e0226955fa97d343d6ca17cba4e4de0ad43c6a5b316e19b5feaf4b00f1cfefa",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_016": {
+      "foodId": "de_ge_wo_016",
+      "title": "Warm Buckwheat Porridge with Ginger",
+      "recipe": "recipes/de_ge_wo_016/recipe.json",
+      "image": "recipes/de_ge_wo_016/cover.webp",
+      "bytes": 7610,
+      "sha256": "b3a0a5ef0bc5504f118f5f7cb78bde3cdd5513a7eff522c5aeeed36dc1a29a53",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_017": {
+      "foodId": "de_ge_wo_017",
+      "title": "Warm Buckwheat Porridge with Tomato",
+      "recipe": "recipes/de_ge_wo_017/recipe.json",
+      "image": "recipes/de_ge_wo_017/cover.webp",
+      "bytes": 7528,
+      "sha256": "a3502abbf6416f3947800bbb82663536a9667577f7e610cd99dc04c958d57f58",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_018": {
+      "foodId": "de_ge_wo_018",
+      "title": "Warm Buckwheat Porridge with Fresh Herbs",
+      "recipe": "recipes/de_ge_wo_018/recipe.json",
+      "image": "recipes/de_ge_wo_018/cover.webp",
+      "bytes": 7818,
+      "sha256": "b70d24939457288f98120b3bf1cb4076b487e777f01b5cfd7f92b49f0a63375e",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_019": {
+      "foodId": "de_ge_wo_019",
+      "title": "Vegetable Semolina Soup",
+      "recipe": "recipes/de_ge_wo_019/recipe.json",
+      "image": "recipes/de_ge_wo_019/cover.webp",
+      "bytes": 6618,
+      "sha256": "95b614220dd6fe27bee60c286e437c8b7b1f0553a68467bedfd11de654d22e95",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_020": {
+      "foodId": "de_ge_wo_020",
+      "title": "Vegetable Semolina Soup with Spinach",
+      "recipe": "recipes/de_ge_wo_020/recipe.json",
+      "image": "recipes/de_ge_wo_020/cover.webp",
+      "bytes": 7538,
+      "sha256": "29e87629e2ca66284b6d17a6a15627f918730f9bb30e1aa5b28cf79a913cd113",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_021": {
+      "foodId": "de_ge_wo_021",
+      "title": "Vegetable Semolina Soup with Carrot",
+      "recipe": "recipes/de_ge_wo_021/recipe.json",
+      "image": "recipes/de_ge_wo_021/cover.webp",
+      "bytes": 7288,
+      "sha256": "0dbd2cc12fe637c5c209206dc4fce81a4a3d826a9ac9e6f00b30e6fdca727c9c",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_022": {
+      "foodId": "de_ge_wo_022",
+      "title": "Vegetable Semolina Soup with Ginger",
+      "recipe": "recipes/de_ge_wo_022/recipe.json",
+      "image": "recipes/de_ge_wo_022/cover.webp",
+      "bytes": 7254,
+      "sha256": "bfa55727f396ab14da520e9d118a782aac4a79c688a5edea90a50aa936055824",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_023": {
+      "foodId": "de_ge_wo_023",
+      "title": "Vegetable Semolina Soup with Tomato",
+      "recipe": "recipes/de_ge_wo_023/recipe.json",
+      "image": "recipes/de_ge_wo_023/cover.webp",
+      "bytes": 7560,
+      "sha256": "efcb3f81a671889293f0f5cdcc6b0c44097387a7d676490d8927667ad0ac5098",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_024": {
+      "foodId": "de_ge_wo_024",
+      "title": "Vegetable Semolina Soup with Fresh Herbs",
+      "recipe": "recipes/de_ge_wo_024/recipe.json",
+      "image": "recipes/de_ge_wo_024/cover.webp",
+      "bytes": 7712,
+      "sha256": "d5cd058d5962511da5e1d24ad3cd4f0ff698893083c2d501866bac371365c856",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_025": {
+      "foodId": "de_ge_wo_025",
+      "title": "Steamed Potato and Quark",
+      "recipe": "recipes/de_ge_wo_025/recipe.json",
+      "image": "recipes/de_ge_wo_025/cover.webp",
+      "bytes": 7440,
+      "sha256": "179e662dc6312d920bafa1929a6b89d1dbb317967a6b473b7da6cffabc5e6851",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_026": {
+      "foodId": "de_ge_wo_026",
+      "title": "Steamed Potato and Quark with Spinach",
+      "recipe": "recipes/de_ge_wo_026/recipe.json",
+      "image": "recipes/de_ge_wo_026/cover.webp",
+      "bytes": 7754,
+      "sha256": "0cdeb8c82384f3d40df226fdf01737a2cd297eaf1022d412f23a00532c9acd73",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_027": {
+      "foodId": "de_ge_wo_027",
+      "title": "Steamed Potato and Quark with Carrot",
+      "recipe": "recipes/de_ge_wo_027/recipe.json",
+      "image": "recipes/de_ge_wo_027/cover.webp",
+      "bytes": 7702,
+      "sha256": "0398eae30239ff660d6dc64671cc2d4f2c355928db7053ca8a33bd4d1273c607",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_028": {
+      "foodId": "de_ge_wo_028",
+      "title": "Steamed Potato and Quark with Ginger",
+      "recipe": "recipes/de_ge_wo_028/recipe.json",
+      "image": "recipes/de_ge_wo_028/cover.webp",
+      "bytes": 7800,
+      "sha256": "234ab3455a395aff2ccd786d67660fa6955d3a29cb76c9a1cc979bab5fe5863d",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_029": {
+      "foodId": "de_ge_wo_029",
+      "title": "Steamed Potato and Quark with Tomato",
+      "recipe": "recipes/de_ge_wo_029/recipe.json",
+      "image": "recipes/de_ge_wo_029/cover.webp",
+      "bytes": 7768,
+      "sha256": "43c6621d7f45b7df21a2c0d5809943ffcdaf25d7d11ca82637732fe6a6c23353",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_wo_030": {
+      "foodId": "de_ge_wo_030",
+      "title": "Steamed Potato and Quark with Fresh Herbs",
+      "recipe": "recipes/de_ge_wo_030/recipe.json",
+      "image": "recipes/de_ge_wo_030/cover.webp",
+      "bytes": 8020,
+      "sha256": "e73043fdd461905d3bb7854175f6229a1e144e7d76f874035c883a2f5f38df67",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_001": {
+      "foodId": "de_ge_mr_001",
+      "title": "Baked Trout and Potatoes",
+      "recipe": "recipes/de_ge_mr_001/recipe.json",
+      "image": "recipes/de_ge_mr_001/cover.webp",
+      "bytes": 7084,
+      "sha256": "3f049d3c57cd76a5d0d1ee2c15b45d3224a1e5df28974cf5a085c6d097aafae5",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_002": {
+      "foodId": "de_ge_mr_002",
+      "title": "Baked Trout and Potatoes with Spinach",
+      "recipe": "recipes/de_ge_mr_002/recipe.json",
+      "image": "recipes/de_ge_mr_002/cover.webp",
+      "bytes": 7792,
+      "sha256": "63fc46a1d90223fec60b58d4be899e7e472acc1093a5cf3c17b64dca877febf3",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_003": {
+      "foodId": "de_ge_mr_003",
+      "title": "Baked Trout and Potatoes with Carrot",
+      "recipe": "recipes/de_ge_mr_003/recipe.json",
+      "image": "recipes/de_ge_mr_003/cover.webp",
+      "bytes": 7704,
+      "sha256": "94002bb4ca6b4f032974e5dbce12c42ffcfe1c1c49248f82c53f669d9a3fb1c5",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_004": {
+      "foodId": "de_ge_mr_004",
+      "title": "Baked Trout and Potatoes with Ginger",
+      "recipe": "recipes/de_ge_mr_004/recipe.json",
+      "image": "recipes/de_ge_mr_004/cover.webp",
+      "bytes": 7642,
+      "sha256": "de8252ad56605597a30531639a6cc32ddf61258bddcf4e85e43418396f8d54cd",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_005": {
+      "foodId": "de_ge_mr_005",
+      "title": "Baked Trout and Potatoes with Tomato",
+      "recipe": "recipes/de_ge_mr_005/recipe.json",
+      "image": "recipes/de_ge_mr_005/cover.webp",
+      "bytes": 7852,
+      "sha256": "ce8019bfed9e1ac992d1f36c804f8f7f149ab55dbc8558e95d1dd3eaa9bdc56f",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_006": {
+      "foodId": "de_ge_mr_006",
+      "title": "Baked Trout and Potatoes with Fresh Herbs",
+      "recipe": "recipes/de_ge_mr_006/recipe.json",
+      "image": "recipes/de_ge_mr_006/cover.webp",
+      "bytes": 7708,
+      "sha256": "02293e674a922a849d238cdd7cf7760c943e6921f0a0f8d60ff8f57b85049c0e",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_007": {
+      "foodId": "de_ge_mr_007",
+      "title": "Chicken Spaetzle Bowl",
+      "recipe": "recipes/de_ge_mr_007/recipe.json",
+      "image": "recipes/de_ge_mr_007/cover.webp",
+      "bytes": 6936,
+      "sha256": "530cc09b853022017d4599407a6f88c512d6f40f56bd26146a1482d7d8543a8e",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_008": {
+      "foodId": "de_ge_mr_008",
+      "title": "Chicken Spaetzle Bowl with Spinach",
+      "recipe": "recipes/de_ge_mr_008/recipe.json",
+      "image": "recipes/de_ge_mr_008/cover.webp",
+      "bytes": 7660,
+      "sha256": "25122ae41c86d18f3bc19bdd8d65faf1dfbf727642c48ee04cfc69b93f5c1373",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_009": {
+      "foodId": "de_ge_mr_009",
+      "title": "Chicken Spaetzle Bowl with Carrot",
+      "recipe": "recipes/de_ge_mr_009/recipe.json",
+      "image": "recipes/de_ge_mr_009/cover.webp",
+      "bytes": 7226,
+      "sha256": "ac6799fd9401368282b0e6d7b873e03e1cbc786b3532e87c82c96be4fcb56d59",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_010": {
+      "foodId": "de_ge_mr_010",
+      "title": "Chicken Spaetzle Bowl with Ginger",
+      "recipe": "recipes/de_ge_mr_010/recipe.json",
+      "image": "recipes/de_ge_mr_010/cover.webp",
+      "bytes": 7198,
+      "sha256": "006a385291330c1bd09014ab9a9424fe9a3a151d48c612c53b2dc1567446f772",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_011": {
+      "foodId": "de_ge_mr_011",
+      "title": "Chicken Spaetzle Bowl with Tomato",
+      "recipe": "recipes/de_ge_mr_011/recipe.json",
+      "image": "recipes/de_ge_mr_011/cover.webp",
+      "bytes": 7800,
+      "sha256": "f518c007a100a7cf000d46badca6451a71b7784f3fec99456500479b7d7608fd",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_012": {
+      "foodId": "de_ge_mr_012",
+      "title": "Chicken Spaetzle Bowl with Fresh Herbs",
+      "recipe": "recipes/de_ge_mr_012/recipe.json",
+      "image": "recipes/de_ge_mr_012/cover.webp",
+      "bytes": 7422,
+      "sha256": "6df5205bb1ebddbb85d264dd7b930e0341c7a1aedd85246ef601b25ad6926f99",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_013": {
+      "foodId": "de_ge_mr_013",
+      "title": "Lentil Vegetable Eintopf",
+      "recipe": "recipes/de_ge_mr_013/recipe.json",
+      "image": "recipes/de_ge_mr_013/cover.webp",
+      "bytes": 7480,
+      "sha256": "38c669271ffe11bb6da9e2c189ec5183d882e82900a81fb139f20d8ece9fd9c2",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_014": {
+      "foodId": "de_ge_mr_014",
+      "title": "Lentil Vegetable Eintopf with Spinach",
+      "recipe": "recipes/de_ge_mr_014/recipe.json",
+      "image": "recipes/de_ge_mr_014/cover.webp",
+      "bytes": 7640,
+      "sha256": "1c4650abdbb20b5d56533e932d0df44e056033c2a621c3b1494a17d267592680",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_015": {
+      "foodId": "de_ge_mr_015",
+      "title": "Lentil Vegetable Eintopf with Carrot",
+      "recipe": "recipes/de_ge_mr_015/recipe.json",
+      "image": "recipes/de_ge_mr_015/cover.webp",
+      "bytes": 7482,
+      "sha256": "4a5e25fa71be8f42128d9c8e5e9c3d570eb82ddf9dbf33d5e0295e28b335b9b0",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_016": {
+      "foodId": "de_ge_mr_016",
+      "title": "Lentil Vegetable Eintopf with Ginger",
+      "recipe": "recipes/de_ge_mr_016/recipe.json",
+      "image": "recipes/de_ge_mr_016/cover.webp",
+      "bytes": 7554,
+      "sha256": "c046b4e6942ad4ae6d8856a76aecf1faeb741239e2ea9a23599784e86b9a5a3b",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_017": {
+      "foodId": "de_ge_mr_017",
+      "title": "Lentil Vegetable Eintopf with Tomato",
+      "recipe": "recipes/de_ge_mr_017/recipe.json",
+      "image": "recipes/de_ge_mr_017/cover.webp",
+      "bytes": 7682,
+      "sha256": "bf4c90ffb3184f5531c8da4c38c4d38cf9c8abc438d72fa3027e7da9b2f5c9b0",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_018": {
+      "foodId": "de_ge_mr_018",
+      "title": "Lentil Vegetable Eintopf with Fresh Herbs",
+      "recipe": "recipes/de_ge_mr_018/recipe.json",
+      "image": "recipes/de_ge_mr_018/cover.webp",
+      "bytes": 7772,
+      "sha256": "4e1e8e65c920fe4b61dd8c582e7297bef0c8f7db4665f988a28a71593d2c4c8e",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_019": {
+      "foodId": "de_ge_mr_019",
+      "title": "Turkey Rye Plate",
+      "recipe": "recipes/de_ge_mr_019/recipe.json",
+      "image": "recipes/de_ge_mr_019/cover.webp",
+      "bytes": 6978,
+      "sha256": "43a6f9f95944095768cf38565b6873ea5b4bad8f105cfa15f3f19b1f896bdcf7",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_020": {
+      "foodId": "de_ge_mr_020",
+      "title": "Turkey Rye Plate with Spinach",
+      "recipe": "recipes/de_ge_mr_020/recipe.json",
+      "image": "recipes/de_ge_mr_020/cover.webp",
+      "bytes": 7266,
+      "sha256": "8f599e74c682b4494d7ba646e9ff11edf864418b26b19aa9af81fa598577a154",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_021": {
+      "foodId": "de_ge_mr_021",
+      "title": "Turkey Rye Plate with Carrot",
+      "recipe": "recipes/de_ge_mr_021/recipe.json",
+      "image": "recipes/de_ge_mr_021/cover.webp",
+      "bytes": 7258,
+      "sha256": "3cb5bf01aa464ebfc380d74445b2447f625b82f8928ae5be504e864558790a54",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_022": {
+      "foodId": "de_ge_mr_022",
+      "title": "Turkey Rye Plate with Ginger",
+      "recipe": "recipes/de_ge_mr_022/recipe.json",
+      "image": "recipes/de_ge_mr_022/cover.webp",
+      "bytes": 7082,
+      "sha256": "ced06e71a6604bfc7340d7abd2ff7fad2e4cc9677a62f2e63717c1c70941ecb3",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_023": {
+      "foodId": "de_ge_mr_023",
+      "title": "Turkey Rye Plate with Tomato",
+      "recipe": "recipes/de_ge_mr_023/recipe.json",
+      "image": "recipes/de_ge_mr_023/cover.webp",
+      "bytes": 7360,
+      "sha256": "7597e9acda09c5b0fe23ff254a8948bc6858be2c5593d4f94a2a414f12fcbe22",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_024": {
+      "foodId": "de_ge_mr_024",
+      "title": "Turkey Rye Plate with Fresh Herbs",
+      "recipe": "recipes/de_ge_mr_024/recipe.json",
+      "image": "recipes/de_ge_mr_024/cover.webp",
+      "bytes": 7184,
+      "sha256": "5e30c10a3fbcc7d65d4850fd82c075b6a759738f66353e7e69f6c325f833352c",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_025": {
+      "foodId": "de_ge_mr_025",
+      "title": "Herbed Tofu and Barley",
+      "recipe": "recipes/de_ge_mr_025/recipe.json",
+      "image": "recipes/de_ge_mr_025/cover.webp",
+      "bytes": 6980,
+      "sha256": "48d31010ee1703889e618bf32c1e6b38483262d352fa7e2676f2effffa7bcd6d",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_026": {
+      "foodId": "de_ge_mr_026",
+      "title": "Herbed Tofu and Barley with Spinach",
+      "recipe": "recipes/de_ge_mr_026/recipe.json",
+      "image": "recipes/de_ge_mr_026/cover.webp",
+      "bytes": 7450,
+      "sha256": "04793b4d92d320314811b6c94fcb7da4cf0687ac24507a0b48e748c86da902d9",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_027": {
+      "foodId": "de_ge_mr_027",
+      "title": "Herbed Tofu and Barley with Carrot",
+      "recipe": "recipes/de_ge_mr_027/recipe.json",
+      "image": "recipes/de_ge_mr_027/cover.webp",
+      "bytes": 7452,
+      "sha256": "f59e059ba162bd36cdddf34e1898b51392aaa0bca28c6a2dbd82589e79515feb",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_028": {
+      "foodId": "de_ge_mr_028",
+      "title": "Herbed Tofu and Barley with Ginger",
+      "recipe": "recipes/de_ge_mr_028/recipe.json",
+      "image": "recipes/de_ge_mr_028/cover.webp",
+      "bytes": 7002,
+      "sha256": "5ae2b477328be24541264e8d676fed30cba60d1052929613ad218f31e5b5ea50",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_029": {
+      "foodId": "de_ge_mr_029",
+      "title": "Herbed Tofu and Barley with Tomato",
+      "recipe": "recipes/de_ge_mr_029/recipe.json",
+      "image": "recipes/de_ge_mr_029/cover.webp",
+      "bytes": 7322,
+      "sha256": "5a800e6c9c1867a4dbc2998d71b761bc0a65797862c3145229b8fcbd1024675d",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_mr_030": {
+      "foodId": "de_ge_mr_030",
+      "title": "Herbed Tofu and Barley with Fresh Herbs",
+      "recipe": "recipes/de_ge_mr_030/recipe.json",
+      "image": "recipes/de_ge_mr_030/cover.webp",
+      "bytes": 7672,
+      "sha256": "a1866700eb3852102104e2f65c3248988242ebcbfadc77f683372a5ac255d699",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_001": {
+      "foodId": "de_ge_hy_001",
+      "title": "Clear Vegetable Brühe",
+      "recipe": "recipes/de_ge_hy_001/recipe.json",
+      "image": "recipes/de_ge_hy_001/cover.webp",
+      "bytes": 6516,
+      "sha256": "b6ea3349709d9be8b7626a95757cc9ff4038a47579121d8181620667023c715a",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_002": {
+      "foodId": "de_ge_hy_002",
+      "title": "Clear Vegetable Brühe with Spinach",
+      "recipe": "recipes/de_ge_hy_002/recipe.json",
+      "image": "recipes/de_ge_hy_002/cover.webp",
+      "bytes": 7134,
+      "sha256": "523027b5ddbe8d6e7487e97f0fcfb43ce1cc594d51e9b129a94425c93c16c6c4",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_003": {
+      "foodId": "de_ge_hy_003",
+      "title": "Clear Vegetable Brühe with Carrot",
+      "recipe": "recipes/de_ge_hy_003/recipe.json",
+      "image": "recipes/de_ge_hy_003/cover.webp",
+      "bytes": 7496,
+      "sha256": "a334839cff77f9403921f492b6f6b7533db944113d9f7f57cbd99f08b34fd0ac",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_004": {
+      "foodId": "de_ge_hy_004",
+      "title": "Clear Vegetable Brühe with Ginger",
+      "recipe": "recipes/de_ge_hy_004/recipe.json",
+      "image": "recipes/de_ge_hy_004/cover.webp",
+      "bytes": 7306,
+      "sha256": "119729c2aefe46c0a2d1fe194948d8e83dccd961998a589f4545d7501624a84a",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_005": {
+      "foodId": "de_ge_hy_005",
+      "title": "Clear Vegetable Brühe with Tomato",
+      "recipe": "recipes/de_ge_hy_005/recipe.json",
+      "image": "recipes/de_ge_hy_005/cover.webp",
+      "bytes": 7178,
+      "sha256": "270f5af85ffc8c3623ca9c7d68d1fa7e1a8772e4ac3cc86e765448d1ecff0c2c",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_006": {
+      "foodId": "de_ge_hy_006",
+      "title": "Clear Vegetable Brühe with Fresh Herbs",
+      "recipe": "recipes/de_ge_hy_006/recipe.json",
+      "image": "recipes/de_ge_hy_006/cover.webp",
+      "bytes": 7080,
+      "sha256": "747fcccce30c624de8a0669c7d01e617ba785e620466ecb3312a49be3d1bacad",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_007": {
+      "foodId": "de_ge_hy_007",
+      "title": "Carrot Potato Soup",
+      "recipe": "recipes/de_ge_hy_007/recipe.json",
+      "image": "recipes/de_ge_hy_007/cover.webp",
+      "bytes": 6464,
+      "sha256": "27f04837b667ce13cbf7e8ec90ea6df241ec0e0e22e19c57d78a60d60a6e8dca",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_008": {
+      "foodId": "de_ge_hy_008",
+      "title": "Carrot Potato Soup with Spinach",
+      "recipe": "recipes/de_ge_hy_008/recipe.json",
+      "image": "recipes/de_ge_hy_008/cover.webp",
+      "bytes": 6796,
+      "sha256": "1285ab320df529b725ba8933fe6effa241279ada2aa8343935b30dd4ea627c00",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_009": {
+      "foodId": "de_ge_hy_009",
+      "title": "Carrot Potato Soup with Carrot",
+      "recipe": "recipes/de_ge_hy_009/recipe.json",
+      "image": "recipes/de_ge_hy_009/cover.webp",
+      "bytes": 6768,
+      "sha256": "c07d4800d360879e53564f41463993cc42edad73d427e11436aaa95548a3d8e3",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_010": {
+      "foodId": "de_ge_hy_010",
+      "title": "Carrot Potato Soup with Ginger",
+      "recipe": "recipes/de_ge_hy_010/recipe.json",
+      "image": "recipes/de_ge_hy_010/cover.webp",
+      "bytes": 7158,
+      "sha256": "e2d54605b8fa0583c19cbbe9b109bf16248f7e9aa060cd51e82ec9488dda5310",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_011": {
+      "foodId": "de_ge_hy_011",
+      "title": "Carrot Potato Soup with Tomato",
+      "recipe": "recipes/de_ge_hy_011/recipe.json",
+      "image": "recipes/de_ge_hy_011/cover.webp",
+      "bytes": 6974,
+      "sha256": "0b7bec1d46183c8797c2fea351fa34a1d6684918c35bfa1d4990e963338c357e",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_012": {
+      "foodId": "de_ge_hy_012",
+      "title": "Carrot Potato Soup with Fresh Herbs",
+      "recipe": "recipes/de_ge_hy_012/recipe.json",
+      "image": "recipes/de_ge_hy_012/cover.webp",
+      "bytes": 7174,
+      "sha256": "a0e9d10cea4a1d2cff8ccfeb1952377c686aebbe938c95ecba60ec4befe9be38",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_013": {
+      "foodId": "de_ge_hy_013",
+      "title": "Mushroom Brühe",
+      "recipe": "recipes/de_ge_hy_013/recipe.json",
+      "image": "recipes/de_ge_hy_013/cover.webp",
+      "bytes": 6436,
+      "sha256": "600f7ffd11ba0ee40497cefb8cc983e19abcbfab38b3ed4b0be4f25e8aee5f99",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_014": {
+      "foodId": "de_ge_hy_014",
+      "title": "Mushroom Brühe with Spinach",
+      "recipe": "recipes/de_ge_hy_014/recipe.json",
+      "image": "recipes/de_ge_hy_014/cover.webp",
+      "bytes": 7036,
+      "sha256": "2561e633083c8dac5d9312f7024c60db9e2f89b4ef22c25c1eac4a4d2b1019b3",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_015": {
+      "foodId": "de_ge_hy_015",
+      "title": "Mushroom Brühe with Carrot",
+      "recipe": "recipes/de_ge_hy_015/recipe.json",
+      "image": "recipes/de_ge_hy_015/cover.webp",
+      "bytes": 6676,
+      "sha256": "bd20ef9795663ae2cf03d8ca4543b5bb67f24886b4ad83573c06f3c72d75adf8",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_016": {
+      "foodId": "de_ge_hy_016",
+      "title": "Mushroom Brühe with Ginger",
+      "recipe": "recipes/de_ge_hy_016/recipe.json",
+      "image": "recipes/de_ge_hy_016/cover.webp",
+      "bytes": 6724,
+      "sha256": "9599ad30a341094dd0c20893df483a5367617b6be14fc3a7b68130ee39790f7c",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_017": {
+      "foodId": "de_ge_hy_017",
+      "title": "Mushroom Brühe with Tomato",
+      "recipe": "recipes/de_ge_hy_017/recipe.json",
+      "image": "recipes/de_ge_hy_017/cover.webp",
+      "bytes": 6918,
+      "sha256": "8e434f9c6745b9dbea6fd68bec93726f1d4592416ecfdf02dcaa85977f25069a",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_018": {
+      "foodId": "de_ge_hy_018",
+      "title": "Mushroom Brühe with Fresh Herbs",
+      "recipe": "recipes/de_ge_hy_018/recipe.json",
+      "image": "recipes/de_ge_hy_018/cover.webp",
+      "bytes": 6944,
+      "sha256": "91360b50187fd1079bbf485b552748b209d0783678b4af0ea5d2c2c42649c127",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_019": {
+      "foodId": "de_ge_hy_019",
+      "title": "Chicken Vegetable Brühe",
+      "recipe": "recipes/de_ge_hy_019/recipe.json",
+      "image": "recipes/de_ge_hy_019/cover.webp",
+      "bytes": 6772,
+      "sha256": "337d27835d22af0aae40eabe8dc9741f91111a1597960328e32fc8f96773a70c",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_020": {
+      "foodId": "de_ge_hy_020",
+      "title": "Chicken Vegetable Brühe with Spinach",
+      "recipe": "recipes/de_ge_hy_020/recipe.json",
+      "image": "recipes/de_ge_hy_020/cover.webp",
+      "bytes": 7582,
+      "sha256": "b317c1fa127e9e41a93fdbd62639b3662071caaf138bbd19ec79ef7ac8596dc8",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_021": {
+      "foodId": "de_ge_hy_021",
+      "title": "Chicken Vegetable Brühe with Carrot",
+      "recipe": "recipes/de_ge_hy_021/recipe.json",
+      "image": "recipes/de_ge_hy_021/cover.webp",
+      "bytes": 7424,
+      "sha256": "8964e9ae7179b2824254201216f8aba62d369aec4a3defe67f1a27efa7ad6eeb",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_022": {
+      "foodId": "de_ge_hy_022",
+      "title": "Chicken Vegetable Brühe with Ginger",
+      "recipe": "recipes/de_ge_hy_022/recipe.json",
+      "image": "recipes/de_ge_hy_022/cover.webp",
+      "bytes": 7178,
+      "sha256": "49bfa1aaf2635559dde855f90a854f27c79fc67e4bf5cf24b67a1bb78d110a36",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_023": {
+      "foodId": "de_ge_hy_023",
+      "title": "Chicken Vegetable Brühe with Tomato",
+      "recipe": "recipes/de_ge_hy_023/recipe.json",
+      "image": "recipes/de_ge_hy_023/cover.webp",
+      "bytes": 7206,
+      "sha256": "69b2e94c0de60c2bc82b3d9bd42e130012d5bc5512b114f020f37a8184e9a4a7",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_024": {
+      "foodId": "de_ge_hy_024",
+      "title": "Chicken Vegetable Brühe with Fresh Herbs",
+      "recipe": "recipes/de_ge_hy_024/recipe.json",
+      "image": "recipes/de_ge_hy_024/cover.webp",
+      "bytes": 7638,
+      "sha256": "7970451fbfe6d39a352949137e7b2ded98cf8a4769f7bc6c4068fccf43dfb63e",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_025": {
+      "foodId": "de_ge_hy_025",
+      "title": "Leek Herb Soup",
+      "recipe": "recipes/de_ge_hy_025/recipe.json",
+      "image": "recipes/de_ge_hy_025/cover.webp",
+      "bytes": 5988,
+      "sha256": "d5cf1725d2ed236d0aed2fae19441254091df6c0b97864ee8543f14ccdd3d5af",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_026": {
+      "foodId": "de_ge_hy_026",
+      "title": "Leek Herb Soup with Spinach",
+      "recipe": "recipes/de_ge_hy_026/recipe.json",
+      "image": "recipes/de_ge_hy_026/cover.webp",
+      "bytes": 6996,
+      "sha256": "3ee263764e95be8d5f62ba7d1b3a45f91abf29055378253e0a0115ff303693ba",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_027": {
+      "foodId": "de_ge_hy_027",
+      "title": "Leek Herb Soup with Carrot",
+      "recipe": "recipes/de_ge_hy_027/recipe.json",
+      "image": "recipes/de_ge_hy_027/cover.webp",
+      "bytes": 6868,
+      "sha256": "992d80c434f78dc443808ca8fe87ec8be88dc4b62dff0c34f27b2fdc4b3527ad",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_028": {
+      "foodId": "de_ge_hy_028",
+      "title": "Leek Herb Soup with Ginger",
+      "recipe": "recipes/de_ge_hy_028/recipe.json",
+      "image": "recipes/de_ge_hy_028/cover.webp",
+      "bytes": 6878,
+      "sha256": "ba78db84b0e56be2d659228a56e0f4da254a1f7a666175641c6157f66a191321",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_029": {
+      "foodId": "de_ge_hy_029",
+      "title": "Leek Herb Soup with Tomato",
+      "recipe": "recipes/de_ge_hy_029/recipe.json",
+      "image": "recipes/de_ge_hy_029/cover.webp",
+      "bytes": 6952,
+      "sha256": "961b1ee45fb31cc48e00cd847a183211298e21351a0a0ef3ede8ea0a0821bbfc",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_hy_030": {
+      "foodId": "de_ge_hy_030",
+      "title": "Leek Herb Soup with Fresh Herbs",
+      "recipe": "recipes/de_ge_hy_030/recipe.json",
+      "image": "recipes/de_ge_hy_030/cover.webp",
+      "bytes": 7356,
+      "sha256": "42a1476461ef9a3f341aa57b5d0c1e94135268324c86b3737fe6175df718eee5",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_001": {
+      "foodId": "de_ge_ld_001",
+      "title": "Potato Carrot Mash",
+      "recipe": "recipes/de_ge_ld_001/recipe.json",
+      "image": "recipes/de_ge_ld_001/cover.webp",
+      "bytes": 6574,
+      "sha256": "de58ebe6d1c0606c754a960a3672f72bc9156886734954e233bbc8618bf92427",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_002": {
+      "foodId": "de_ge_ld_002",
+      "title": "Potato Carrot Mash with Spinach",
+      "recipe": "recipes/de_ge_ld_002/recipe.json",
+      "image": "recipes/de_ge_ld_002/cover.webp",
+      "bytes": 7578,
+      "sha256": "a08877e6cac6c5965359b7eece7fd3825177ededabc3eadad78e3fbfdd121b9f",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_003": {
+      "foodId": "de_ge_ld_003",
+      "title": "Potato Carrot Mash with Carrot",
+      "recipe": "recipes/de_ge_ld_003/recipe.json",
+      "image": "recipes/de_ge_ld_003/cover.webp",
+      "bytes": 7610,
+      "sha256": "8e7feaea6bad70e76cd6bb8dfd60c1ad308816365f575c0b719e366411b69ea3",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_004": {
+      "foodId": "de_ge_ld_004",
+      "title": "Potato Carrot Mash with Ginger",
+      "recipe": "recipes/de_ge_ld_004/recipe.json",
+      "image": "recipes/de_ge_ld_004/cover.webp",
+      "bytes": 6838,
+      "sha256": "a64f415ef206a037ae375ff84b9a241a351054927c1f941707c16686a0c36f67",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_005": {
+      "foodId": "de_ge_ld_005",
+      "title": "Potato Carrot Mash with Tomato",
+      "recipe": "recipes/de_ge_ld_005/recipe.json",
+      "image": "recipes/de_ge_ld_005/cover.webp",
+      "bytes": 6994,
+      "sha256": "5002a70bd77d23d240c35d19eaa11e562bce160ccbbc526b6f9b9ef62ad8a773",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_006": {
+      "foodId": "de_ge_ld_006",
+      "title": "Potato Carrot Mash with Fresh Herbs",
+      "recipe": "recipes/de_ge_ld_006/recipe.json",
+      "image": "recipes/de_ge_ld_006/cover.webp",
+      "bytes": 7452,
+      "sha256": "360a6b18152daeefa25fc381f46b55456e1e1c8896e2bf433462053363bd6d91",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_007": {
+      "foodId": "de_ge_ld_007",
+      "title": "Warm Quark and Oats",
+      "recipe": "recipes/de_ge_ld_007/recipe.json",
+      "image": "recipes/de_ge_ld_007/cover.webp",
+      "bytes": 7084,
+      "sha256": "8d6b51f0c4967adfe75eaa763d45ad0e5c0685466ea2b65cdbdf20bc719e0f02",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_008": {
+      "foodId": "de_ge_ld_008",
+      "title": "Warm Quark and Oats with Spinach",
+      "recipe": "recipes/de_ge_ld_008/recipe.json",
+      "image": "recipes/de_ge_ld_008/cover.webp",
+      "bytes": 7182,
+      "sha256": "950bdbff4ea8c31d84db5b70763a7223763d2c2e1c706bc3ac3f604b44e16da7",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_009": {
+      "foodId": "de_ge_ld_009",
+      "title": "Warm Quark and Oats with Carrot",
+      "recipe": "recipes/de_ge_ld_009/recipe.json",
+      "image": "recipes/de_ge_ld_009/cover.webp",
+      "bytes": 7310,
+      "sha256": "5f527fa9edccaea6aff2b9265fc7d0f7130de109b5326cc7e483db5d8863bf94",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_010": {
+      "foodId": "de_ge_ld_010",
+      "title": "Warm Quark and Oats with Ginger",
+      "recipe": "recipes/de_ge_ld_010/recipe.json",
+      "image": "recipes/de_ge_ld_010/cover.webp",
+      "bytes": 7632,
+      "sha256": "6629c41a5e9643000337ecd789d4b1ab3dd6baca104f97369d398f0980d8f9c9",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_011": {
+      "foodId": "de_ge_ld_011",
+      "title": "Warm Quark and Oats with Tomato",
+      "recipe": "recipes/de_ge_ld_011/recipe.json",
+      "image": "recipes/de_ge_ld_011/cover.webp",
+      "bytes": 6902,
+      "sha256": "59420a1d78f8d4764208806cb819409c6314495d3c8926aec162dd74afe87226",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_012": {
+      "foodId": "de_ge_ld_012",
+      "title": "Warm Quark and Oats with Fresh Herbs",
+      "recipe": "recipes/de_ge_ld_012/recipe.json",
+      "image": "recipes/de_ge_ld_012/cover.webp",
+      "bytes": 7310,
+      "sha256": "45c7e7bb3997392a66aab7bc708865b4a1e8a6dc4f3842fbdd3396a81dfd893e",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_013": {
+      "foodId": "de_ge_ld_013",
+      "title": "Soft Vegetable Omelet",
+      "recipe": "recipes/de_ge_ld_013/recipe.json",
+      "image": "recipes/de_ge_ld_013/cover.webp",
+      "bytes": 6932,
+      "sha256": "573320471c8939c54fef3dd70c60089321a58b005be8dea9d285951401b6510e",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_014": {
+      "foodId": "de_ge_ld_014",
+      "title": "Soft Vegetable Omelet with Spinach",
+      "recipe": "recipes/de_ge_ld_014/recipe.json",
+      "image": "recipes/de_ge_ld_014/cover.webp",
+      "bytes": 7524,
+      "sha256": "fc156185d3a9b701cd4810ac6790ec151e3910a20e1058a280a1c51bced49148",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_015": {
+      "foodId": "de_ge_ld_015",
+      "title": "Soft Vegetable Omelet with Carrot",
+      "recipe": "recipes/de_ge_ld_015/recipe.json",
+      "image": "recipes/de_ge_ld_015/cover.webp",
+      "bytes": 7380,
+      "sha256": "83ffae862eff640ceaba1bebfb3bc14b79dfccc07b874a68ecce1520b7ff0691",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_016": {
+      "foodId": "de_ge_ld_016",
+      "title": "Soft Vegetable Omelet with Ginger",
+      "recipe": "recipes/de_ge_ld_016/recipe.json",
+      "image": "recipes/de_ge_ld_016/cover.webp",
+      "bytes": 7484,
+      "sha256": "3574cd881977f75e8938073387eeb1eb55f6f6d102c2ac3b67334f166e6c15d9",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_017": {
+      "foodId": "de_ge_ld_017",
+      "title": "Soft Vegetable Omelet with Tomato",
+      "recipe": "recipes/de_ge_ld_017/recipe.json",
+      "image": "recipes/de_ge_ld_017/cover.webp",
+      "bytes": 7166,
+      "sha256": "b046aea8efe1ee09933f8987e3de2c723f992f03456b6051a59bbb29671019a3",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_018": {
+      "foodId": "de_ge_ld_018",
+      "title": "Soft Vegetable Omelet with Fresh Herbs",
+      "recipe": "recipes/de_ge_ld_018/recipe.json",
+      "image": "recipes/de_ge_ld_018/cover.webp",
+      "bytes": 7854,
+      "sha256": "67f1a340677ff169d1c938a96d2d8fc375e04035c8976518abd39632fe9c1877",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_019": {
+      "foodId": "de_ge_ld_019",
+      "title": "Pumpkin Creamless Soup",
+      "recipe": "recipes/de_ge_ld_019/recipe.json",
+      "image": "recipes/de_ge_ld_019/cover.webp",
+      "bytes": 6564,
+      "sha256": "5afaf4fb872ec22d7c1fe3c26cc619a0a2527b3361bf543e638d364117696f53",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_020": {
+      "foodId": "de_ge_ld_020",
+      "title": "Pumpkin Creamless Soup with Spinach",
+      "recipe": "recipes/de_ge_ld_020/recipe.json",
+      "image": "recipes/de_ge_ld_020/cover.webp",
+      "bytes": 7068,
+      "sha256": "9e096b60ac5e53b3eea385cd947bc2c1e529b3d01867247e2758f040ddbc2894",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_021": {
+      "foodId": "de_ge_ld_021",
+      "title": "Pumpkin Creamless Soup with Carrot",
+      "recipe": "recipes/de_ge_ld_021/recipe.json",
+      "image": "recipes/de_ge_ld_021/cover.webp",
+      "bytes": 7302,
+      "sha256": "904e20bf5465927199b320020eaa11d3aaf2dccf9ea70bc3b0b8dedbb8251c99",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_022": {
+      "foodId": "de_ge_ld_022",
+      "title": "Pumpkin Creamless Soup with Ginger",
+      "recipe": "recipes/de_ge_ld_022/recipe.json",
+      "image": "recipes/de_ge_ld_022/cover.webp",
+      "bytes": 7256,
+      "sha256": "3691323447b79e4caecfccf8b14c25202fe4c46ee777689670bb51b573de32d6",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_023": {
+      "foodId": "de_ge_ld_023",
+      "title": "Pumpkin Creamless Soup with Tomato",
+      "recipe": "recipes/de_ge_ld_023/recipe.json",
+      "image": "recipes/de_ge_ld_023/cover.webp",
+      "bytes": 6972,
+      "sha256": "466c1723aacddf74c367352d436066e1c6327531e1e047f1c093b86f16c2cccd",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_024": {
+      "foodId": "de_ge_ld_024",
+      "title": "Pumpkin Creamless Soup with Fresh Herbs",
+      "recipe": "recipes/de_ge_ld_024/recipe.json",
+      "image": "recipes/de_ge_ld_024/cover.webp",
+      "bytes": 7412,
+      "sha256": "8aed215b8d9fcbe86ede6c814048d7d1a068a4db54f1d0764eba312e32df1a0d",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_025": {
+      "foodId": "de_ge_ld_025",
+      "title": "Light Lentil Stew",
+      "recipe": "recipes/de_ge_ld_025/recipe.json",
+      "image": "recipes/de_ge_ld_025/cover.webp",
+      "bytes": 6694,
+      "sha256": "bf2923fc98ef3dfd2d165bf7220cb876e4e90a19c23ce1c055bd807a60d55158",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_026": {
+      "foodId": "de_ge_ld_026",
+      "title": "Light Lentil Stew with Spinach",
+      "recipe": "recipes/de_ge_ld_026/recipe.json",
+      "image": "recipes/de_ge_ld_026/cover.webp",
+      "bytes": 7552,
+      "sha256": "a4b5a7281b5ad07a2eca8432add176e2675f05e81edcaf31d6d73f30910fca33",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_027": {
+      "foodId": "de_ge_ld_027",
+      "title": "Light Lentil Stew with Carrot",
+      "recipe": "recipes/de_ge_ld_027/recipe.json",
+      "image": "recipes/de_ge_ld_027/cover.webp",
+      "bytes": 7248,
+      "sha256": "dfc494c88eb8df67ee8fa65894b316b7f8373b3a77f33b3f4828b48a2e4f17d2",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_028": {
+      "foodId": "de_ge_ld_028",
+      "title": "Light Lentil Stew with Ginger",
+      "recipe": "recipes/de_ge_ld_028/recipe.json",
+      "image": "recipes/de_ge_ld_028/cover.webp",
+      "bytes": 6966,
+      "sha256": "bf01f167951416e93fc65ccb73ef22505b6dfd7f0e844a20973c258c014b85c0",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_029": {
+      "foodId": "de_ge_ld_029",
+      "title": "Light Lentil Stew with Tomato",
+      "recipe": "recipes/de_ge_ld_029/recipe.json",
+      "image": "recipes/de_ge_ld_029/cover.webp",
+      "bytes": 7304,
+      "sha256": "984af3e24c2d76984f0e4940e0657a04e95abdee3b001de032eac170c0c6a41a",
+      "kind": "labeled_illustration"
+    },
+    "de_ge_ld_030": {
+      "foodId": "de_ge_ld_030",
+      "title": "Light Lentil Stew with Fresh Herbs",
+      "recipe": "recipes/de_ge_ld_030/recipe.json",
+      "image": "recipes/de_ge_ld_030/cover.webp",
+      "bytes": 6952,
+      "sha256": "b9e92278295690fd0defe540d320bfc2d70d5a9672147111178608213cc19508",
+      "kind": "labeled_illustration"
+    }
+  }
+}

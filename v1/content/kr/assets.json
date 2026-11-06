@@ -1,0 +1,1086 @@
+{
+  "locale": "kr",
+  "imageType": "labeled_illustration",
+  "assets": {
+    "kr_ko_wo_001": {
+      "foodId": "kr_ko_wo_001",
+      "title": "Vegetable Juk",
+      "recipe": "recipes/kr_ko_wo_001/recipe.json",
+      "image": "recipes/kr_ko_wo_001/cover.webp",
+      "bytes": 6628,
+      "sha256": "e7a77d54f1a09e478a0a1eb873ad6ca12cdd0df9e5d8af36181d6f88b051d430",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_002": {
+      "foodId": "kr_ko_wo_002",
+      "title": "Vegetable Juk with Spinach",
+      "recipe": "recipes/kr_ko_wo_002/recipe.json",
+      "image": "recipes/kr_ko_wo_002/cover.webp",
+      "bytes": 7184,
+      "sha256": "ea8e86acff8c6c60e67d3a6d3fb7a6757eb7db8758a0fa3bfb416e59739b18d5",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_003": {
+      "foodId": "kr_ko_wo_003",
+      "title": "Vegetable Juk with Carrot",
+      "recipe": "recipes/kr_ko_wo_003/recipe.json",
+      "image": "recipes/kr_ko_wo_003/cover.webp",
+      "bytes": 7444,
+      "sha256": "558fdf97e84db348cde9807a3fdfe92622236bfa20a8bed17a1e3105e2cbca94",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_004": {
+      "foodId": "kr_ko_wo_004",
+      "title": "Vegetable Juk with Ginger",
+      "recipe": "recipes/kr_ko_wo_004/recipe.json",
+      "image": "recipes/kr_ko_wo_004/cover.webp",
+      "bytes": 7242,
+      "sha256": "4aaf3f2b81fd84910adda9bd14b3accecb8e9c90b5a5ad299139bb7243370544",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_005": {
+      "foodId": "kr_ko_wo_005",
+      "title": "Vegetable Juk with Tomato",
+      "recipe": "recipes/kr_ko_wo_005/recipe.json",
+      "image": "recipes/kr_ko_wo_005/cover.webp",
+      "bytes": 7110,
+      "sha256": "16117ccef82d5e65e6ebd80421cda6e98b1f5a85df87de79e9fde15ceed7ebc1",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_006": {
+      "foodId": "kr_ko_wo_006",
+      "title": "Vegetable Juk with Fresh Herbs",
+      "recipe": "recipes/kr_ko_wo_006/recipe.json",
+      "image": "recipes/kr_ko_wo_006/cover.webp",
+      "bytes": 7914,
+      "sha256": "ed269efe113c63be08069399c074f453dd79fef9cc97202d33e78d1cd114b7a1",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_007": {
+      "foodId": "kr_ko_wo_007",
+      "title": "Soft Gyeran Jjim",
+      "recipe": "recipes/kr_ko_wo_007/recipe.json",
+      "image": "recipes/kr_ko_wo_007/cover.webp",
+      "bytes": 6836,
+      "sha256": "55bc01d5522ec7712d7d40a1da9b21e6fa5849ff845e1b742be8f9901c517d34",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_008": {
+      "foodId": "kr_ko_wo_008",
+      "title": "Soft Gyeran Jjim with Spinach",
+      "recipe": "recipes/kr_ko_wo_008/recipe.json",
+      "image": "recipes/kr_ko_wo_008/cover.webp",
+      "bytes": 6840,
+      "sha256": "047ad1a02cdec9b043fa59cd074392588587e9b110b9f989ff36bbf2809434b9",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_009": {
+      "foodId": "kr_ko_wo_009",
+      "title": "Soft Gyeran Jjim with Carrot",
+      "recipe": "recipes/kr_ko_wo_009/recipe.json",
+      "image": "recipes/kr_ko_wo_009/cover.webp",
+      "bytes": 7372,
+      "sha256": "ce54e2e65044abe208c749cf1b4af53facb6ee03338f2c50f056d8b1684ca906",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_010": {
+      "foodId": "kr_ko_wo_010",
+      "title": "Soft Gyeran Jjim with Ginger",
+      "recipe": "recipes/kr_ko_wo_010/recipe.json",
+      "image": "recipes/kr_ko_wo_010/cover.webp",
+      "bytes": 7036,
+      "sha256": "d706a25a90b1692206a2bfdf100afd8dd1babca5d3d0e68553492682b823deeb",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_011": {
+      "foodId": "kr_ko_wo_011",
+      "title": "Soft Gyeran Jjim with Tomato",
+      "recipe": "recipes/kr_ko_wo_011/recipe.json",
+      "image": "recipes/kr_ko_wo_011/cover.webp",
+      "bytes": 7282,
+      "sha256": "f372f46b291b4136d8f826a5ef55f314e43a95830fa3d74c90be04c5c31984e7",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_012": {
+      "foodId": "kr_ko_wo_012",
+      "title": "Soft Gyeran Jjim with Fresh Herbs",
+      "recipe": "recipes/kr_ko_wo_012/recipe.json",
+      "image": "recipes/kr_ko_wo_012/cover.webp",
+      "bytes": 7086,
+      "sha256": "9a1776017a774dbf0a15ef3237e85d531ba17a669557542cfca68cb23d7a0cf9",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_013": {
+      "foodId": "kr_ko_wo_013",
+      "title": "Rice and Tofu Porridge",
+      "recipe": "recipes/kr_ko_wo_013/recipe.json",
+      "image": "recipes/kr_ko_wo_013/cover.webp",
+      "bytes": 7228,
+      "sha256": "2b7264e7ef0808b737c372d6dbd955a30fb42247c4a5b5814e0c6b90392fc1f1",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_014": {
+      "foodId": "kr_ko_wo_014",
+      "title": "Rice and Tofu Porridge with Spinach",
+      "recipe": "recipes/kr_ko_wo_014/recipe.json",
+      "image": "recipes/kr_ko_wo_014/cover.webp",
+      "bytes": 7802,
+      "sha256": "0a20809fb1f0ca73ff5dc6101a6b24814b67a6fee5f389c403d4536eacdf666c",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_015": {
+      "foodId": "kr_ko_wo_015",
+      "title": "Rice and Tofu Porridge with Carrot",
+      "recipe": "recipes/kr_ko_wo_015/recipe.json",
+      "image": "recipes/kr_ko_wo_015/cover.webp",
+      "bytes": 7724,
+      "sha256": "c222bf1dce7092e4844f521e53c227c3c8754164fe4c27333cc370380c4cf0dc",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_016": {
+      "foodId": "kr_ko_wo_016",
+      "title": "Rice and Tofu Porridge with Ginger",
+      "recipe": "recipes/kr_ko_wo_016/recipe.json",
+      "image": "recipes/kr_ko_wo_016/cover.webp",
+      "bytes": 7892,
+      "sha256": "a851eaa16dc32cee5842aa2b2489b38817d1bd67407d9c00a3ee3ac00559bd3d",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_017": {
+      "foodId": "kr_ko_wo_017",
+      "title": "Rice and Tofu Porridge with Tomato",
+      "recipe": "recipes/kr_ko_wo_017/recipe.json",
+      "image": "recipes/kr_ko_wo_017/cover.webp",
+      "bytes": 7362,
+      "sha256": "09fab3aa8e01b60b6b193e8805c1316698e21b1957f6640c12f0b91df4843744",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_018": {
+      "foodId": "kr_ko_wo_018",
+      "title": "Rice and Tofu Porridge with Fresh Herbs",
+      "recipe": "recipes/kr_ko_wo_018/recipe.json",
+      "image": "recipes/kr_ko_wo_018/cover.webp",
+      "bytes": 7738,
+      "sha256": "3becd93871b3718f8bdfd1c9b67183c5b24736df7369864d9cbf16301eef18a2",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_019": {
+      "foodId": "kr_ko_wo_019",
+      "title": "Pumpkin Hobak Juk",
+      "recipe": "recipes/kr_ko_wo_019/recipe.json",
+      "image": "recipes/kr_ko_wo_019/cover.webp",
+      "bytes": 6984,
+      "sha256": "fde49c0d384961c5cf5f4a14f92564a10d7b9e9cff36b7e28a3503982794d31a",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_020": {
+      "foodId": "kr_ko_wo_020",
+      "title": "Pumpkin Hobak Juk with Spinach",
+      "recipe": "recipes/kr_ko_wo_020/recipe.json",
+      "image": "recipes/kr_ko_wo_020/cover.webp",
+      "bytes": 7308,
+      "sha256": "b14c9eb03afe16788f13dffc2aaa7c4f6fa7d1e222408e62956d48c915adeb00",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_021": {
+      "foodId": "kr_ko_wo_021",
+      "title": "Pumpkin Hobak Juk with Carrot",
+      "recipe": "recipes/kr_ko_wo_021/recipe.json",
+      "image": "recipes/kr_ko_wo_021/cover.webp",
+      "bytes": 7570,
+      "sha256": "5c217a56d65630501501639961b1fd8ad0535eaa60445acc3b2f14324be5fbf9",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_022": {
+      "foodId": "kr_ko_wo_022",
+      "title": "Pumpkin Hobak Juk with Ginger",
+      "recipe": "recipes/kr_ko_wo_022/recipe.json",
+      "image": "recipes/kr_ko_wo_022/cover.webp",
+      "bytes": 7610,
+      "sha256": "73b0f66c86feaa1651e344ce6e334df4ab2d8dbb36451522dc2e308d3b1b924f",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_023": {
+      "foodId": "kr_ko_wo_023",
+      "title": "Pumpkin Hobak Juk with Tomato",
+      "recipe": "recipes/kr_ko_wo_023/recipe.json",
+      "image": "recipes/kr_ko_wo_023/cover.webp",
+      "bytes": 7782,
+      "sha256": "0d8c43eff8cab3ade9cc0297b47e803998f6a6bb5504a6a336aed40266ec61df",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_024": {
+      "foodId": "kr_ko_wo_024",
+      "title": "Pumpkin Hobak Juk with Fresh Herbs",
+      "recipe": "recipes/kr_ko_wo_024/recipe.json",
+      "image": "recipes/kr_ko_wo_024/cover.webp",
+      "bytes": 8008,
+      "sha256": "1a59d3b81c4d706031ff71dce61cb0e872979d77a2d7d06e736375d5d3e80989",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_025": {
+      "foodId": "kr_ko_wo_025",
+      "title": "Mild Mushroom Juk",
+      "recipe": "recipes/kr_ko_wo_025/recipe.json",
+      "image": "recipes/kr_ko_wo_025/cover.webp",
+      "bytes": 6986,
+      "sha256": "93b6c3efaf8d3a52d8a2727f04671c3284c8a263bb83eb014368a20a5a0f94cb",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_026": {
+      "foodId": "kr_ko_wo_026",
+      "title": "Mild Mushroom Juk with Spinach",
+      "recipe": "recipes/kr_ko_wo_026/recipe.json",
+      "image": "recipes/kr_ko_wo_026/cover.webp",
+      "bytes": 7832,
+      "sha256": "6716ea15b1e8d3be7faab8a5417df1506d7fe41c759c5a8409dd38120fa9f7c6",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_027": {
+      "foodId": "kr_ko_wo_027",
+      "title": "Mild Mushroom Juk with Carrot",
+      "recipe": "recipes/kr_ko_wo_027/recipe.json",
+      "image": "recipes/kr_ko_wo_027/cover.webp",
+      "bytes": 7594,
+      "sha256": "c2f08ab943feedc592814dd3ad4d2b119552db5b07591abaf33bda4e6500cf52",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_028": {
+      "foodId": "kr_ko_wo_028",
+      "title": "Mild Mushroom Juk with Ginger",
+      "recipe": "recipes/kr_ko_wo_028/recipe.json",
+      "image": "recipes/kr_ko_wo_028/cover.webp",
+      "bytes": 7290,
+      "sha256": "20f271f04850d4864e7e94d45b169aab15cd84143d37530ad275d9fe320744f5",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_029": {
+      "foodId": "kr_ko_wo_029",
+      "title": "Mild Mushroom Juk with Tomato",
+      "recipe": "recipes/kr_ko_wo_029/recipe.json",
+      "image": "recipes/kr_ko_wo_029/cover.webp",
+      "bytes": 7342,
+      "sha256": "62a5b2060d2893cfb0df3cea374e6e9a493115eceea31b562edb4f0303a0abc0",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_wo_030": {
+      "foodId": "kr_ko_wo_030",
+      "title": "Mild Mushroom Juk with Fresh Herbs",
+      "recipe": "recipes/kr_ko_wo_030/recipe.json",
+      "image": "recipes/kr_ko_wo_030/cover.webp",
+      "bytes": 7876,
+      "sha256": "c2c34905918d41d180b2a5bf8e1066732ba0b49635b24abc4e5135b4da80a93d",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_001": {
+      "foodId": "kr_ko_mr_001",
+      "title": "Bibimbap with Tofu",
+      "recipe": "recipes/kr_ko_mr_001/recipe.json",
+      "image": "recipes/kr_ko_mr_001/cover.webp",
+      "bytes": 6886,
+      "sha256": "9b2129f4587e39810ac353b1b189688e5814343214ce208e887e1659a17708bb",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_002": {
+      "foodId": "kr_ko_mr_002",
+      "title": "Bibimbap with Tofu with Spinach",
+      "recipe": "recipes/kr_ko_mr_002/recipe.json",
+      "image": "recipes/kr_ko_mr_002/cover.webp",
+      "bytes": 7240,
+      "sha256": "babab4572714f8c7a8bd7608f3ca118c377f16983aa271209139f89632a2fb74",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_003": {
+      "foodId": "kr_ko_mr_003",
+      "title": "Bibimbap with Tofu with Carrot",
+      "recipe": "recipes/kr_ko_mr_003/recipe.json",
+      "image": "recipes/kr_ko_mr_003/cover.webp",
+      "bytes": 7436,
+      "sha256": "3cdf30bf172b99a0761bde95430edcaf282aaee0f2b5eedabe9635c012168dff",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_004": {
+      "foodId": "kr_ko_mr_004",
+      "title": "Bibimbap with Tofu with Ginger",
+      "recipe": "recipes/kr_ko_mr_004/recipe.json",
+      "image": "recipes/kr_ko_mr_004/cover.webp",
+      "bytes": 7252,
+      "sha256": "d64e92d0dffd106f26b78e7a6d2b40f1070512dfb0a543a3f8f4a326a102c142",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_005": {
+      "foodId": "kr_ko_mr_005",
+      "title": "Bibimbap with Tofu with Tomato",
+      "recipe": "recipes/kr_ko_mr_005/recipe.json",
+      "image": "recipes/kr_ko_mr_005/cover.webp",
+      "bytes": 7682,
+      "sha256": "889ab4eafb3c2f894c86be8e03a932f43a3ccc623ac2dc43e5742604f42ad0ea",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_006": {
+      "foodId": "kr_ko_mr_006",
+      "title": "Bibimbap with Tofu with Fresh Herbs",
+      "recipe": "recipes/kr_ko_mr_006/recipe.json",
+      "image": "recipes/kr_ko_mr_006/cover.webp",
+      "bytes": 7628,
+      "sha256": "a2272e0b3e65335808fe99634b227624756da53c2ae243c9650137bc48e73464",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_007": {
+      "foodId": "kr_ko_mr_007",
+      "title": "Grilled Mackerel Rice Bowl",
+      "recipe": "recipes/kr_ko_mr_007/recipe.json",
+      "image": "recipes/kr_ko_mr_007/cover.webp",
+      "bytes": 7166,
+      "sha256": "e704e1e493d590e5c9187f2e84a79da97ed83350b460709f5d538a9bd92fa108",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_008": {
+      "foodId": "kr_ko_mr_008",
+      "title": "Grilled Mackerel Rice Bowl with Spinach",
+      "recipe": "recipes/kr_ko_mr_008/recipe.json",
+      "image": "recipes/kr_ko_mr_008/cover.webp",
+      "bytes": 8092,
+      "sha256": "6e82bea5e059c95fd0c4ee41633f07f849350ee28b9d8ae550a739d1964fe324",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_009": {
+      "foodId": "kr_ko_mr_009",
+      "title": "Grilled Mackerel Rice Bowl with Carrot",
+      "recipe": "recipes/kr_ko_mr_009/recipe.json",
+      "image": "recipes/kr_ko_mr_009/cover.webp",
+      "bytes": 7880,
+      "sha256": "1ff961b75951f443f1619d4aba3d57c249adb2fc40ef5a8b3ab1f5415b03a8ad",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_010": {
+      "foodId": "kr_ko_mr_010",
+      "title": "Grilled Mackerel Rice Bowl with Ginger",
+      "recipe": "recipes/kr_ko_mr_010/recipe.json",
+      "image": "recipes/kr_ko_mr_010/cover.webp",
+      "bytes": 7758,
+      "sha256": "22fd5d10f630b49d867c547f59b52424ae4401fde224b24faac7b7d055924b0a",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_011": {
+      "foodId": "kr_ko_mr_011",
+      "title": "Grilled Mackerel Rice Bowl with Tomato",
+      "recipe": "recipes/kr_ko_mr_011/recipe.json",
+      "image": "recipes/kr_ko_mr_011/cover.webp",
+      "bytes": 8190,
+      "sha256": "6478fed50f19409452df34b40af2367c84d4cb9c1b3a47b51db29cf74027c84d",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_012": {
+      "foodId": "kr_ko_mr_012",
+      "title": "Grilled Mackerel Rice Bowl with Fresh Herbs",
+      "recipe": "recipes/kr_ko_mr_012/recipe.json",
+      "image": "recipes/kr_ko_mr_012/cover.webp",
+      "bytes": 7708,
+      "sha256": "27dad5f1b58110861f4b649b3b51883c01f28168a899e625e263e733e0efa136",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_013": {
+      "foodId": "kr_ko_mr_013",
+      "title": "Chicken Bulgogi Bowl",
+      "recipe": "recipes/kr_ko_mr_013/recipe.json",
+      "image": "recipes/kr_ko_mr_013/cover.webp",
+      "bytes": 7108,
+      "sha256": "a7a15749cbc96efffb3e776079a4f44acc36c5f6e93d79385b0ced628135f5c9",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_014": {
+      "foodId": "kr_ko_mr_014",
+      "title": "Chicken Bulgogi Bowl with Spinach",
+      "recipe": "recipes/kr_ko_mr_014/recipe.json",
+      "image": "recipes/kr_ko_mr_014/cover.webp",
+      "bytes": 7700,
+      "sha256": "a7d6c8b8c67e94768adcc4651c1a1dbb8ece220f1a76f49892601a6e10e01903",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_015": {
+      "foodId": "kr_ko_mr_015",
+      "title": "Chicken Bulgogi Bowl with Carrot",
+      "recipe": "recipes/kr_ko_mr_015/recipe.json",
+      "image": "recipes/kr_ko_mr_015/cover.webp",
+      "bytes": 7064,
+      "sha256": "7f20b6dc1a31429f87c868b4c56e5e97061b9a67e8bc2aebd28b8c0fd6916931",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_016": {
+      "foodId": "kr_ko_mr_016",
+      "title": "Chicken Bulgogi Bowl with Ginger",
+      "recipe": "recipes/kr_ko_mr_016/recipe.json",
+      "image": "recipes/kr_ko_mr_016/cover.webp",
+      "bytes": 7172,
+      "sha256": "87c069dac1a57dc9a0678af0c126b1c9e5b9c4bf70c40108072427f6e5b735f8",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_017": {
+      "foodId": "kr_ko_mr_017",
+      "title": "Chicken Bulgogi Bowl with Tomato",
+      "recipe": "recipes/kr_ko_mr_017/recipe.json",
+      "image": "recipes/kr_ko_mr_017/cover.webp",
+      "bytes": 7478,
+      "sha256": "6624e7c31ffecc35a25a8f39f1cc6b685af0921d2036d6892441eed56fb585b7",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_018": {
+      "foodId": "kr_ko_mr_018",
+      "title": "Chicken Bulgogi Bowl with Fresh Herbs",
+      "recipe": "recipes/kr_ko_mr_018/recipe.json",
+      "image": "recipes/kr_ko_mr_018/cover.webp",
+      "bytes": 7710,
+      "sha256": "d0d6a2b0f262cfd8330b38f24cb80327ce968be7a56443e6b31b343e3ea9a208",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_019": {
+      "foodId": "kr_ko_mr_019",
+      "title": "Egg and Vegetable Deopbap",
+      "recipe": "recipes/kr_ko_mr_019/recipe.json",
+      "image": "recipes/kr_ko_mr_019/cover.webp",
+      "bytes": 7252,
+      "sha256": "cdfac9f50a3262b939be7425ae08e2d820f6b3f8e0c74209eb7b8ef44d178f41",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_020": {
+      "foodId": "kr_ko_mr_020",
+      "title": "Egg and Vegetable Deopbap with Spinach",
+      "recipe": "recipes/kr_ko_mr_020/recipe.json",
+      "image": "recipes/kr_ko_mr_020/cover.webp",
+      "bytes": 7550,
+      "sha256": "3453b002ee730c0d7698c7f4ef40b7e6e8bfef1f28fb5b5aace79a04e1c48ce4",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_021": {
+      "foodId": "kr_ko_mr_021",
+      "title": "Egg and Vegetable Deopbap with Carrot",
+      "recipe": "recipes/kr_ko_mr_021/recipe.json",
+      "image": "recipes/kr_ko_mr_021/cover.webp",
+      "bytes": 7516,
+      "sha256": "c04b47801794abfbdad69b469da901d6f568706aa15ba96467d22a7317ef684c",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_022": {
+      "foodId": "kr_ko_mr_022",
+      "title": "Egg and Vegetable Deopbap with Ginger",
+      "recipe": "recipes/kr_ko_mr_022/recipe.json",
+      "image": "recipes/kr_ko_mr_022/cover.webp",
+      "bytes": 7978,
+      "sha256": "b68d0548d357ea046d1d55d4ccabcbbfa7f15547dc08a7d2aa233ca9123ed08e",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_023": {
+      "foodId": "kr_ko_mr_023",
+      "title": "Egg and Vegetable Deopbap with Tomato",
+      "recipe": "recipes/kr_ko_mr_023/recipe.json",
+      "image": "recipes/kr_ko_mr_023/cover.webp",
+      "bytes": 7522,
+      "sha256": "39d530fdd7a4adf4b6afe82b7a63a76f01494f98dbe18531c75723cdb9724ba9",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_024": {
+      "foodId": "kr_ko_mr_024",
+      "title": "Egg and Vegetable Deopbap with Fresh Herbs",
+      "recipe": "recipes/kr_ko_mr_024/recipe.json",
+      "image": "recipes/kr_ko_mr_024/cover.webp",
+      "bytes": 7688,
+      "sha256": "240a29d4ec27a16a88160c375dc66c5e6f15744668f64f7fb73796d6f00865e6",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_025": {
+      "foodId": "kr_ko_mr_025",
+      "title": "Beef Radish Rice Bowl",
+      "recipe": "recipes/kr_ko_mr_025/recipe.json",
+      "image": "recipes/kr_ko_mr_025/cover.webp",
+      "bytes": 7224,
+      "sha256": "9939df4a2402155d8ad5cf721cc6bfa735c3a097c0cc282502e3e6b979189b44",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_026": {
+      "foodId": "kr_ko_mr_026",
+      "title": "Beef Radish Rice Bowl with Spinach",
+      "recipe": "recipes/kr_ko_mr_026/recipe.json",
+      "image": "recipes/kr_ko_mr_026/cover.webp",
+      "bytes": 7712,
+      "sha256": "4abe213a56b129ebb627ab59bc33b9a37978d0e5b90247b0486672bdf9449c3c",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_027": {
+      "foodId": "kr_ko_mr_027",
+      "title": "Beef Radish Rice Bowl with Carrot",
+      "recipe": "recipes/kr_ko_mr_027/recipe.json",
+      "image": "recipes/kr_ko_mr_027/cover.webp",
+      "bytes": 7736,
+      "sha256": "e08c12effb5823c49a3161b367f5064c1f6d258f3c1aea1c7cf138b8c4abba99",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_028": {
+      "foodId": "kr_ko_mr_028",
+      "title": "Beef Radish Rice Bowl with Ginger",
+      "recipe": "recipes/kr_ko_mr_028/recipe.json",
+      "image": "recipes/kr_ko_mr_028/cover.webp",
+      "bytes": 7628,
+      "sha256": "ccfd35a4b342259e8633efd90cfe04666072556d06b5d6452b0ab067407b7e9a",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_029": {
+      "foodId": "kr_ko_mr_029",
+      "title": "Beef Radish Rice Bowl with Tomato",
+      "recipe": "recipes/kr_ko_mr_029/recipe.json",
+      "image": "recipes/kr_ko_mr_029/cover.webp",
+      "bytes": 7974,
+      "sha256": "de558d45777e7e0b1f672d8718e73a61d469798bb043b6e106984344681f0270",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_mr_030": {
+      "foodId": "kr_ko_mr_030",
+      "title": "Beef Radish Rice Bowl with Fresh Herbs",
+      "recipe": "recipes/kr_ko_mr_030/recipe.json",
+      "image": "recipes/kr_ko_mr_030/cover.webp",
+      "bytes": 7530,
+      "sha256": "ea1477312edd5fe81a196b3752aca11149596c1e02b1e2d9cf248220416050ae",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_001": {
+      "foodId": "kr_ko_hy_001",
+      "title": "Mild Miyeok Guk",
+      "recipe": "recipes/kr_ko_hy_001/recipe.json",
+      "image": "recipes/kr_ko_hy_001/cover.webp",
+      "bytes": 6378,
+      "sha256": "bf39cf6e7b40dddea620cc528e038b49e9eba8e71708aa6189f653b07d363101",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_002": {
+      "foodId": "kr_ko_hy_002",
+      "title": "Mild Miyeok Guk with Spinach",
+      "recipe": "recipes/kr_ko_hy_002/recipe.json",
+      "image": "recipes/kr_ko_hy_002/cover.webp",
+      "bytes": 6964,
+      "sha256": "aab6e99fc85b6e67ad6e6f684e060cee5bca2e8a9f743a70f74bd0faf89394a9",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_003": {
+      "foodId": "kr_ko_hy_003",
+      "title": "Mild Miyeok Guk with Carrot",
+      "recipe": "recipes/kr_ko_hy_003/recipe.json",
+      "image": "recipes/kr_ko_hy_003/cover.webp",
+      "bytes": 7004,
+      "sha256": "f72e8bf9bf654fb1840f32661dcca89cd31fc2acc04b0c4b8b179b2747f64b40",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_004": {
+      "foodId": "kr_ko_hy_004",
+      "title": "Mild Miyeok Guk with Ginger",
+      "recipe": "recipes/kr_ko_hy_004/recipe.json",
+      "image": "recipes/kr_ko_hy_004/cover.webp",
+      "bytes": 7112,
+      "sha256": "5a8363e9b611e88e12f9a55374a5929427e04fc7bee914c602e7ad0952c13ae9",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_005": {
+      "foodId": "kr_ko_hy_005",
+      "title": "Mild Miyeok Guk with Tomato",
+      "recipe": "recipes/kr_ko_hy_005/recipe.json",
+      "image": "recipes/kr_ko_hy_005/cover.webp",
+      "bytes": 7070,
+      "sha256": "c005d3d24429a7692196d1d6007a54d42bb3157caa987cbffe593fcf58c32466",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_006": {
+      "foodId": "kr_ko_hy_006",
+      "title": "Mild Miyeok Guk with Fresh Herbs",
+      "recipe": "recipes/kr_ko_hy_006/recipe.json",
+      "image": "recipes/kr_ko_hy_006/cover.webp",
+      "bytes": 7308,
+      "sha256": "36882b7c96a172e7c05b39bcde7ddb846753d69e52f90dacc3c48459c7705329",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_007": {
+      "foodId": "kr_ko_hy_007",
+      "title": "Kongnamul Guk",
+      "recipe": "recipes/kr_ko_hy_007/recipe.json",
+      "image": "recipes/kr_ko_hy_007/cover.webp",
+      "bytes": 6478,
+      "sha256": "cbfc764f52361329ca75802819a6488a54f308791c3006bf667a38ffaeda1fce",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_008": {
+      "foodId": "kr_ko_hy_008",
+      "title": "Kongnamul Guk with Spinach",
+      "recipe": "recipes/kr_ko_hy_008/recipe.json",
+      "image": "recipes/kr_ko_hy_008/cover.webp",
+      "bytes": 6860,
+      "sha256": "442054de3a24f5665d231ea4d5829091ce1c3bfd0e972a9a3a163512cd7ce9ed",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_009": {
+      "foodId": "kr_ko_hy_009",
+      "title": "Kongnamul Guk with Carrot",
+      "recipe": "recipes/kr_ko_hy_009/recipe.json",
+      "image": "recipes/kr_ko_hy_009/cover.webp",
+      "bytes": 6874,
+      "sha256": "ec119fa750696fb4d62e6965f394916a9af123d56013464c18731335e188f504",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_010": {
+      "foodId": "kr_ko_hy_010",
+      "title": "Kongnamul Guk with Ginger",
+      "recipe": "recipes/kr_ko_hy_010/recipe.json",
+      "image": "recipes/kr_ko_hy_010/cover.webp",
+      "bytes": 6786,
+      "sha256": "9b3f31501c9c4e2096da828413551687807e0cc59c27338bdc7f7e2d40bcc694",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_011": {
+      "foodId": "kr_ko_hy_011",
+      "title": "Kongnamul Guk with Tomato",
+      "recipe": "recipes/kr_ko_hy_011/recipe.json",
+      "image": "recipes/kr_ko_hy_011/cover.webp",
+      "bytes": 6858,
+      "sha256": "1d50f802c8d54a4bbaedf36a956b2bae4575451ccf4e4b69bd7bf41209c1f90e",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_012": {
+      "foodId": "kr_ko_hy_012",
+      "title": "Kongnamul Guk with Fresh Herbs",
+      "recipe": "recipes/kr_ko_hy_012/recipe.json",
+      "image": "recipes/kr_ko_hy_012/cover.webp",
+      "bytes": 7104,
+      "sha256": "bf6a467dd4b18682f5c19006de91200816781b9c116a16041c95f3f208831e56",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_013": {
+      "foodId": "kr_ko_hy_013",
+      "title": "Mushroom Clear Guk",
+      "recipe": "recipes/kr_ko_hy_013/recipe.json",
+      "image": "recipes/kr_ko_hy_013/cover.webp",
+      "bytes": 6524,
+      "sha256": "5dab2c7a99b1efeb6f6007dd099f824786691b9b7097d76f11c99be1666fd918",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_014": {
+      "foodId": "kr_ko_hy_014",
+      "title": "Mushroom Clear Guk with Spinach",
+      "recipe": "recipes/kr_ko_hy_014/recipe.json",
+      "image": "recipes/kr_ko_hy_014/cover.webp",
+      "bytes": 6906,
+      "sha256": "feb933e69e8341434a3d4f99c3e6ddb90a98342f57726e257f2792cc0825c231",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_015": {
+      "foodId": "kr_ko_hy_015",
+      "title": "Mushroom Clear Guk with Carrot",
+      "recipe": "recipes/kr_ko_hy_015/recipe.json",
+      "image": "recipes/kr_ko_hy_015/cover.webp",
+      "bytes": 7094,
+      "sha256": "171ccfa0b8149df60754e259f7f98b90b0152faf61b56016c344f32cfe43feab",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_016": {
+      "foodId": "kr_ko_hy_016",
+      "title": "Mushroom Clear Guk with Ginger",
+      "recipe": "recipes/kr_ko_hy_016/recipe.json",
+      "image": "recipes/kr_ko_hy_016/cover.webp",
+      "bytes": 7380,
+      "sha256": "99e3497bc9563603d312e78e64db283df0924b08cbfaa3a00d652fe61077c958",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_017": {
+      "foodId": "kr_ko_hy_017",
+      "title": "Mushroom Clear Guk with Tomato",
+      "recipe": "recipes/kr_ko_hy_017/recipe.json",
+      "image": "recipes/kr_ko_hy_017/cover.webp",
+      "bytes": 7124,
+      "sha256": "b19fc94f292e560cadd89cae87f35f0a663763829811e883053c802e7cbaaeb2",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_018": {
+      "foodId": "kr_ko_hy_018",
+      "title": "Mushroom Clear Guk with Fresh Herbs",
+      "recipe": "recipes/kr_ko_hy_018/recipe.json",
+      "image": "recipes/kr_ko_hy_018/cover.webp",
+      "bytes": 7376,
+      "sha256": "4fce5b744817b9a62959641a4581c2e87bf5bb634135c670a2a3ae820648c401",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_019": {
+      "foodId": "kr_ko_hy_019",
+      "title": "Radish Vegetable Soup",
+      "recipe": "recipes/kr_ko_hy_019/recipe.json",
+      "image": "recipes/kr_ko_hy_019/cover.webp",
+      "bytes": 6866,
+      "sha256": "15e18fb2e901e6facaeeb475733a751fc231f38d2fbf9d88849e2a93284c32e2",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_020": {
+      "foodId": "kr_ko_hy_020",
+      "title": "Radish Vegetable Soup with Spinach",
+      "recipe": "recipes/kr_ko_hy_020/recipe.json",
+      "image": "recipes/kr_ko_hy_020/cover.webp",
+      "bytes": 7222,
+      "sha256": "c951c0bae23476e55eaf2841093de461989278799213747941d839784153bc7a",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_021": {
+      "foodId": "kr_ko_hy_021",
+      "title": "Radish Vegetable Soup with Carrot",
+      "recipe": "recipes/kr_ko_hy_021/recipe.json",
+      "image": "recipes/kr_ko_hy_021/cover.webp",
+      "bytes": 7136,
+      "sha256": "97516f3b0547c1db5bd451146f9a89b2245bb52e3802f448b20daa933f2f07f6",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_022": {
+      "foodId": "kr_ko_hy_022",
+      "title": "Radish Vegetable Soup with Ginger",
+      "recipe": "recipes/kr_ko_hy_022/recipe.json",
+      "image": "recipes/kr_ko_hy_022/cover.webp",
+      "bytes": 7354,
+      "sha256": "dd9867befdd5deae4ba51097a935c331a097838e77ca818bcb3155bf94c2e955",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_023": {
+      "foodId": "kr_ko_hy_023",
+      "title": "Radish Vegetable Soup with Tomato",
+      "recipe": "recipes/kr_ko_hy_023/recipe.json",
+      "image": "recipes/kr_ko_hy_023/cover.webp",
+      "bytes": 7438,
+      "sha256": "f45522b4d1f0e296629cc3bfa3f87b7160a80ea05389927139aecee4b47bfe64",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_024": {
+      "foodId": "kr_ko_hy_024",
+      "title": "Radish Vegetable Soup with Fresh Herbs",
+      "recipe": "recipes/kr_ko_hy_024/recipe.json",
+      "image": "recipes/kr_ko_hy_024/cover.webp",
+      "bytes": 7478,
+      "sha256": "84971623d6cc86a0137645ea4aeae84476432da83635e9b2dfab0d3a44edb0de",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_025": {
+      "foodId": "kr_ko_hy_025",
+      "title": "Tofu Spinach Guk",
+      "recipe": "recipes/kr_ko_hy_025/recipe.json",
+      "image": "recipes/kr_ko_hy_025/cover.webp",
+      "bytes": 6480,
+      "sha256": "f03e8a2bbbf1ed0839ba6cb5fc068c890413fd69cf4643bb47a834b822fba9a8",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_026": {
+      "foodId": "kr_ko_hy_026",
+      "title": "Tofu Spinach Guk with Spinach",
+      "recipe": "recipes/kr_ko_hy_026/recipe.json",
+      "image": "recipes/kr_ko_hy_026/cover.webp",
+      "bytes": 7248,
+      "sha256": "900ff81c88d2214ca514d16f9173c4a78b09cc8050fa842175ace743537d0a4a",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_027": {
+      "foodId": "kr_ko_hy_027",
+      "title": "Tofu Spinach Guk with Carrot",
+      "recipe": "recipes/kr_ko_hy_027/recipe.json",
+      "image": "recipes/kr_ko_hy_027/cover.webp",
+      "bytes": 7118,
+      "sha256": "a3995e8f7c7dd94cd7755b8c3348b50cece029fd7e97bb352dfc87bb9f58df02",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_028": {
+      "foodId": "kr_ko_hy_028",
+      "title": "Tofu Spinach Guk with Ginger",
+      "recipe": "recipes/kr_ko_hy_028/recipe.json",
+      "image": "recipes/kr_ko_hy_028/cover.webp",
+      "bytes": 6966,
+      "sha256": "f0cb9eb42833c9800ebf0a1ba4f2a4f113ea1ee2f34b7d3c63a6e401ecc101aa",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_029": {
+      "foodId": "kr_ko_hy_029",
+      "title": "Tofu Spinach Guk with Tomato",
+      "recipe": "recipes/kr_ko_hy_029/recipe.json",
+      "image": "recipes/kr_ko_hy_029/cover.webp",
+      "bytes": 7216,
+      "sha256": "b020950df4613798d992c9ba70211dde2f4efc5b4d880b5126cb309ff5c48f5e",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_hy_030": {
+      "foodId": "kr_ko_hy_030",
+      "title": "Tofu Spinach Guk with Fresh Herbs",
+      "recipe": "recipes/kr_ko_hy_030/recipe.json",
+      "image": "recipes/kr_ko_hy_030/cover.webp",
+      "bytes": 7208,
+      "sha256": "45ba78f1dabd438f4a3ece7a7d8be1961d075e32cc209f6aa151e5d63af94613",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_001": {
+      "foodId": "kr_ko_ld_001",
+      "title": "Rice Vegetable Juk",
+      "recipe": "recipes/kr_ko_ld_001/recipe.json",
+      "image": "recipes/kr_ko_ld_001/cover.webp",
+      "bytes": 7086,
+      "sha256": "31fce218f0359730ab04967beccf21bcb480c2276ecdb4e026b1beb004e5d28d",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_002": {
+      "foodId": "kr_ko_ld_002",
+      "title": "Rice Vegetable Juk with Spinach",
+      "recipe": "recipes/kr_ko_ld_002/recipe.json",
+      "image": "recipes/kr_ko_ld_002/cover.webp",
+      "bytes": 7332,
+      "sha256": "7f0de1cb5d0a34d386776d85c6badf6a26a7061450962c30210efea2a89022a5",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_003": {
+      "foodId": "kr_ko_ld_003",
+      "title": "Rice Vegetable Juk with Carrot",
+      "recipe": "recipes/kr_ko_ld_003/recipe.json",
+      "image": "recipes/kr_ko_ld_003/cover.webp",
+      "bytes": 7582,
+      "sha256": "c9f8f6bc1931163e7dd6f3b63ea4a9202eaae7571dfd5f56b707a03ca028f286",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_004": {
+      "foodId": "kr_ko_ld_004",
+      "title": "Rice Vegetable Juk with Ginger",
+      "recipe": "recipes/kr_ko_ld_004/recipe.json",
+      "image": "recipes/kr_ko_ld_004/cover.webp",
+      "bytes": 7648,
+      "sha256": "ca8375f372ec76a650290bb12a1ad7ac088198a3741c23042502b79f5db64436",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_005": {
+      "foodId": "kr_ko_ld_005",
+      "title": "Rice Vegetable Juk with Tomato",
+      "recipe": "recipes/kr_ko_ld_005/recipe.json",
+      "image": "recipes/kr_ko_ld_005/cover.webp",
+      "bytes": 7740,
+      "sha256": "441517fe3b22d1e13d19902d2d36df0aeb7424c77cfb1924238ad52b5cb1c237",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_006": {
+      "foodId": "kr_ko_ld_006",
+      "title": "Rice Vegetable Juk with Fresh Herbs",
+      "recipe": "recipes/kr_ko_ld_006/recipe.json",
+      "image": "recipes/kr_ko_ld_006/cover.webp",
+      "bytes": 7602,
+      "sha256": "d315eb011233bc19c623ba4afc53c9eb50093f57bf29ce92341254a12d451c95",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_007": {
+      "foodId": "kr_ko_ld_007",
+      "title": "Steamed Egg and Rice",
+      "recipe": "recipes/kr_ko_ld_007/recipe.json",
+      "image": "recipes/kr_ko_ld_007/cover.webp",
+      "bytes": 6916,
+      "sha256": "eb6340d367a8f0d8939ecb76f934ecbb50c5fe62003d23a1f7810eeba25974ff",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_008": {
+      "foodId": "kr_ko_ld_008",
+      "title": "Steamed Egg and Rice with Spinach",
+      "recipe": "recipes/kr_ko_ld_008/recipe.json",
+      "image": "recipes/kr_ko_ld_008/cover.webp",
+      "bytes": 7662,
+      "sha256": "4457a3471fa8499dc6b6f099de49d332ee4b585351553ca3419dc18578a8cf70",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_009": {
+      "foodId": "kr_ko_ld_009",
+      "title": "Steamed Egg and Rice with Carrot",
+      "recipe": "recipes/kr_ko_ld_009/recipe.json",
+      "image": "recipes/kr_ko_ld_009/cover.webp",
+      "bytes": 7406,
+      "sha256": "a751601a5f538ca06dc7385cd6aa46ba82a1768e7a6052dfa8c3b0ad6f3a98d0",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_010": {
+      "foodId": "kr_ko_ld_010",
+      "title": "Steamed Egg and Rice with Ginger",
+      "recipe": "recipes/kr_ko_ld_010/recipe.json",
+      "image": "recipes/kr_ko_ld_010/cover.webp",
+      "bytes": 7662,
+      "sha256": "6d706e37f39ae86d3fb86a166d40da6da8b00425419366ea01ba49145001e487",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_011": {
+      "foodId": "kr_ko_ld_011",
+      "title": "Steamed Egg and Rice with Tomato",
+      "recipe": "recipes/kr_ko_ld_011/recipe.json",
+      "image": "recipes/kr_ko_ld_011/cover.webp",
+      "bytes": 7784,
+      "sha256": "8875ca8a4fd43c443bf3384a300f2f9cec33f36983c7da283c017cf866122a5c",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_012": {
+      "foodId": "kr_ko_ld_012",
+      "title": "Steamed Egg and Rice with Fresh Herbs",
+      "recipe": "recipes/kr_ko_ld_012/recipe.json",
+      "image": "recipes/kr_ko_ld_012/cover.webp",
+      "bytes": 8054,
+      "sha256": "885ad9a5ac355ef2e2faecb01d9486232144e24295578ff68e2f575cae8162c6",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_013": {
+      "foodId": "kr_ko_ld_013",
+      "title": "Soft Tofu Soup",
+      "recipe": "recipes/kr_ko_ld_013/recipe.json",
+      "image": "recipes/kr_ko_ld_013/cover.webp",
+      "bytes": 6354,
+      "sha256": "abb560db2ee29df36e6aa10da81f81d74967f08a67c93c7a92888547dd433b25",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_014": {
+      "foodId": "kr_ko_ld_014",
+      "title": "Soft Tofu Soup with Spinach",
+      "recipe": "recipes/kr_ko_ld_014/recipe.json",
+      "image": "recipes/kr_ko_ld_014/cover.webp",
+      "bytes": 7090,
+      "sha256": "fc624c73000c2110127d151f5a0cb01133c93f046c34b48c86abfb362ab0100a",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_015": {
+      "foodId": "kr_ko_ld_015",
+      "title": "Soft Tofu Soup with Carrot",
+      "recipe": "recipes/kr_ko_ld_015/recipe.json",
+      "image": "recipes/kr_ko_ld_015/cover.webp",
+      "bytes": 6714,
+      "sha256": "c5f67accdb6a774cd7e92f0c48c66b21f561902a2cc3283bc99eac55400ea6c1",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_016": {
+      "foodId": "kr_ko_ld_016",
+      "title": "Soft Tofu Soup with Ginger",
+      "recipe": "recipes/kr_ko_ld_016/recipe.json",
+      "image": "recipes/kr_ko_ld_016/cover.webp",
+      "bytes": 6874,
+      "sha256": "db426203ebbbb16ae6cf0de4f44566ed2c675b4a17c9ff4d59220368722cc249",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_017": {
+      "foodId": "kr_ko_ld_017",
+      "title": "Soft Tofu Soup with Tomato",
+      "recipe": "recipes/kr_ko_ld_017/recipe.json",
+      "image": "recipes/kr_ko_ld_017/cover.webp",
+      "bytes": 6942,
+      "sha256": "f5fc75bd57dc9383998940b93a4c9ed547e84b7e0e1c482c9c1cb4ad4a0110b1",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_018": {
+      "foodId": "kr_ko_ld_018",
+      "title": "Soft Tofu Soup with Fresh Herbs",
+      "recipe": "recipes/kr_ko_ld_018/recipe.json",
+      "image": "recipes/kr_ko_ld_018/cover.webp",
+      "bytes": 7000,
+      "sha256": "e5af4a87d3245b672fd723ce2db12f73bc7e85e9273c6835e1263f813c692522",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_019": {
+      "foodId": "kr_ko_ld_019",
+      "title": "Mild Pumpkin Porridge",
+      "recipe": "recipes/kr_ko_ld_019/recipe.json",
+      "image": "recipes/kr_ko_ld_019/cover.webp",
+      "bytes": 7102,
+      "sha256": "44639a34f95a6419023787538f54bbd95572a1d642a13a9fed5574a71ac7ff03",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_020": {
+      "foodId": "kr_ko_ld_020",
+      "title": "Mild Pumpkin Porridge with Spinach",
+      "recipe": "recipes/kr_ko_ld_020/recipe.json",
+      "image": "recipes/kr_ko_ld_020/cover.webp",
+      "bytes": 7488,
+      "sha256": "d3668a9277f881e52dc1e253ee02f0f4691aedc944214d2d37b4faa61c7e4515",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_021": {
+      "foodId": "kr_ko_ld_021",
+      "title": "Mild Pumpkin Porridge with Carrot",
+      "recipe": "recipes/kr_ko_ld_021/recipe.json",
+      "image": "recipes/kr_ko_ld_021/cover.webp",
+      "bytes": 7974,
+      "sha256": "8e7e1f114211b6e1f378425d03d3b8c866e07c54fe629d2003f8d530c129de7c",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_022": {
+      "foodId": "kr_ko_ld_022",
+      "title": "Mild Pumpkin Porridge with Ginger",
+      "recipe": "recipes/kr_ko_ld_022/recipe.json",
+      "image": "recipes/kr_ko_ld_022/cover.webp",
+      "bytes": 7770,
+      "sha256": "bd2f8b1a6e3b33a7ba039c02e2d28e18a43ddbea062cf0764e7770b77d188116",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_023": {
+      "foodId": "kr_ko_ld_023",
+      "title": "Mild Pumpkin Porridge with Tomato",
+      "recipe": "recipes/kr_ko_ld_023/recipe.json",
+      "image": "recipes/kr_ko_ld_023/cover.webp",
+      "bytes": 7708,
+      "sha256": "4e89087db86d39dd9ef58d06ec3196f335a23cedc044d839c4a2c858930442a2",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_024": {
+      "foodId": "kr_ko_ld_024",
+      "title": "Mild Pumpkin Porridge with Fresh Herbs",
+      "recipe": "recipes/kr_ko_ld_024/recipe.json",
+      "image": "recipes/kr_ko_ld_024/cover.webp",
+      "bytes": 7662,
+      "sha256": "67948582b1c67a91e5b8140fc55e188b5414a2da0506dcf6539e3f86bf222813",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_025": {
+      "foodId": "kr_ko_ld_025",
+      "title": "Light Spinach Doenjang Soup",
+      "recipe": "recipes/kr_ko_ld_025/recipe.json",
+      "image": "recipes/kr_ko_ld_025/cover.webp",
+      "bytes": 6824,
+      "sha256": "4b6c89e41e1c5a5d2f21cfa539d3ef159e1608e1ef03968a086f2f2926b30a12",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_026": {
+      "foodId": "kr_ko_ld_026",
+      "title": "Light Spinach Doenjang Soup with Spinach",
+      "recipe": "recipes/kr_ko_ld_026/recipe.json",
+      "image": "recipes/kr_ko_ld_026/cover.webp",
+      "bytes": 7546,
+      "sha256": "30c1eb02b2555be77fc7abae4f5f6312459ab8c19f5c4bd6e44516ff69bb4508",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_027": {
+      "foodId": "kr_ko_ld_027",
+      "title": "Light Spinach Doenjang Soup with Carrot",
+      "recipe": "recipes/kr_ko_ld_027/recipe.json",
+      "image": "recipes/kr_ko_ld_027/cover.webp",
+      "bytes": 7470,
+      "sha256": "8256c6b967f9f0ba51492f1d0a5defb4a1e414dcd969640b2ec40c2dc030b7dc",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_028": {
+      "foodId": "kr_ko_ld_028",
+      "title": "Light Spinach Doenjang Soup with Ginger",
+      "recipe": "recipes/kr_ko_ld_028/recipe.json",
+      "image": "recipes/kr_ko_ld_028/cover.webp",
+      "bytes": 7698,
+      "sha256": "12e1ee6c3332d3f83c4852870175efe8a979ed6e352d4396c1a9ac1bc9139e74",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_029": {
+      "foodId": "kr_ko_ld_029",
+      "title": "Light Spinach Doenjang Soup with Tomato",
+      "recipe": "recipes/kr_ko_ld_029/recipe.json",
+      "image": "recipes/kr_ko_ld_029/cover.webp",
+      "bytes": 7570,
+      "sha256": "d744b545eb06f3ff79d4ef87d808c40ec2076f45aa0b194bac72a712590019c5",
+      "kind": "labeled_illustration"
+    },
+    "kr_ko_ld_030": {
+      "foodId": "kr_ko_ld_030",
+      "title": "Light Spinach Doenjang Soup with Fresh Herbs",
+      "recipe": "recipes/kr_ko_ld_030/recipe.json",
+      "image": "recipes/kr_ko_ld_030/cover.webp",
+      "bytes": 7788,
+      "sha256": "0025af00d0767ad8c8fd1f6b505933fc5b1b8638004ee475ddce7671556f7ea5",
+      "kind": "labeled_illustration"
+    }
+  }
+}

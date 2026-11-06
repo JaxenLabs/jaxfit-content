@@ -1,0 +1,1086 @@
+{
+  "locale": "br",
+  "imageType": "labeled_illustration",
+  "assets": {
+    "br_la_wo_001": {
+      "foodId": "br_la_wo_001",
+      "title": "Mingau de Aveia",
+      "recipe": "recipes/br_la_wo_001/recipe.json",
+      "image": "recipes/br_la_wo_001/cover.webp",
+      "bytes": 6674,
+      "sha256": "6815354076b1bb1388cf87dccc13e79a6e84cc3584d91f17a365583ea6eb2f5c",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_002": {
+      "foodId": "br_la_wo_002",
+      "title": "Mingau de Aveia with Spinach",
+      "recipe": "recipes/br_la_wo_002/recipe.json",
+      "image": "recipes/br_la_wo_002/cover.webp",
+      "bytes": 7246,
+      "sha256": "d5d99ac38b5f5ca1cdadffa0084a35b44bbd40fd050a5470a27d2fe6ca6cad18",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_003": {
+      "foodId": "br_la_wo_003",
+      "title": "Mingau de Aveia with Carrot",
+      "recipe": "recipes/br_la_wo_003/recipe.json",
+      "image": "recipes/br_la_wo_003/cover.webp",
+      "bytes": 7352,
+      "sha256": "c1bcd7618f4d5917ef22a538c75febfb61b86d311c2118d63f67fcf5b9402f87",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_004": {
+      "foodId": "br_la_wo_004",
+      "title": "Mingau de Aveia with Ginger",
+      "recipe": "recipes/br_la_wo_004/recipe.json",
+      "image": "recipes/br_la_wo_004/cover.webp",
+      "bytes": 7020,
+      "sha256": "80fbd0e8a6bf6cb99dacb3942d790aa9f7fa140ab569f2544905ef36b2d2d156",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_005": {
+      "foodId": "br_la_wo_005",
+      "title": "Mingau de Aveia with Tomato",
+      "recipe": "recipes/br_la_wo_005/recipe.json",
+      "image": "recipes/br_la_wo_005/cover.webp",
+      "bytes": 7446,
+      "sha256": "570d66a7dc4e5f7875ca5006f40d1d2001bdf1bada8420b765e06ee79009843d",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_006": {
+      "foodId": "br_la_wo_006",
+      "title": "Mingau de Aveia with Fresh Herbs",
+      "recipe": "recipes/br_la_wo_006/recipe.json",
+      "image": "recipes/br_la_wo_006/cover.webp",
+      "bytes": 7328,
+      "sha256": "888a69baff6bff7ce5acf2c6b0c23fd4ce9112b366da83ee1710300fd7fc05ea",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_007": {
+      "foodId": "br_la_wo_007",
+      "title": "Soft Tapioca with Egg",
+      "recipe": "recipes/br_la_wo_007/recipe.json",
+      "image": "recipes/br_la_wo_007/cover.webp",
+      "bytes": 6052,
+      "sha256": "64405bcde5820862bb06aae325e490e06b96aa4975e9cc94e186c9976603b83e",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_008": {
+      "foodId": "br_la_wo_008",
+      "title": "Soft Tapioca with Egg with Spinach",
+      "recipe": "recipes/br_la_wo_008/recipe.json",
+      "image": "recipes/br_la_wo_008/cover.webp",
+      "bytes": 6344,
+      "sha256": "d0baf8d2ce1525de4c7e448a082bcc59d1db899541f0590cd73c647699a07cd3",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_009": {
+      "foodId": "br_la_wo_009",
+      "title": "Soft Tapioca with Egg with Carrot",
+      "recipe": "recipes/br_la_wo_009/recipe.json",
+      "image": "recipes/br_la_wo_009/cover.webp",
+      "bytes": 6602,
+      "sha256": "c60a77716e0a80e67728d8826d7510db25b476b4e49b5b66ece8192ae61a2395",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_010": {
+      "foodId": "br_la_wo_010",
+      "title": "Soft Tapioca with Egg with Ginger",
+      "recipe": "recipes/br_la_wo_010/recipe.json",
+      "image": "recipes/br_la_wo_010/cover.webp",
+      "bytes": 6332,
+      "sha256": "a4e0272b9130f6f667a81e56fb996b792c422c9b8b3a1589dc7b3b2b6d55a51c",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_011": {
+      "foodId": "br_la_wo_011",
+      "title": "Soft Tapioca with Egg with Tomato",
+      "recipe": "recipes/br_la_wo_011/recipe.json",
+      "image": "recipes/br_la_wo_011/cover.webp",
+      "bytes": 6492,
+      "sha256": "c203f32f16c7daa7db3e35037203d1f9f5edf54b4bdd8cc3bfade40e0dca84df",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_012": {
+      "foodId": "br_la_wo_012",
+      "title": "Soft Tapioca with Egg with Fresh Herbs",
+      "recipe": "recipes/br_la_wo_012/recipe.json",
+      "image": "recipes/br_la_wo_012/cover.webp",
+      "bytes": 7010,
+      "sha256": "ede00236a8b51e3ab2ca5231eb4e0c25c6dafbcbc1b32239fffd4b3110cbdf4d",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_013": {
+      "foodId": "br_la_wo_013",
+      "title": "Canja Light Rice Soup",
+      "recipe": "recipes/br_la_wo_013/recipe.json",
+      "image": "recipes/br_la_wo_013/cover.webp",
+      "bytes": 6620,
+      "sha256": "f5c8b9978b476dfa8f2d77cf0f04156ae4fef98b04f40921c57f333fa741617e",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_014": {
+      "foodId": "br_la_wo_014",
+      "title": "Canja Light Rice Soup with Spinach",
+      "recipe": "recipes/br_la_wo_014/recipe.json",
+      "image": "recipes/br_la_wo_014/cover.webp",
+      "bytes": 7056,
+      "sha256": "a3cf24826530c366fe71d1f70f17bc1c898e2cc21323d4933ff5e6f58b3c1379",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_015": {
+      "foodId": "br_la_wo_015",
+      "title": "Canja Light Rice Soup with Carrot",
+      "recipe": "recipes/br_la_wo_015/recipe.json",
+      "image": "recipes/br_la_wo_015/cover.webp",
+      "bytes": 7332,
+      "sha256": "9bc4e99a247da92ecf0ff23d0e1a31ca9abf2a130da67b100014cb1f74b8d700",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_016": {
+      "foodId": "br_la_wo_016",
+      "title": "Canja Light Rice Soup with Ginger",
+      "recipe": "recipes/br_la_wo_016/recipe.json",
+      "image": "recipes/br_la_wo_016/cover.webp",
+      "bytes": 7164,
+      "sha256": "f0d9d5b81f2d940fe5e0a1035279fde12c7745d5245fc90da999f3b278e72504",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_017": {
+      "foodId": "br_la_wo_017",
+      "title": "Canja Light Rice Soup with Tomato",
+      "recipe": "recipes/br_la_wo_017/recipe.json",
+      "image": "recipes/br_la_wo_017/cover.webp",
+      "bytes": 6924,
+      "sha256": "49af75d92291e06613a54c0a362364bb8f138f4612b9b06b8aad6e9dfa6cc8f4",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_018": {
+      "foodId": "br_la_wo_018",
+      "title": "Canja Light Rice Soup with Fresh Herbs",
+      "recipe": "recipes/br_la_wo_018/recipe.json",
+      "image": "recipes/br_la_wo_018/cover.webp",
+      "bytes": 7708,
+      "sha256": "c77596027e4962270287daf77416283026af708e1490e593139f4305c1b641d0",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_019": {
+      "foodId": "br_la_wo_019",
+      "title": "Mashed Pumpkin Bowl",
+      "recipe": "recipes/br_la_wo_019/recipe.json",
+      "image": "recipes/br_la_wo_019/cover.webp",
+      "bytes": 7076,
+      "sha256": "f441fc2ce9eda82f7afcbef5c56e58dffcddf137f3f6f72725ff21a262474a3e",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_020": {
+      "foodId": "br_la_wo_020",
+      "title": "Mashed Pumpkin Bowl with Spinach",
+      "recipe": "recipes/br_la_wo_020/recipe.json",
+      "image": "recipes/br_la_wo_020/cover.webp",
+      "bytes": 7362,
+      "sha256": "8fcc997200ef5c17cf96469d58e55e104217da1eaebda8e0e049aa537173f736",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_021": {
+      "foodId": "br_la_wo_021",
+      "title": "Mashed Pumpkin Bowl with Carrot",
+      "recipe": "recipes/br_la_wo_021/recipe.json",
+      "image": "recipes/br_la_wo_021/cover.webp",
+      "bytes": 7418,
+      "sha256": "2effa47bb7d2d349ffb42dd84db0742ccfa365aa238bd167387a87310dfe1d02",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_022": {
+      "foodId": "br_la_wo_022",
+      "title": "Mashed Pumpkin Bowl with Ginger",
+      "recipe": "recipes/br_la_wo_022/recipe.json",
+      "image": "recipes/br_la_wo_022/cover.webp",
+      "bytes": 7536,
+      "sha256": "fa361c3835e93a7fc4d91a55dcd141b81879b428c49285d3a0486809000be01d",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_023": {
+      "foodId": "br_la_wo_023",
+      "title": "Mashed Pumpkin Bowl with Tomato",
+      "recipe": "recipes/br_la_wo_023/recipe.json",
+      "image": "recipes/br_la_wo_023/cover.webp",
+      "bytes": 7394,
+      "sha256": "52d195a572aa2084f7befa6c3b111684a30efc3038003ea665cb126a82265c79",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_024": {
+      "foodId": "br_la_wo_024",
+      "title": "Mashed Pumpkin Bowl with Fresh Herbs",
+      "recipe": "recipes/br_la_wo_024/recipe.json",
+      "image": "recipes/br_la_wo_024/cover.webp",
+      "bytes": 7584,
+      "sha256": "e95a213b3ab618ec4c69d3a24eb8bf8802352afeeba2ace2c64c8748e1482858",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_025": {
+      "foodId": "br_la_wo_025",
+      "title": "Yogurt and Papaya Oats",
+      "recipe": "recipes/br_la_wo_025/recipe.json",
+      "image": "recipes/br_la_wo_025/cover.webp",
+      "bytes": 6996,
+      "sha256": "3b1f8b91595e7711b7f10127421eb68cfbc8653ffcaf2cc1c55493bf2b714c68",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_026": {
+      "foodId": "br_la_wo_026",
+      "title": "Yogurt and Papaya Oats with Spinach",
+      "recipe": "recipes/br_la_wo_026/recipe.json",
+      "image": "recipes/br_la_wo_026/cover.webp",
+      "bytes": 7292,
+      "sha256": "bd8d693aa3ac5cd6b7d0356321396a3e21eeb9a6a5e6ca59251a4ae4547bde25",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_027": {
+      "foodId": "br_la_wo_027",
+      "title": "Yogurt and Papaya Oats with Carrot",
+      "recipe": "recipes/br_la_wo_027/recipe.json",
+      "image": "recipes/br_la_wo_027/cover.webp",
+      "bytes": 7754,
+      "sha256": "d2bc29b57aaba5ccdf93547683fa609da0d231e9323aaef36935fb0d36824f20",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_028": {
+      "foodId": "br_la_wo_028",
+      "title": "Yogurt and Papaya Oats with Ginger",
+      "recipe": "recipes/br_la_wo_028/recipe.json",
+      "image": "recipes/br_la_wo_028/cover.webp",
+      "bytes": 7684,
+      "sha256": "4a3a4dd72bceda70aa2095e5d87239dcf3431885c7090edd85f13877e615b2e6",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_029": {
+      "foodId": "br_la_wo_029",
+      "title": "Yogurt and Papaya Oats with Tomato",
+      "recipe": "recipes/br_la_wo_029/recipe.json",
+      "image": "recipes/br_la_wo_029/cover.webp",
+      "bytes": 7312,
+      "sha256": "5fa47ed1617a528fcbd319240c54ff3f2d2e48a18da22b6d55e2892692197b28",
+      "kind": "labeled_illustration"
+    },
+    "br_la_wo_030": {
+      "foodId": "br_la_wo_030",
+      "title": "Yogurt and Papaya Oats with Fresh Herbs",
+      "recipe": "recipes/br_la_wo_030/recipe.json",
+      "image": "recipes/br_la_wo_030/cover.webp",
+      "bytes": 7514,
+      "sha256": "67c9a17b8ecf5f7a3cc97849e7a809a5b7db765b4dd8cabec3e72623f0992c96",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_001": {
+      "foodId": "br_la_mr_001",
+      "title": "Grilled Fish with Rice",
+      "recipe": "recipes/br_la_mr_001/recipe.json",
+      "image": "recipes/br_la_mr_001/cover.webp",
+      "bytes": 6464,
+      "sha256": "f918559c877b4710beb225ff287c5c9aa65e5cc58899d57d3578ae52a56696ae",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_002": {
+      "foodId": "br_la_mr_002",
+      "title": "Grilled Fish with Rice with Spinach",
+      "recipe": "recipes/br_la_mr_002/recipe.json",
+      "image": "recipes/br_la_mr_002/cover.webp",
+      "bytes": 7654,
+      "sha256": "010d5ce6693fb3309506262b6793512aa26c0cff89cfcc078a88acf47a91a528",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_003": {
+      "foodId": "br_la_mr_003",
+      "title": "Grilled Fish with Rice with Carrot",
+      "recipe": "recipes/br_la_mr_003/recipe.json",
+      "image": "recipes/br_la_mr_003/cover.webp",
+      "bytes": 7216,
+      "sha256": "be6df4899decb6274f8b9692050059d3f7a00761a431a1f2ed677a67bf531c8e",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_004": {
+      "foodId": "br_la_mr_004",
+      "title": "Grilled Fish with Rice with Ginger",
+      "recipe": "recipes/br_la_mr_004/recipe.json",
+      "image": "recipes/br_la_mr_004/cover.webp",
+      "bytes": 7386,
+      "sha256": "6a88770c871668f1aed77fc6740f51e31e4ad4f1226b11a312752c8d2eeb858f",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_005": {
+      "foodId": "br_la_mr_005",
+      "title": "Grilled Fish with Rice with Tomato",
+      "recipe": "recipes/br_la_mr_005/recipe.json",
+      "image": "recipes/br_la_mr_005/cover.webp",
+      "bytes": 7202,
+      "sha256": "a73bdf7ffd3cf4367db966367d697a50d2a720f77e5b944ab25b9f6c8a8390fd",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_006": {
+      "foodId": "br_la_mr_006",
+      "title": "Grilled Fish with Rice with Fresh Herbs",
+      "recipe": "recipes/br_la_mr_006/recipe.json",
+      "image": "recipes/br_la_mr_006/cover.webp",
+      "bytes": 7738,
+      "sha256": "2ef83e20615808bdacdacc795493f160adf593f96daf51ddf09e24955a7fbe70",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_007": {
+      "foodId": "br_la_mr_007",
+      "title": "Chicken and Black Beans",
+      "recipe": "recipes/br_la_mr_007/recipe.json",
+      "image": "recipes/br_la_mr_007/cover.webp",
+      "bytes": 6608,
+      "sha256": "22ecce5c59e51629c9febf309d354864d0c47b610504317f7a9d2ce0a2ed60da",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_008": {
+      "foodId": "br_la_mr_008",
+      "title": "Chicken and Black Beans with Spinach",
+      "recipe": "recipes/br_la_mr_008/recipe.json",
+      "image": "recipes/br_la_mr_008/cover.webp",
+      "bytes": 7674,
+      "sha256": "dad669fca8b5f3e61e0295cddafc9e84b8e6821675883679c20077a8bb382952",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_009": {
+      "foodId": "br_la_mr_009",
+      "title": "Chicken and Black Beans with Carrot",
+      "recipe": "recipes/br_la_mr_009/recipe.json",
+      "image": "recipes/br_la_mr_009/cover.webp",
+      "bytes": 7396,
+      "sha256": "604f4a815b0b53681ee95ade14ff2f3e09d3a371e7fdbdb516d76a5343b82b0d",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_010": {
+      "foodId": "br_la_mr_010",
+      "title": "Chicken and Black Beans with Ginger",
+      "recipe": "recipes/br_la_mr_010/recipe.json",
+      "image": "recipes/br_la_mr_010/cover.webp",
+      "bytes": 7208,
+      "sha256": "6ac88f5300e7f3351924217934fada1e1a95f6f40e557fc18b3fad902896c2ca",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_011": {
+      "foodId": "br_la_mr_011",
+      "title": "Chicken and Black Beans with Tomato",
+      "recipe": "recipes/br_la_mr_011/recipe.json",
+      "image": "recipes/br_la_mr_011/cover.webp",
+      "bytes": 6904,
+      "sha256": "e264ea82e690e3fbdb22762a4ac856e9a348b0672781049ea6859ecc7c2cadd2",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_012": {
+      "foodId": "br_la_mr_012",
+      "title": "Chicken and Black Beans with Fresh Herbs",
+      "recipe": "recipes/br_la_mr_012/recipe.json",
+      "image": "recipes/br_la_mr_012/cover.webp",
+      "bytes": 8022,
+      "sha256": "910770f85d2986842a9350b939cf0495c42b3eafb40dd1ddd7c7727ac95d8f82",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_013": {
+      "foodId": "br_la_mr_013",
+      "title": "Feijao and Brown Rice",
+      "recipe": "recipes/br_la_mr_013/recipe.json",
+      "image": "recipes/br_la_mr_013/cover.webp",
+      "bytes": 6716,
+      "sha256": "c0b004b8a6c9d575d0f09b437070092df027425fb41b39bd1733495cedc72891",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_014": {
+      "foodId": "br_la_mr_014",
+      "title": "Feijao and Brown Rice with Spinach",
+      "recipe": "recipes/br_la_mr_014/recipe.json",
+      "image": "recipes/br_la_mr_014/cover.webp",
+      "bytes": 7618,
+      "sha256": "158f31e233684336205077ddb87f2f217ac42a29a2be95bdf9ec14dfbda8d876",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_015": {
+      "foodId": "br_la_mr_015",
+      "title": "Feijao and Brown Rice with Carrot",
+      "recipe": "recipes/br_la_mr_015/recipe.json",
+      "image": "recipes/br_la_mr_015/cover.webp",
+      "bytes": 7092,
+      "sha256": "df02d8bffad957a0d8a595edc8c58854c49618ed701e930700703b07e6c422e1",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_016": {
+      "foodId": "br_la_mr_016",
+      "title": "Feijao and Brown Rice with Ginger",
+      "recipe": "recipes/br_la_mr_016/recipe.json",
+      "image": "recipes/br_la_mr_016/cover.webp",
+      "bytes": 7134,
+      "sha256": "36773723852a29f7e96258169600e195919995f6964c0f7b8272d05fbf217e06",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_017": {
+      "foodId": "br_la_mr_017",
+      "title": "Feijao and Brown Rice with Tomato",
+      "recipe": "recipes/br_la_mr_017/recipe.json",
+      "image": "recipes/br_la_mr_017/cover.webp",
+      "bytes": 7696,
+      "sha256": "d2352a0d57d841ed906f435a8c64772d142d7697f9e816c49d2f6fa57d83fc1c",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_018": {
+      "foodId": "br_la_mr_018",
+      "title": "Feijao and Brown Rice with Fresh Herbs",
+      "recipe": "recipes/br_la_mr_018/recipe.json",
+      "image": "recipes/br_la_mr_018/cover.webp",
+      "bytes": 7890,
+      "sha256": "61128351a7272d9360605b108ba5a03a7aeff841760914eb15337a4037e9b54e",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_019": {
+      "foodId": "br_la_mr_019",
+      "title": "Tofu Farofa Vegetable Bowl",
+      "recipe": "recipes/br_la_mr_019/recipe.json",
+      "image": "recipes/br_la_mr_019/cover.webp",
+      "bytes": 7102,
+      "sha256": "08344ce0cc8204c782e243da05da4b9367ccf275afd672c14171ad4e40793071",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_020": {
+      "foodId": "br_la_mr_020",
+      "title": "Tofu Farofa Vegetable Bowl with Spinach",
+      "recipe": "recipes/br_la_mr_020/recipe.json",
+      "image": "recipes/br_la_mr_020/cover.webp",
+      "bytes": 7912,
+      "sha256": "94c8b5896408c004b3497011726e387ec0b3fcae956a2e1f591a163dfe5a72f1",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_021": {
+      "foodId": "br_la_mr_021",
+      "title": "Tofu Farofa Vegetable Bowl with Carrot",
+      "recipe": "recipes/br_la_mr_021/recipe.json",
+      "image": "recipes/br_la_mr_021/cover.webp",
+      "bytes": 7394,
+      "sha256": "cc3af977191e699eca5ebd6cbb7d5cdd7d378bb0d23255ce88867c66827baa70",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_022": {
+      "foodId": "br_la_mr_022",
+      "title": "Tofu Farofa Vegetable Bowl with Ginger",
+      "recipe": "recipes/br_la_mr_022/recipe.json",
+      "image": "recipes/br_la_mr_022/cover.webp",
+      "bytes": 7814,
+      "sha256": "5fcad7b36107ddd49019611cf6aa67d0c138c8cc165e09d3acfb39fa415fa55c",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_023": {
+      "foodId": "br_la_mr_023",
+      "title": "Tofu Farofa Vegetable Bowl with Tomato",
+      "recipe": "recipes/br_la_mr_023/recipe.json",
+      "image": "recipes/br_la_mr_023/cover.webp",
+      "bytes": 7488,
+      "sha256": "2e52308b0970dacbcba054e8fc825ea280714476ad143e74c7aea577f42d2d29",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_024": {
+      "foodId": "br_la_mr_024",
+      "title": "Tofu Farofa Vegetable Bowl with Fresh Herbs",
+      "recipe": "recipes/br_la_mr_024/recipe.json",
+      "image": "recipes/br_la_mr_024/cover.webp",
+      "bytes": 7776,
+      "sha256": "64853b057d0cbb990a4ee66a2c0be30bf9e57b17e3866b4e0eab24450e5e50b9",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_025": {
+      "foodId": "br_la_mr_025",
+      "title": "Lean Beef and Pumpkin",
+      "recipe": "recipes/br_la_mr_025/recipe.json",
+      "image": "recipes/br_la_mr_025/cover.webp",
+      "bytes": 7118,
+      "sha256": "5dfab7bbd18695146c676984bd6fbcfc0aac487f040a6ae4977418ad395d53a9",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_026": {
+      "foodId": "br_la_mr_026",
+      "title": "Lean Beef and Pumpkin with Spinach",
+      "recipe": "recipes/br_la_mr_026/recipe.json",
+      "image": "recipes/br_la_mr_026/cover.webp",
+      "bytes": 7350,
+      "sha256": "20c9dd3c1a465b8e130b79a805d94157c38147892fcb8cbdd66d61146d85760d",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_027": {
+      "foodId": "br_la_mr_027",
+      "title": "Lean Beef and Pumpkin with Carrot",
+      "recipe": "recipes/br_la_mr_027/recipe.json",
+      "image": "recipes/br_la_mr_027/cover.webp",
+      "bytes": 7580,
+      "sha256": "9aa250ea73ac9c0828dce3b92005e9ab4c1dc07245dbf2e46121b79f10d3b4ad",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_028": {
+      "foodId": "br_la_mr_028",
+      "title": "Lean Beef and Pumpkin with Ginger",
+      "recipe": "recipes/br_la_mr_028/recipe.json",
+      "image": "recipes/br_la_mr_028/cover.webp",
+      "bytes": 7522,
+      "sha256": "97c6c4b1401ecacb9d1c01bf130178fd2cd1cd406245fe07a88bc2105727b8d2",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_029": {
+      "foodId": "br_la_mr_029",
+      "title": "Lean Beef and Pumpkin with Tomato",
+      "recipe": "recipes/br_la_mr_029/recipe.json",
+      "image": "recipes/br_la_mr_029/cover.webp",
+      "bytes": 6862,
+      "sha256": "97109d29d25615cb1f2a216b524e311c56fdec933fa9eed9b0049c90565000c1",
+      "kind": "labeled_illustration"
+    },
+    "br_la_mr_030": {
+      "foodId": "br_la_mr_030",
+      "title": "Lean Beef and Pumpkin with Fresh Herbs",
+      "recipe": "recipes/br_la_mr_030/recipe.json",
+      "image": "recipes/br_la_mr_030/cover.webp",
+      "bytes": 7842,
+      "sha256": "86141bf92246ce65c18f7bf426b93fe42165afadace5b4dee4dd85d7b27c5216",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_001": {
+      "foodId": "br_la_hy_001",
+      "title": "Caldo de Legumes",
+      "recipe": "recipes/br_la_hy_001/recipe.json",
+      "image": "recipes/br_la_hy_001/cover.webp",
+      "bytes": 6420,
+      "sha256": "e14382be27e6d8c8793307d88d1152c5e0b204d6d9049be121cdce7499a91e2c",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_002": {
+      "foodId": "br_la_hy_002",
+      "title": "Caldo de Legumes with Spinach",
+      "recipe": "recipes/br_la_hy_002/recipe.json",
+      "image": "recipes/br_la_hy_002/cover.webp",
+      "bytes": 6958,
+      "sha256": "c0fd13e3ebd5399129e14e9f59a7fa18ec6da3a157dd4569da1372b2db075cc6",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_003": {
+      "foodId": "br_la_hy_003",
+      "title": "Caldo de Legumes with Carrot",
+      "recipe": "recipes/br_la_hy_003/recipe.json",
+      "image": "recipes/br_la_hy_003/cover.webp",
+      "bytes": 6948,
+      "sha256": "542f11c38c01e636bbf4f3a92df4a47bb508e6c2e4bcc6456ce6630b45a00521",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_004": {
+      "foodId": "br_la_hy_004",
+      "title": "Caldo de Legumes with Ginger",
+      "recipe": "recipes/br_la_hy_004/recipe.json",
+      "image": "recipes/br_la_hy_004/cover.webp",
+      "bytes": 7038,
+      "sha256": "7a3422a193ff3b1bbe46b4f7dd0aeb279eeded8f2af39c5d8ec85e760ecbc52e",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_005": {
+      "foodId": "br_la_hy_005",
+      "title": "Caldo de Legumes with Tomato",
+      "recipe": "recipes/br_la_hy_005/recipe.json",
+      "image": "recipes/br_la_hy_005/cover.webp",
+      "bytes": 6882,
+      "sha256": "c87e85e5639bb0f08415603fd2132bf51ffaf9cc4fb6ee6941fbf05774f8646b",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_006": {
+      "foodId": "br_la_hy_006",
+      "title": "Caldo de Legumes with Fresh Herbs",
+      "recipe": "recipes/br_la_hy_006/recipe.json",
+      "image": "recipes/br_la_hy_006/cover.webp",
+      "bytes": 7192,
+      "sha256": "d604c37ba8b61849293c244ac315f3d1f43e83b7af7ae41e1b6d4c0269dddee9",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_007": {
+      "foodId": "br_la_hy_007",
+      "title": "Light Canja Broth",
+      "recipe": "recipes/br_la_hy_007/recipe.json",
+      "image": "recipes/br_la_hy_007/cover.webp",
+      "bytes": 6412,
+      "sha256": "1df43465df3c11de778c01572451fb0e496b37f84064148ff29ea9d22f084ec6",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_008": {
+      "foodId": "br_la_hy_008",
+      "title": "Light Canja Broth with Spinach",
+      "recipe": "recipes/br_la_hy_008/recipe.json",
+      "image": "recipes/br_la_hy_008/cover.webp",
+      "bytes": 7088,
+      "sha256": "2900bfa29620666ba6731d2f15b14d26c80345ff8c14670dc1a138f6887df138",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_009": {
+      "foodId": "br_la_hy_009",
+      "title": "Light Canja Broth with Carrot",
+      "recipe": "recipes/br_la_hy_009/recipe.json",
+      "image": "recipes/br_la_hy_009/cover.webp",
+      "bytes": 6998,
+      "sha256": "fcb44f6f5afe24b621e3a24d3b54d3910da438ebbc0d92b84a2e1697c5c183a8",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_010": {
+      "foodId": "br_la_hy_010",
+      "title": "Light Canja Broth with Ginger",
+      "recipe": "recipes/br_la_hy_010/recipe.json",
+      "image": "recipes/br_la_hy_010/cover.webp",
+      "bytes": 6772,
+      "sha256": "c19d9c9a9c2e4610bec1bdc500e07e24aa970c471e62fcbcae23ad41e2167ff9",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_011": {
+      "foodId": "br_la_hy_011",
+      "title": "Light Canja Broth with Tomato",
+      "recipe": "recipes/br_la_hy_011/recipe.json",
+      "image": "recipes/br_la_hy_011/cover.webp",
+      "bytes": 7028,
+      "sha256": "0a00d360ce72498f6dc5ef44835e3cafbb5d63720055f8e6d5e8f3745b7ed062",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_012": {
+      "foodId": "br_la_hy_012",
+      "title": "Light Canja Broth with Fresh Herbs",
+      "recipe": "recipes/br_la_hy_012/recipe.json",
+      "image": "recipes/br_la_hy_012/cover.webp",
+      "bytes": 7150,
+      "sha256": "fcd7eb5da7134bb4b095549fea01716fbb4b8e7677d161c5e55cf61689fc2bfa",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_013": {
+      "foodId": "br_la_hy_013",
+      "title": "Pumpkin Ginger Caldo",
+      "recipe": "recipes/br_la_hy_013/recipe.json",
+      "image": "recipes/br_la_hy_013/cover.webp",
+      "bytes": 6688,
+      "sha256": "bfccc298429f54ef5a4eb13a165a2e0f21e2bc51306336031c07eca3439bd3c1",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_014": {
+      "foodId": "br_la_hy_014",
+      "title": "Pumpkin Ginger Caldo with Spinach",
+      "recipe": "recipes/br_la_hy_014/recipe.json",
+      "image": "recipes/br_la_hy_014/cover.webp",
+      "bytes": 7426,
+      "sha256": "fbc09afc6090bc2e7ea89d499de1c2621b603056fea1f23f3851c3973896dc8e",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_015": {
+      "foodId": "br_la_hy_015",
+      "title": "Pumpkin Ginger Caldo with Carrot",
+      "recipe": "recipes/br_la_hy_015/recipe.json",
+      "image": "recipes/br_la_hy_015/cover.webp",
+      "bytes": 7054,
+      "sha256": "ac6e66a4513e2d2a4bf268c26915ca99a6d2e7e22a471614270bc9689ccd5888",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_016": {
+      "foodId": "br_la_hy_016",
+      "title": "Pumpkin Ginger Caldo with Ginger",
+      "recipe": "recipes/br_la_hy_016/recipe.json",
+      "image": "recipes/br_la_hy_016/cover.webp",
+      "bytes": 7162,
+      "sha256": "cb89500892dee6b737c497611c288e200e6f08afa43d609b678343cce24f6254",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_017": {
+      "foodId": "br_la_hy_017",
+      "title": "Pumpkin Ginger Caldo with Tomato",
+      "recipe": "recipes/br_la_hy_017/recipe.json",
+      "image": "recipes/br_la_hy_017/cover.webp",
+      "bytes": 7182,
+      "sha256": "d436588184cffffbd7014c7e44f130bcf9814bbd69a7bc3bf931b339f6e3e734",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_018": {
+      "foodId": "br_la_hy_018",
+      "title": "Pumpkin Ginger Caldo with Fresh Herbs",
+      "recipe": "recipes/br_la_hy_018/recipe.json",
+      "image": "recipes/br_la_hy_018/cover.webp",
+      "bytes": 7372,
+      "sha256": "62d25661388798b781111fe9ff46945d47408848c69b98c946b5936cc7209d29",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_019": {
+      "foodId": "br_la_hy_019",
+      "title": "Bean Vegetable Broth",
+      "recipe": "recipes/br_la_hy_019/recipe.json",
+      "image": "recipes/br_la_hy_019/cover.webp",
+      "bytes": 6386,
+      "sha256": "e0c1a4b3abab5ee4fce730b3a9f4688e4cbc5935d898b715fa678303f7aead22",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_020": {
+      "foodId": "br_la_hy_020",
+      "title": "Bean Vegetable Broth with Spinach",
+      "recipe": "recipes/br_la_hy_020/recipe.json",
+      "image": "recipes/br_la_hy_020/cover.webp",
+      "bytes": 7550,
+      "sha256": "90ae1a5eda5fe91674f0fa91387c8be53123cd75f5246603e2b1f4ba4ea2226e",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_021": {
+      "foodId": "br_la_hy_021",
+      "title": "Bean Vegetable Broth with Carrot",
+      "recipe": "recipes/br_la_hy_021/recipe.json",
+      "image": "recipes/br_la_hy_021/cover.webp",
+      "bytes": 6804,
+      "sha256": "03ff6b3111f933123fcddf63e53cef88bf180c9c57a29f76e053f197a5e81384",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_022": {
+      "foodId": "br_la_hy_022",
+      "title": "Bean Vegetable Broth with Ginger",
+      "recipe": "recipes/br_la_hy_022/recipe.json",
+      "image": "recipes/br_la_hy_022/cover.webp",
+      "bytes": 7106,
+      "sha256": "58b6132d24211db1bf4ddcf35af967a592b9af04520a9726f84fbf86a1ee73ce",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_023": {
+      "foodId": "br_la_hy_023",
+      "title": "Bean Vegetable Broth with Tomato",
+      "recipe": "recipes/br_la_hy_023/recipe.json",
+      "image": "recipes/br_la_hy_023/cover.webp",
+      "bytes": 7146,
+      "sha256": "4e993224cfa9875e1f897267476834b1a62f1a73920087289a08416fec112d20",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_024": {
+      "foodId": "br_la_hy_024",
+      "title": "Bean Vegetable Broth with Fresh Herbs",
+      "recipe": "recipes/br_la_hy_024/recipe.json",
+      "image": "recipes/br_la_hy_024/cover.webp",
+      "bytes": 7482,
+      "sha256": "141eb7f92a801f47bdf09ae7d8c80c24f2fc02a9678173111c3bf89807b55dfa",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_025": {
+      "foodId": "br_la_hy_025",
+      "title": "Tomato Herb Caldo",
+      "recipe": "recipes/br_la_hy_025/recipe.json",
+      "image": "recipes/br_la_hy_025/cover.webp",
+      "bytes": 6590,
+      "sha256": "a72d0f5ed0e718f847e3720bbf27c504f2daf7eb5989c3f56caf9075dee54b61",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_026": {
+      "foodId": "br_la_hy_026",
+      "title": "Tomato Herb Caldo with Spinach",
+      "recipe": "recipes/br_la_hy_026/recipe.json",
+      "image": "recipes/br_la_hy_026/cover.webp",
+      "bytes": 7136,
+      "sha256": "b9db200330e4bd7403c79fde4c62d22ca7af0087f94e852108f7f6dbbe90fcad",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_027": {
+      "foodId": "br_la_hy_027",
+      "title": "Tomato Herb Caldo with Carrot",
+      "recipe": "recipes/br_la_hy_027/recipe.json",
+      "image": "recipes/br_la_hy_027/cover.webp",
+      "bytes": 6900,
+      "sha256": "1b7d7b439dc048553b3903404dadabc9fcb1592056d1b8a89662f9dea40a2c0d",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_028": {
+      "foodId": "br_la_hy_028",
+      "title": "Tomato Herb Caldo with Ginger",
+      "recipe": "recipes/br_la_hy_028/recipe.json",
+      "image": "recipes/br_la_hy_028/cover.webp",
+      "bytes": 6924,
+      "sha256": "da3c94436a3d85fa5f1300a40f9192a1f1a46e5c9fff5b5ee5b1c826988504be",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_029": {
+      "foodId": "br_la_hy_029",
+      "title": "Tomato Herb Caldo with Tomato",
+      "recipe": "recipes/br_la_hy_029/recipe.json",
+      "image": "recipes/br_la_hy_029/cover.webp",
+      "bytes": 6998,
+      "sha256": "4b4bf663fc776da5d4e597a258fe6a62c331a166e02d55b8ab9eec2b196e130d",
+      "kind": "labeled_illustration"
+    },
+    "br_la_hy_030": {
+      "foodId": "br_la_hy_030",
+      "title": "Tomato Herb Caldo with Fresh Herbs",
+      "recipe": "recipes/br_la_hy_030/recipe.json",
+      "image": "recipes/br_la_hy_030/cover.webp",
+      "bytes": 7054,
+      "sha256": "3bb2c09474ccbc14b32d47e9067793c40d19e08538878c41a477fe3391689b94",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_001": {
+      "foodId": "br_la_ld_001",
+      "title": "Soft Rice and Beans",
+      "recipe": "recipes/br_la_ld_001/recipe.json",
+      "image": "recipes/br_la_ld_001/cover.webp",
+      "bytes": 6970,
+      "sha256": "0ed8abd63a0c697ec4f16b61e808290a30ff40934c9b32b1ef538249738f2a91",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_002": {
+      "foodId": "br_la_ld_002",
+      "title": "Soft Rice and Beans with Spinach",
+      "recipe": "recipes/br_la_ld_002/recipe.json",
+      "image": "recipes/br_la_ld_002/cover.webp",
+      "bytes": 7046,
+      "sha256": "fcd4f55c08c79cfc12f033bc2d2ac72b9be45c53fd23a697234bd2b4db6460cc",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_003": {
+      "foodId": "br_la_ld_003",
+      "title": "Soft Rice and Beans with Carrot",
+      "recipe": "recipes/br_la_ld_003/recipe.json",
+      "image": "recipes/br_la_ld_003/cover.webp",
+      "bytes": 7364,
+      "sha256": "100fa5cd5c0c73c8d49e531056747cf72a4f8d9537b98dfe449640a2962e7e16",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_004": {
+      "foodId": "br_la_ld_004",
+      "title": "Soft Rice and Beans with Ginger",
+      "recipe": "recipes/br_la_ld_004/recipe.json",
+      "image": "recipes/br_la_ld_004/cover.webp",
+      "bytes": 7640,
+      "sha256": "7d12a5e9ad214c153cbbe714a65b96daa710dd24bc4ee86c1df5de2e1a7dde5b",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_005": {
+      "foodId": "br_la_ld_005",
+      "title": "Soft Rice and Beans with Tomato",
+      "recipe": "recipes/br_la_ld_005/recipe.json",
+      "image": "recipes/br_la_ld_005/cover.webp",
+      "bytes": 7432,
+      "sha256": "aa36148838d688244db6ea598f07499568298e75b1af6d75b2028bbb1280561b",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_006": {
+      "foodId": "br_la_ld_006",
+      "title": "Soft Rice and Beans with Fresh Herbs",
+      "recipe": "recipes/br_la_ld_006/recipe.json",
+      "image": "recipes/br_la_ld_006/cover.webp",
+      "bytes": 7798,
+      "sha256": "919e13e7c945a6aa5bd7a5f22d84df3d9a3bed05ed5e60f0f8e01e04046cf91b",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_007": {
+      "foodId": "br_la_ld_007",
+      "title": "Light Vegetable Canja",
+      "recipe": "recipes/br_la_ld_007/recipe.json",
+      "image": "recipes/br_la_ld_007/cover.webp",
+      "bytes": 6376,
+      "sha256": "53854bdb57fc05e8b415d164b418a6ed48953a855fc6548888760eabf43a431a",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_008": {
+      "foodId": "br_la_ld_008",
+      "title": "Light Vegetable Canja with Spinach",
+      "recipe": "recipes/br_la_ld_008/recipe.json",
+      "image": "recipes/br_la_ld_008/cover.webp",
+      "bytes": 7134,
+      "sha256": "da8b89d8e8aa133379aafaefb2a9a57085bb37f7d56b6d8edaf6753959d37823",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_009": {
+      "foodId": "br_la_ld_009",
+      "title": "Light Vegetable Canja with Carrot",
+      "recipe": "recipes/br_la_ld_009/recipe.json",
+      "image": "recipes/br_la_ld_009/cover.webp",
+      "bytes": 7142,
+      "sha256": "9212ca00f930808fc568a68d970c5f189d0d79325e78c0f30e599f6c5bfe2709",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_010": {
+      "foodId": "br_la_ld_010",
+      "title": "Light Vegetable Canja with Ginger",
+      "recipe": "recipes/br_la_ld_010/recipe.json",
+      "image": "recipes/br_la_ld_010/cover.webp",
+      "bytes": 7160,
+      "sha256": "2ca7ebb59c34d0f823c345cbd0c7bbd229e6cb8400d427691990f2486935de3b",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_011": {
+      "foodId": "br_la_ld_011",
+      "title": "Light Vegetable Canja with Tomato",
+      "recipe": "recipes/br_la_ld_011/recipe.json",
+      "image": "recipes/br_la_ld_011/cover.webp",
+      "bytes": 7110,
+      "sha256": "d2317c7c92e03f1ad25b11e9fa1dfd472fb8b279db112c4d34a819f5339b11b3",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_012": {
+      "foodId": "br_la_ld_012",
+      "title": "Light Vegetable Canja with Fresh Herbs",
+      "recipe": "recipes/br_la_ld_012/recipe.json",
+      "image": "recipes/br_la_ld_012/cover.webp",
+      "bytes": 7266,
+      "sha256": "3844d6dd236a63a362403512efd560cc1825b51e9a946be76819bf3ee8be3087",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_013": {
+      "foodId": "br_la_ld_013",
+      "title": "Baked Sweet Potato",
+      "recipe": "recipes/br_la_ld_013/recipe.json",
+      "image": "recipes/br_la_ld_013/cover.webp",
+      "bytes": 6914,
+      "sha256": "274996a3259f4ddf5f697076266106d1c6cbc309cf60e3e6e1c09eb413786da7",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_014": {
+      "foodId": "br_la_ld_014",
+      "title": "Baked Sweet Potato with Spinach",
+      "recipe": "recipes/br_la_ld_014/recipe.json",
+      "image": "recipes/br_la_ld_014/cover.webp",
+      "bytes": 7420,
+      "sha256": "c2ce319d0ae9df1efa18c5a78721d081be0ab80b61dad0894762ebed67166c9b",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_015": {
+      "foodId": "br_la_ld_015",
+      "title": "Baked Sweet Potato with Carrot",
+      "recipe": "recipes/br_la_ld_015/recipe.json",
+      "image": "recipes/br_la_ld_015/cover.webp",
+      "bytes": 7234,
+      "sha256": "3f974290ad25a81b5e86edb3b3e3c8a60804c8ea69ebf4112962b0ea20093917",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_016": {
+      "foodId": "br_la_ld_016",
+      "title": "Baked Sweet Potato with Ginger",
+      "recipe": "recipes/br_la_ld_016/recipe.json",
+      "image": "recipes/br_la_ld_016/cover.webp",
+      "bytes": 7440,
+      "sha256": "43d30de8cb5c61ff98adee9594c913d665d024a9141256947698ac29b28f20c7",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_017": {
+      "foodId": "br_la_ld_017",
+      "title": "Baked Sweet Potato with Tomato",
+      "recipe": "recipes/br_la_ld_017/recipe.json",
+      "image": "recipes/br_la_ld_017/cover.webp",
+      "bytes": 7074,
+      "sha256": "00958d0f1240fb233366d6a6fcc07b645f17a4a7b0cce22659c94032ffd0e7ef",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_018": {
+      "foodId": "br_la_ld_018",
+      "title": "Baked Sweet Potato with Fresh Herbs",
+      "recipe": "recipes/br_la_ld_018/recipe.json",
+      "image": "recipes/br_la_ld_018/cover.webp",
+      "bytes": 7452,
+      "sha256": "b730ea80f52da28a42fd034970a760a91b97fbfde470aac7dda2e89573aa4beb",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_019": {
+      "foodId": "br_la_ld_019",
+      "title": "Pumpkin and Yogurt Bowl",
+      "recipe": "recipes/br_la_ld_019/recipe.json",
+      "image": "recipes/br_la_ld_019/cover.webp",
+      "bytes": 6954,
+      "sha256": "96e46fc5e4a57db9a024e63e8738edca75cf2bb90be85951931b5ecb2198d587",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_020": {
+      "foodId": "br_la_ld_020",
+      "title": "Pumpkin and Yogurt Bowl with Spinach",
+      "recipe": "recipes/br_la_ld_020/recipe.json",
+      "image": "recipes/br_la_ld_020/cover.webp",
+      "bytes": 7288,
+      "sha256": "9afdfcb33ac3ab29d81c690bff0b88d9175631cdac89fd636a2c6022d37054e7",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_021": {
+      "foodId": "br_la_ld_021",
+      "title": "Pumpkin and Yogurt Bowl with Carrot",
+      "recipe": "recipes/br_la_ld_021/recipe.json",
+      "image": "recipes/br_la_ld_021/cover.webp",
+      "bytes": 7222,
+      "sha256": "83f1fbc8abbebcd81895472930066e13af7404b2c989c103c28648ff9fe59372",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_022": {
+      "foodId": "br_la_ld_022",
+      "title": "Pumpkin and Yogurt Bowl with Ginger",
+      "recipe": "recipes/br_la_ld_022/recipe.json",
+      "image": "recipes/br_la_ld_022/cover.webp",
+      "bytes": 7720,
+      "sha256": "93f8513a80818c55592fdb780eb7e3ec5e81b0edca5afa93219a67aee00de41f",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_023": {
+      "foodId": "br_la_ld_023",
+      "title": "Pumpkin and Yogurt Bowl with Tomato",
+      "recipe": "recipes/br_la_ld_023/recipe.json",
+      "image": "recipes/br_la_ld_023/cover.webp",
+      "bytes": 7706,
+      "sha256": "7757b4542fbd0742d0e63a585a227b67a72dd7e59eae90ff59dc2bd68bc95c89",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_024": {
+      "foodId": "br_la_ld_024",
+      "title": "Pumpkin and Yogurt Bowl with Fresh Herbs",
+      "recipe": "recipes/br_la_ld_024/recipe.json",
+      "image": "recipes/br_la_ld_024/cover.webp",
+      "bytes": 7540,
+      "sha256": "8ccc3de3384a95994e62e0a93e3dada5df67e8ba4c0006908220655b1ebb8bc8",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_025": {
+      "foodId": "br_la_ld_025",
+      "title": "Gentle Lentil Soup",
+      "recipe": "recipes/br_la_ld_025/recipe.json",
+      "image": "recipes/br_la_ld_025/cover.webp",
+      "bytes": 6522,
+      "sha256": "4ab192e79bec3a3da9ca7be13e0feef4b1aeeba064caefd23bfb38f8f2a05dee",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_026": {
+      "foodId": "br_la_ld_026",
+      "title": "Gentle Lentil Soup with Spinach",
+      "recipe": "recipes/br_la_ld_026/recipe.json",
+      "image": "recipes/br_la_ld_026/cover.webp",
+      "bytes": 6792,
+      "sha256": "12efd4829ccc534cf821d210ee5282e7f444b3cb2c17fec39b13f1440e72bbb1",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_027": {
+      "foodId": "br_la_ld_027",
+      "title": "Gentle Lentil Soup with Carrot",
+      "recipe": "recipes/br_la_ld_027/recipe.json",
+      "image": "recipes/br_la_ld_027/cover.webp",
+      "bytes": 7298,
+      "sha256": "4f2c912469937e5527655280b06ea35bfb325f8891533e20f0b0f3f156b3aa32",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_028": {
+      "foodId": "br_la_ld_028",
+      "title": "Gentle Lentil Soup with Ginger",
+      "recipe": "recipes/br_la_ld_028/recipe.json",
+      "image": "recipes/br_la_ld_028/cover.webp",
+      "bytes": 6918,
+      "sha256": "ee6daa1cc72c1d60cb81713fe6cc9b8bbb5dfd7e61adf4a90c7a2b558375f586",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_029": {
+      "foodId": "br_la_ld_029",
+      "title": "Gentle Lentil Soup with Tomato",
+      "recipe": "recipes/br_la_ld_029/recipe.json",
+      "image": "recipes/br_la_ld_029/cover.webp",
+      "bytes": 6768,
+      "sha256": "30a47798f6b82f1a92e05a57ee50c41ad00b5ec500473423ccd4284d784c6320",
+      "kind": "labeled_illustration"
+    },
+    "br_la_ld_030": {
+      "foodId": "br_la_ld_030",
+      "title": "Gentle Lentil Soup with Fresh Herbs",
+      "recipe": "recipes/br_la_ld_030/recipe.json",
+      "image": "recipes/br_la_ld_030/cover.webp",
+      "bytes": 7040,
+      "sha256": "5c344050ad48826d3c1dfb63964240ee196bf88efbdc8d49b93ac023b7e9b8b9",
+      "kind": "labeled_illustration"
+    }
+  }
+}

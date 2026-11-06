@@ -1,0 +1,1086 @@
+{
+  "locale": "us",
+  "imageType": "labeled_illustration",
+  "assets": {
+    "us_am_wo_001": {
+      "foodId": "us_am_wo_001",
+      "title": "Oatmeal with Greek Yogurt",
+      "recipe": "recipes/us_am_wo_001/recipe.json",
+      "image": "recipes/us_am_wo_001/cover.webp",
+      "bytes": 7282,
+      "sha256": "a6edd250e06cf49d5fe6a5cd5e27114bb48bebc9b62eec6a644450e2b66f27b6",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_002": {
+      "foodId": "us_am_wo_002",
+      "title": "Oatmeal with Greek Yogurt with Spinach",
+      "recipe": "recipes/us_am_wo_002/recipe.json",
+      "image": "recipes/us_am_wo_002/cover.webp",
+      "bytes": 8378,
+      "sha256": "dd6c9104048160c936b167afd4dd4800a20ebe7879c6c426f81c50532f02e833",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_003": {
+      "foodId": "us_am_wo_003",
+      "title": "Oatmeal with Greek Yogurt with Carrot",
+      "recipe": "recipes/us_am_wo_003/recipe.json",
+      "image": "recipes/us_am_wo_003/cover.webp",
+      "bytes": 7316,
+      "sha256": "b9545cb6c1490db142a12a8a7865e929e82713a68809bfa612e7c6da18b10f88",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_004": {
+      "foodId": "us_am_wo_004",
+      "title": "Oatmeal with Greek Yogurt with Ginger",
+      "recipe": "recipes/us_am_wo_004/recipe.json",
+      "image": "recipes/us_am_wo_004/cover.webp",
+      "bytes": 7942,
+      "sha256": "2a4b8d2bbc181cfed73beb009fa6436617ce978c0042f25b74d1e47ef9cf2eb9",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_005": {
+      "foodId": "us_am_wo_005",
+      "title": "Oatmeal with Greek Yogurt with Tomato",
+      "recipe": "recipes/us_am_wo_005/recipe.json",
+      "image": "recipes/us_am_wo_005/cover.webp",
+      "bytes": 7968,
+      "sha256": "799b9170799a5f33c26ccc8fde2488b55933afba04853958add995daad5d4709",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_006": {
+      "foodId": "us_am_wo_006",
+      "title": "Oatmeal with Greek Yogurt with Fresh Herbs",
+      "recipe": "recipes/us_am_wo_006/recipe.json",
+      "image": "recipes/us_am_wo_006/cover.webp",
+      "bytes": 8254,
+      "sha256": "3de28e2028e3b655c537c7e7c4c291b0459ede87f24c0774256b087ce6296fe3",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_007": {
+      "foodId": "us_am_wo_007",
+      "title": "Soft Scrambled Eggs",
+      "recipe": "recipes/us_am_wo_007/recipe.json",
+      "image": "recipes/us_am_wo_007/cover.webp",
+      "bytes": 6966,
+      "sha256": "43ac0ca7a1fc856c51a9839d439f21a611afd87d62cc62da88de28aeaa258fae",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_008": {
+      "foodId": "us_am_wo_008",
+      "title": "Soft Scrambled Eggs with Spinach",
+      "recipe": "recipes/us_am_wo_008/recipe.json",
+      "image": "recipes/us_am_wo_008/cover.webp",
+      "bytes": 7468,
+      "sha256": "3fdb29e201b654e6105ce5b32e511a8b623be4cc25286611f7f785f6e5688afc",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_009": {
+      "foodId": "us_am_wo_009",
+      "title": "Soft Scrambled Eggs with Carrot",
+      "recipe": "recipes/us_am_wo_009/recipe.json",
+      "image": "recipes/us_am_wo_009/cover.webp",
+      "bytes": 7576,
+      "sha256": "2f654745c7374525c57a6e46c9511f180902d602bdbcea0f09d5369a17f4205d",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_010": {
+      "foodId": "us_am_wo_010",
+      "title": "Soft Scrambled Eggs with Ginger",
+      "recipe": "recipes/us_am_wo_010/recipe.json",
+      "image": "recipes/us_am_wo_010/cover.webp",
+      "bytes": 7222,
+      "sha256": "bc52a7825d2651a13968b2d1326ef906b4c6efd2abda98b87d21734cbe3afbde",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_011": {
+      "foodId": "us_am_wo_011",
+      "title": "Soft Scrambled Eggs with Tomato",
+      "recipe": "recipes/us_am_wo_011/recipe.json",
+      "image": "recipes/us_am_wo_011/cover.webp",
+      "bytes": 7422,
+      "sha256": "cf6ba520bde246a073e12a56c9636fe7edad377fa4ae46b06beae0f39d7e43e9",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_012": {
+      "foodId": "us_am_wo_012",
+      "title": "Soft Scrambled Eggs with Fresh Herbs",
+      "recipe": "recipes/us_am_wo_012/recipe.json",
+      "image": "recipes/us_am_wo_012/cover.webp",
+      "bytes": 7802,
+      "sha256": "cecc4e3afa506beaa95e67e7bd8efc5a110141322215288f2b45ffb1f5297351",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_013": {
+      "foodId": "us_am_wo_013",
+      "title": "Cottage Cheese Toast",
+      "recipe": "recipes/us_am_wo_013/recipe.json",
+      "image": "recipes/us_am_wo_013/cover.webp",
+      "bytes": 6464,
+      "sha256": "2478b77264babdfd8dc1b1b1e64be08568e5411f96bc6553876e2afd946afdf6",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_014": {
+      "foodId": "us_am_wo_014",
+      "title": "Cottage Cheese Toast with Spinach",
+      "recipe": "recipes/us_am_wo_014/recipe.json",
+      "image": "recipes/us_am_wo_014/cover.webp",
+      "bytes": 6758,
+      "sha256": "b04015465d3feef95c4932b5e545e29c72bf29c7f1071a5acaf2318fc1b3662b",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_015": {
+      "foodId": "us_am_wo_015",
+      "title": "Cottage Cheese Toast with Carrot",
+      "recipe": "recipes/us_am_wo_015/recipe.json",
+      "image": "recipes/us_am_wo_015/cover.webp",
+      "bytes": 6480,
+      "sha256": "e7238ec9f1060144ad1dbff5e9e2a64932c6c4c4469512b9f97d0a881f67a172",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_016": {
+      "foodId": "us_am_wo_016",
+      "title": "Cottage Cheese Toast with Ginger",
+      "recipe": "recipes/us_am_wo_016/recipe.json",
+      "image": "recipes/us_am_wo_016/cover.webp",
+      "bytes": 6436,
+      "sha256": "dc7e9de366bfae4afbd89b12a2bf1441aa49eb687d0f468cdd83766ed0c5fa0c",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_017": {
+      "foodId": "us_am_wo_017",
+      "title": "Cottage Cheese Toast with Tomato",
+      "recipe": "recipes/us_am_wo_017/recipe.json",
+      "image": "recipes/us_am_wo_017/cover.webp",
+      "bytes": 6546,
+      "sha256": "940e7507f47e6a5eaede9216113be4ac75de4ff85312e759d6e8f53f8ce9756e",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_018": {
+      "foodId": "us_am_wo_018",
+      "title": "Cottage Cheese Toast with Fresh Herbs",
+      "recipe": "recipes/us_am_wo_018/recipe.json",
+      "image": "recipes/us_am_wo_018/cover.webp",
+      "bytes": 6724,
+      "sha256": "8c859aff3b1051836a30f5d30d4d47f2ffdc8fb8d959460c1369386011ec426e",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_019": {
+      "foodId": "us_am_wo_019",
+      "title": "Warm Quinoa Porridge",
+      "recipe": "recipes/us_am_wo_019/recipe.json",
+      "image": "recipes/us_am_wo_019/cover.webp",
+      "bytes": 7054,
+      "sha256": "0a5315242847a151827515810eafde6b658bfbba35f20802dcbb2d5870d59144",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_020": {
+      "foodId": "us_am_wo_020",
+      "title": "Warm Quinoa Porridge with Spinach",
+      "recipe": "recipes/us_am_wo_020/recipe.json",
+      "image": "recipes/us_am_wo_020/cover.webp",
+      "bytes": 7708,
+      "sha256": "cf538b68a4d6e357fe9617b598b3597117694acb414301f2102c2796da33a84e",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_021": {
+      "foodId": "us_am_wo_021",
+      "title": "Warm Quinoa Porridge with Carrot",
+      "recipe": "recipes/us_am_wo_021/recipe.json",
+      "image": "recipes/us_am_wo_021/cover.webp",
+      "bytes": 7386,
+      "sha256": "93ae21e5ebb4e4be7105571ad310b80964b3daba9088a3ea73598a973b151370",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_022": {
+      "foodId": "us_am_wo_022",
+      "title": "Warm Quinoa Porridge with Ginger",
+      "recipe": "recipes/us_am_wo_022/recipe.json",
+      "image": "recipes/us_am_wo_022/cover.webp",
+      "bytes": 7364,
+      "sha256": "49b00b2eb38e6fbcded018eeb782c518471d57ad0c0e9ae424bca05bb0b71194",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_023": {
+      "foodId": "us_am_wo_023",
+      "title": "Warm Quinoa Porridge with Tomato",
+      "recipe": "recipes/us_am_wo_023/recipe.json",
+      "image": "recipes/us_am_wo_023/cover.webp",
+      "bytes": 7740,
+      "sha256": "ab0f768e093fbca0f92436a73199ab9ab6f5172aa6c418d9385f64541cce53c9",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_024": {
+      "foodId": "us_am_wo_024",
+      "title": "Warm Quinoa Porridge with Fresh Herbs",
+      "recipe": "recipes/us_am_wo_024/recipe.json",
+      "image": "recipes/us_am_wo_024/cover.webp",
+      "bytes": 8016,
+      "sha256": "e88f47b72df93aade8f4d6e204c15cce2be82feb391bc8e6c07fb3cfc871659f",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_025": {
+      "foodId": "us_am_wo_025",
+      "title": "Turkey Vegetable Soup",
+      "recipe": "recipes/us_am_wo_025/recipe.json",
+      "image": "recipes/us_am_wo_025/cover.webp",
+      "bytes": 7298,
+      "sha256": "ca97b3c9198de85fe8fe4a028beea0a47cb1c47510458fb18f86d33e84ecf0e0",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_026": {
+      "foodId": "us_am_wo_026",
+      "title": "Turkey Vegetable Soup with Spinach",
+      "recipe": "recipes/us_am_wo_026/recipe.json",
+      "image": "recipes/us_am_wo_026/cover.webp",
+      "bytes": 7240,
+      "sha256": "f11fa9465a0cddc39b9b52b41980568396f6f5e5bfb635085c32dbaafd4f0d0d",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_027": {
+      "foodId": "us_am_wo_027",
+      "title": "Turkey Vegetable Soup with Carrot",
+      "recipe": "recipes/us_am_wo_027/recipe.json",
+      "image": "recipes/us_am_wo_027/cover.webp",
+      "bytes": 7210,
+      "sha256": "086b5bc7c2b426789305676ac8c1c44d96c23a5834a2ad4189edd550c3b48b53",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_028": {
+      "foodId": "us_am_wo_028",
+      "title": "Turkey Vegetable Soup with Ginger",
+      "recipe": "recipes/us_am_wo_028/recipe.json",
+      "image": "recipes/us_am_wo_028/cover.webp",
+      "bytes": 7240,
+      "sha256": "2a228df3b87a78aba0868c1995cf5f42851da0c2857c3fe9928ac1ebb31bab0e",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_029": {
+      "foodId": "us_am_wo_029",
+      "title": "Turkey Vegetable Soup with Tomato",
+      "recipe": "recipes/us_am_wo_029/recipe.json",
+      "image": "recipes/us_am_wo_029/cover.webp",
+      "bytes": 7674,
+      "sha256": "8480f7f863820fa3f61594e21729fb28a5a1bdd26c5447d72d9e86ebb36a4de3",
+      "kind": "labeled_illustration"
+    },
+    "us_am_wo_030": {
+      "foodId": "us_am_wo_030",
+      "title": "Turkey Vegetable Soup with Fresh Herbs",
+      "recipe": "recipes/us_am_wo_030/recipe.json",
+      "image": "recipes/us_am_wo_030/cover.webp",
+      "bytes": 7338,
+      "sha256": "68cc37da37299eee3a38239c9698d7de32fa0bf0210bcdd633cacc48d8c834f3",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_001": {
+      "foodId": "us_am_mr_001",
+      "title": "Grilled Salmon Bowl",
+      "recipe": "recipes/us_am_mr_001/recipe.json",
+      "image": "recipes/us_am_mr_001/cover.webp",
+      "bytes": 6848,
+      "sha256": "37a97a31b88fabe9025acd3b4124abe807e56278dd387060e4ef774337150e31",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_002": {
+      "foodId": "us_am_mr_002",
+      "title": "Grilled Salmon Bowl with Spinach",
+      "recipe": "recipes/us_am_mr_002/recipe.json",
+      "image": "recipes/us_am_mr_002/cover.webp",
+      "bytes": 7170,
+      "sha256": "855558fc54313b6ae6714023d3440f8ca00eac9935daf5cbbacb873ea5b7c492",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_003": {
+      "foodId": "us_am_mr_003",
+      "title": "Grilled Salmon Bowl with Carrot",
+      "recipe": "recipes/us_am_mr_003/recipe.json",
+      "image": "recipes/us_am_mr_003/cover.webp",
+      "bytes": 7042,
+      "sha256": "716ae895b4abfc852dace48c9f4b9ff3185903b80b62bcf909a2709625835db7",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_004": {
+      "foodId": "us_am_mr_004",
+      "title": "Grilled Salmon Bowl with Ginger",
+      "recipe": "recipes/us_am_mr_004/recipe.json",
+      "image": "recipes/us_am_mr_004/cover.webp",
+      "bytes": 7590,
+      "sha256": "34e413efb3b0083b4b5145957b0ed53cf99ec6143c95cdda012bd1df27f663f8",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_005": {
+      "foodId": "us_am_mr_005",
+      "title": "Grilled Salmon Bowl with Tomato",
+      "recipe": "recipes/us_am_mr_005/recipe.json",
+      "image": "recipes/us_am_mr_005/cover.webp",
+      "bytes": 7164,
+      "sha256": "11df51c24c17d4f6020384e4e4b332cb2ce0b19d0b4c6f99885838519e5bae0a",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_006": {
+      "foodId": "us_am_mr_006",
+      "title": "Grilled Salmon Bowl with Fresh Herbs",
+      "recipe": "recipes/us_am_mr_006/recipe.json",
+      "image": "recipes/us_am_mr_006/cover.webp",
+      "bytes": 7592,
+      "sha256": "dbc01d628c552cd5803801779a117b32954d1fa399e7afba60736a10dd781de4",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_007": {
+      "foodId": "us_am_mr_007",
+      "title": "Chicken Quinoa Plate",
+      "recipe": "recipes/us_am_mr_007/recipe.json",
+      "image": "recipes/us_am_mr_007/cover.webp",
+      "bytes": 6526,
+      "sha256": "12d0a36dee05ba8936248b46e22c362428fcc2727c5b7633da2d321298b3f94a",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_008": {
+      "foodId": "us_am_mr_008",
+      "title": "Chicken Quinoa Plate with Spinach",
+      "recipe": "recipes/us_am_mr_008/recipe.json",
+      "image": "recipes/us_am_mr_008/cover.webp",
+      "bytes": 7468,
+      "sha256": "a6f016b7f85798c6614637a6c212b3fb599ce37bd4af80534f3cd12ef5490082",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_009": {
+      "foodId": "us_am_mr_009",
+      "title": "Chicken Quinoa Plate with Carrot",
+      "recipe": "recipes/us_am_mr_009/recipe.json",
+      "image": "recipes/us_am_mr_009/cover.webp",
+      "bytes": 7170,
+      "sha256": "1f67bd10d8b113705c21ba94687710475a829195c5670d62361a274a0162a8e9",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_010": {
+      "foodId": "us_am_mr_010",
+      "title": "Chicken Quinoa Plate with Ginger",
+      "recipe": "recipes/us_am_mr_010/recipe.json",
+      "image": "recipes/us_am_mr_010/cover.webp",
+      "bytes": 7406,
+      "sha256": "7867de32672c5b9bca6a391114de48558da928c3f90fa337077fa0d87783c420",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_011": {
+      "foodId": "us_am_mr_011",
+      "title": "Chicken Quinoa Plate with Tomato",
+      "recipe": "recipes/us_am_mr_011/recipe.json",
+      "image": "recipes/us_am_mr_011/cover.webp",
+      "bytes": 7478,
+      "sha256": "991e5fdef960ba7528658a83141ce529470f71702d5e467caf175af639b880cc",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_012": {
+      "foodId": "us_am_mr_012",
+      "title": "Chicken Quinoa Plate with Fresh Herbs",
+      "recipe": "recipes/us_am_mr_012/recipe.json",
+      "image": "recipes/us_am_mr_012/cover.webp",
+      "bytes": 7812,
+      "sha256": "124735f293d237c2f63620fe64cfa019d1946e6c96b379f05c330b9892bc24d3",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_013": {
+      "foodId": "us_am_mr_013",
+      "title": "Turkey Bean Chili",
+      "recipe": "recipes/us_am_mr_013/recipe.json",
+      "image": "recipes/us_am_mr_013/cover.webp",
+      "bytes": 6938,
+      "sha256": "8a743c11e170dadadb767e8a30e2b93aaee7f82617906fdff0efada1322eaeb0",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_014": {
+      "foodId": "us_am_mr_014",
+      "title": "Turkey Bean Chili with Spinach",
+      "recipe": "recipes/us_am_mr_014/recipe.json",
+      "image": "recipes/us_am_mr_014/cover.webp",
+      "bytes": 7224,
+      "sha256": "5b3ade8385067dacd7c08fc57785b0dff4a175ab499b2326ebae880e90607cdb",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_015": {
+      "foodId": "us_am_mr_015",
+      "title": "Turkey Bean Chili with Carrot",
+      "recipe": "recipes/us_am_mr_015/recipe.json",
+      "image": "recipes/us_am_mr_015/cover.webp",
+      "bytes": 6924,
+      "sha256": "063bb411ff6336e6bf7d3cb8abf822dd6eaa68ce012309c1448ee5723c2f4296",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_016": {
+      "foodId": "us_am_mr_016",
+      "title": "Turkey Bean Chili with Ginger",
+      "recipe": "recipes/us_am_mr_016/recipe.json",
+      "image": "recipes/us_am_mr_016/cover.webp",
+      "bytes": 7444,
+      "sha256": "36be82860bfa8b9588a2d27d5c2e121e17750643a7b80e903688dab7d0359b2d",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_017": {
+      "foodId": "us_am_mr_017",
+      "title": "Turkey Bean Chili with Tomato",
+      "recipe": "recipes/us_am_mr_017/recipe.json",
+      "image": "recipes/us_am_mr_017/cover.webp",
+      "bytes": 7308,
+      "sha256": "9079d47fd97fe3cea0189359de9d28277a44a66c805d5753996a3586320ceee6",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_018": {
+      "foodId": "us_am_mr_018",
+      "title": "Turkey Bean Chili with Fresh Herbs",
+      "recipe": "recipes/us_am_mr_018/recipe.json",
+      "image": "recipes/us_am_mr_018/cover.webp",
+      "bytes": 7524,
+      "sha256": "835dcd84c19c707305505ff35e23afb5a6c72f48c02433596c821bd6203a0ac8",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_019": {
+      "foodId": "us_am_mr_019",
+      "title": "Tofu Brown Rice Bowl",
+      "recipe": "recipes/us_am_mr_019/recipe.json",
+      "image": "recipes/us_am_mr_019/cover.webp",
+      "bytes": 7112,
+      "sha256": "441fe1937bbc85ef633445aa5efefcc8d31491155d955d630ea4d1f7941374fa",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_020": {
+      "foodId": "us_am_mr_020",
+      "title": "Tofu Brown Rice Bowl with Spinach",
+      "recipe": "recipes/us_am_mr_020/recipe.json",
+      "image": "recipes/us_am_mr_020/cover.webp",
+      "bytes": 7516,
+      "sha256": "d7bd651a6d243d3442f534b13ce4a3dd51c4d0adb997fd6ca2c4782445b771a1",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_021": {
+      "foodId": "us_am_mr_021",
+      "title": "Tofu Brown Rice Bowl with Carrot",
+      "recipe": "recipes/us_am_mr_021/recipe.json",
+      "image": "recipes/us_am_mr_021/cover.webp",
+      "bytes": 7298,
+      "sha256": "2ae1fd47534b52380f2f6098677530eb5007f14c50d93b79cffb78258540f121",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_022": {
+      "foodId": "us_am_mr_022",
+      "title": "Tofu Brown Rice Bowl with Ginger",
+      "recipe": "recipes/us_am_mr_022/recipe.json",
+      "image": "recipes/us_am_mr_022/cover.webp",
+      "bytes": 7260,
+      "sha256": "e978685395eadcbd9c84721ce4fc892383291b6a0ee1bfbfd28d2c3badd17d22",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_023": {
+      "foodId": "us_am_mr_023",
+      "title": "Tofu Brown Rice Bowl with Tomato",
+      "recipe": "recipes/us_am_mr_023/recipe.json",
+      "image": "recipes/us_am_mr_023/cover.webp",
+      "bytes": 7434,
+      "sha256": "d3750371af5e219af77325b5173c608dbf5a0f361077bd3f210aca1ba71ddf3e",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_024": {
+      "foodId": "us_am_mr_024",
+      "title": "Tofu Brown Rice Bowl with Fresh Herbs",
+      "recipe": "recipes/us_am_mr_024/recipe.json",
+      "image": "recipes/us_am_mr_024/cover.webp",
+      "bytes": 7616,
+      "sha256": "b292732347bbf455a5dd25afa507cb6e4eb8f2c5565c8ca0f5fc7095ed51fdf2",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_025": {
+      "foodId": "us_am_mr_025",
+      "title": "Egg and Avocado Plate",
+      "recipe": "recipes/us_am_mr_025/recipe.json",
+      "image": "recipes/us_am_mr_025/cover.webp",
+      "bytes": 6664,
+      "sha256": "374f88f311f5a6875633bbcf3be274f4b41360e07dd7e4a748855f4e6a6411e0",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_026": {
+      "foodId": "us_am_mr_026",
+      "title": "Egg and Avocado Plate with Spinach",
+      "recipe": "recipes/us_am_mr_026/recipe.json",
+      "image": "recipes/us_am_mr_026/cover.webp",
+      "bytes": 7484,
+      "sha256": "de9a6ab43d6dcbfa5859727e1da21b77a36e1b8f2d66648fe28e455a43947ca0",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_027": {
+      "foodId": "us_am_mr_027",
+      "title": "Egg and Avocado Plate with Carrot",
+      "recipe": "recipes/us_am_mr_027/recipe.json",
+      "image": "recipes/us_am_mr_027/cover.webp",
+      "bytes": 7758,
+      "sha256": "48acf246129bd61ad26b5a57d6b9c0f264ddbe404bb98b6c6e63a10e709b7e7d",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_028": {
+      "foodId": "us_am_mr_028",
+      "title": "Egg and Avocado Plate with Ginger",
+      "recipe": "recipes/us_am_mr_028/recipe.json",
+      "image": "recipes/us_am_mr_028/cover.webp",
+      "bytes": 7388,
+      "sha256": "54a7e5697949ff9d52f8ef8e64f19c6ff85d90f8301d4bf9843a8c117c972649",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_029": {
+      "foodId": "us_am_mr_029",
+      "title": "Egg and Avocado Plate with Tomato",
+      "recipe": "recipes/us_am_mr_029/recipe.json",
+      "image": "recipes/us_am_mr_029/cover.webp",
+      "bytes": 7484,
+      "sha256": "d357a83299601c4de484b07b0e1bb3384099dd8bdfbec946384c126f046f3292",
+      "kind": "labeled_illustration"
+    },
+    "us_am_mr_030": {
+      "foodId": "us_am_mr_030",
+      "title": "Egg and Avocado Plate with Fresh Herbs",
+      "recipe": "recipes/us_am_mr_030/recipe.json",
+      "image": "recipes/us_am_mr_030/cover.webp",
+      "bytes": 7692,
+      "sha256": "02612249e06afa03f4af117ab64dba4aaa223293e731078962b8e4bacd5d56e6",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_001": {
+      "foodId": "us_am_hy_001",
+      "title": "Chicken Vegetable Broth",
+      "recipe": "recipes/us_am_hy_001/recipe.json",
+      "image": "recipes/us_am_hy_001/cover.webp",
+      "bytes": 6918,
+      "sha256": "e16fe22e96ac8aa7b364b5f89f6b9bf3e54fb4cf01f35f3b63b9ae7ff216007c",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_002": {
+      "foodId": "us_am_hy_002",
+      "title": "Chicken Vegetable Broth with Spinach",
+      "recipe": "recipes/us_am_hy_002/recipe.json",
+      "image": "recipes/us_am_hy_002/cover.webp",
+      "bytes": 7188,
+      "sha256": "b282d4542e26965620cc5d2b89483ed6aa1614efdf1deba0d50850914eb7a9eb",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_003": {
+      "foodId": "us_am_hy_003",
+      "title": "Chicken Vegetable Broth with Carrot",
+      "recipe": "recipes/us_am_hy_003/recipe.json",
+      "image": "recipes/us_am_hy_003/cover.webp",
+      "bytes": 7490,
+      "sha256": "47651941135c3be382e9d79d82297733c255e2f0d70e5ae941c775f515bb3adc",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_004": {
+      "foodId": "us_am_hy_004",
+      "title": "Chicken Vegetable Broth with Ginger",
+      "recipe": "recipes/us_am_hy_004/recipe.json",
+      "image": "recipes/us_am_hy_004/cover.webp",
+      "bytes": 7488,
+      "sha256": "0ec1f9d02ca43af3907c33e2a4386c331bae357f95e35dff22d5ebb68ead6eae",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_005": {
+      "foodId": "us_am_hy_005",
+      "title": "Chicken Vegetable Broth with Tomato",
+      "recipe": "recipes/us_am_hy_005/recipe.json",
+      "image": "recipes/us_am_hy_005/cover.webp",
+      "bytes": 7846,
+      "sha256": "6b6cce42feca9101fd3f25f57e00ef963c6f1b18093c70d57cdd9e07a3584c02",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_006": {
+      "foodId": "us_am_hy_006",
+      "title": "Chicken Vegetable Broth with Fresh Herbs",
+      "recipe": "recipes/us_am_hy_006/recipe.json",
+      "image": "recipes/us_am_hy_006/cover.webp",
+      "bytes": 7532,
+      "sha256": "06d3cf74eacc87d8d7c432deece2ce895124af34733d11a63a5dd4d6f574dc0c",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_007": {
+      "foodId": "us_am_hy_007",
+      "title": "Low Sodium Tomato Soup",
+      "recipe": "recipes/us_am_hy_007/recipe.json",
+      "image": "recipes/us_am_hy_007/cover.webp",
+      "bytes": 7054,
+      "sha256": "6c70324af426ffc1747e3ac67f50a52827458dddc061be942c2555bdfcd91493",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_008": {
+      "foodId": "us_am_hy_008",
+      "title": "Low Sodium Tomato Soup with Spinach",
+      "recipe": "recipes/us_am_hy_008/recipe.json",
+      "image": "recipes/us_am_hy_008/cover.webp",
+      "bytes": 7648,
+      "sha256": "79d4fd069783de896abb535248cc78f4cb10e7eeace054d2d2c15e43a2baf895",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_009": {
+      "foodId": "us_am_hy_009",
+      "title": "Low Sodium Tomato Soup with Carrot",
+      "recipe": "recipes/us_am_hy_009/recipe.json",
+      "image": "recipes/us_am_hy_009/cover.webp",
+      "bytes": 7626,
+      "sha256": "f621a339fb42ed97577d170c542f317c252c4006b53dadfa8169d802274d2aaf",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_010": {
+      "foodId": "us_am_hy_010",
+      "title": "Low Sodium Tomato Soup with Ginger",
+      "recipe": "recipes/us_am_hy_010/recipe.json",
+      "image": "recipes/us_am_hy_010/cover.webp",
+      "bytes": 7428,
+      "sha256": "e8919faa595421d1101d4d41b4cb1b92c9ac621b8077ecbe5e9fdd19a3432d44",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_011": {
+      "foodId": "us_am_hy_011",
+      "title": "Low Sodium Tomato Soup with Tomato",
+      "recipe": "recipes/us_am_hy_011/recipe.json",
+      "image": "recipes/us_am_hy_011/cover.webp",
+      "bytes": 7720,
+      "sha256": "7d992abf208b825fdf9434c83e55c053c9f02c4b9ce0828c1455c88e8e9b3563",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_012": {
+      "foodId": "us_am_hy_012",
+      "title": "Low Sodium Tomato Soup with Fresh Herbs",
+      "recipe": "recipes/us_am_hy_012/recipe.json",
+      "image": "recipes/us_am_hy_012/cover.webp",
+      "bytes": 7820,
+      "sha256": "681add7f44d19ef0563b97f732b7691f6766c77baea4ca1577a39e6e886f8395",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_013": {
+      "foodId": "us_am_hy_013",
+      "title": "Mushroom Vegetable Broth",
+      "recipe": "recipes/us_am_hy_013/recipe.json",
+      "image": "recipes/us_am_hy_013/cover.webp",
+      "bytes": 7038,
+      "sha256": "ffcf7254766a025347716ad2e5a2ff2ecf669a432d90ab4b1f1c5ef548f63115",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_014": {
+      "foodId": "us_am_hy_014",
+      "title": "Mushroom Vegetable Broth with Spinach",
+      "recipe": "recipes/us_am_hy_014/recipe.json",
+      "image": "recipes/us_am_hy_014/cover.webp",
+      "bytes": 7742,
+      "sha256": "0a9aa0158949509ba1a370a6ced3c75757314f183a079b422ebb64e4d7d386e4",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_015": {
+      "foodId": "us_am_hy_015",
+      "title": "Mushroom Vegetable Broth with Carrot",
+      "recipe": "recipes/us_am_hy_015/recipe.json",
+      "image": "recipes/us_am_hy_015/cover.webp",
+      "bytes": 7750,
+      "sha256": "120db0e859aa276f82ba5c47a2ef19ea02e4a7bc287117bce51add0643f224e0",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_016": {
+      "foodId": "us_am_hy_016",
+      "title": "Mushroom Vegetable Broth with Ginger",
+      "recipe": "recipes/us_am_hy_016/recipe.json",
+      "image": "recipes/us_am_hy_016/cover.webp",
+      "bytes": 7746,
+      "sha256": "bc7815960e727a5071da51eb7d91ce88fa6fddce432aae12bfe4286d120302be",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_017": {
+      "foodId": "us_am_hy_017",
+      "title": "Mushroom Vegetable Broth with Tomato",
+      "recipe": "recipes/us_am_hy_017/recipe.json",
+      "image": "recipes/us_am_hy_017/cover.webp",
+      "bytes": 7656,
+      "sha256": "2cefa3c7cace6ef62f988cfde4017d5eeeb88a3e36913fa834d5b4c8dc1ed743",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_018": {
+      "foodId": "us_am_hy_018",
+      "title": "Mushroom Vegetable Broth with Fresh Herbs",
+      "recipe": "recipes/us_am_hy_018/recipe.json",
+      "image": "recipes/us_am_hy_018/cover.webp",
+      "bytes": 7340,
+      "sha256": "1813923048c61b489f7cb8ab3f462fa97bdddd3e150e96cc806d5bf36d3b79a3",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_019": {
+      "foodId": "us_am_hy_019",
+      "title": "Carrot Ginger Soup",
+      "recipe": "recipes/us_am_hy_019/recipe.json",
+      "image": "recipes/us_am_hy_019/cover.webp",
+      "bytes": 6806,
+      "sha256": "30bd09549663e1a5ee8712274db8c19e129f384680ebdd39c408084fa9ab8add",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_020": {
+      "foodId": "us_am_hy_020",
+      "title": "Carrot Ginger Soup with Spinach",
+      "recipe": "recipes/us_am_hy_020/recipe.json",
+      "image": "recipes/us_am_hy_020/cover.webp",
+      "bytes": 7480,
+      "sha256": "44ab8fc555a353ebf2ed534f258423be81b40f99590fc9cb7d574fcb0baf51c6",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_021": {
+      "foodId": "us_am_hy_021",
+      "title": "Carrot Ginger Soup with Carrot",
+      "recipe": "recipes/us_am_hy_021/recipe.json",
+      "image": "recipes/us_am_hy_021/cover.webp",
+      "bytes": 7260,
+      "sha256": "54712b21e166ef4634c942fd7514823183647dcfcb7ea408545f2c9c1a71b38d",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_022": {
+      "foodId": "us_am_hy_022",
+      "title": "Carrot Ginger Soup with Ginger",
+      "recipe": "recipes/us_am_hy_022/recipe.json",
+      "image": "recipes/us_am_hy_022/cover.webp",
+      "bytes": 7194,
+      "sha256": "d638a10632cb0c25f90f7d9ffc4e6e013699a22f8643154ccde84d49fd27e62e",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_023": {
+      "foodId": "us_am_hy_023",
+      "title": "Carrot Ginger Soup with Tomato",
+      "recipe": "recipes/us_am_hy_023/recipe.json",
+      "image": "recipes/us_am_hy_023/cover.webp",
+      "bytes": 7404,
+      "sha256": "a5fb39e081aa5ea95cefab608ce16ad75074529b4c1cc4955c6ff776a0ab5ddc",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_024": {
+      "foodId": "us_am_hy_024",
+      "title": "Carrot Ginger Soup with Fresh Herbs",
+      "recipe": "recipes/us_am_hy_024/recipe.json",
+      "image": "recipes/us_am_hy_024/cover.webp",
+      "bytes": 7620,
+      "sha256": "b7dbe444bbf9ecc3db86e21672ecb903ce4a60bf53ac7ba4e6e5d2e469c20910",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_025": {
+      "foodId": "us_am_hy_025",
+      "title": "Spinach Bean Broth",
+      "recipe": "recipes/us_am_hy_025/recipe.json",
+      "image": "recipes/us_am_hy_025/cover.webp",
+      "bytes": 6556,
+      "sha256": "3ce5ce475f856e557772ad1328c2880cd2849405724fecc25744f9900d1b1870",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_026": {
+      "foodId": "us_am_hy_026",
+      "title": "Spinach Bean Broth with Spinach",
+      "recipe": "recipes/us_am_hy_026/recipe.json",
+      "image": "recipes/us_am_hy_026/cover.webp",
+      "bytes": 7320,
+      "sha256": "bcd0e4e9db99368e31d1ea0876aec1d94cebb920c0cc620bcbdcf4091d6c4c3b",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_027": {
+      "foodId": "us_am_hy_027",
+      "title": "Spinach Bean Broth with Carrot",
+      "recipe": "recipes/us_am_hy_027/recipe.json",
+      "image": "recipes/us_am_hy_027/cover.webp",
+      "bytes": 7064,
+      "sha256": "a20acfcafa09dc8092e7de5033de02270ee03567565e26c35c029938a6f66475",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_028": {
+      "foodId": "us_am_hy_028",
+      "title": "Spinach Bean Broth with Ginger",
+      "recipe": "recipes/us_am_hy_028/recipe.json",
+      "image": "recipes/us_am_hy_028/cover.webp",
+      "bytes": 7618,
+      "sha256": "d2813e5019e5020ef32451d56679bc27bd59f767ea34a300f63778fdaca25b50",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_029": {
+      "foodId": "us_am_hy_029",
+      "title": "Spinach Bean Broth with Tomato",
+      "recipe": "recipes/us_am_hy_029/recipe.json",
+      "image": "recipes/us_am_hy_029/cover.webp",
+      "bytes": 7386,
+      "sha256": "46c7eb414bb4eabc1f31b3680352b6f4debbf107791eba7ed472ff39f0d00735",
+      "kind": "labeled_illustration"
+    },
+    "us_am_hy_030": {
+      "foodId": "us_am_hy_030",
+      "title": "Spinach Bean Broth with Fresh Herbs",
+      "recipe": "recipes/us_am_hy_030/recipe.json",
+      "image": "recipes/us_am_hy_030/cover.webp",
+      "bytes": 7510,
+      "sha256": "67c2067a7a3e7a0b53eb8da2e293e6d148513a36ffcb79af7ff5ecf4a40ab304",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_001": {
+      "foodId": "us_am_ld_001",
+      "title": "Baked Sweet Potato",
+      "recipe": "recipes/us_am_ld_001/recipe.json",
+      "image": "recipes/us_am_ld_001/cover.webp",
+      "bytes": 7058,
+      "sha256": "f4e574612ecc810a1187760c2f5f45d5339a283967a35ea7f9f9c13c90f5915a",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_002": {
+      "foodId": "us_am_ld_002",
+      "title": "Baked Sweet Potato with Spinach",
+      "recipe": "recipes/us_am_ld_002/recipe.json",
+      "image": "recipes/us_am_ld_002/cover.webp",
+      "bytes": 7526,
+      "sha256": "75ec09bb2508b9d4617be2a1787396d8b52ea31a5e386f9b3b662b192f801642",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_003": {
+      "foodId": "us_am_ld_003",
+      "title": "Baked Sweet Potato with Carrot",
+      "recipe": "recipes/us_am_ld_003/recipe.json",
+      "image": "recipes/us_am_ld_003/cover.webp",
+      "bytes": 7420,
+      "sha256": "3a4370f78c15980fc1c313d4b81f4de8393f7f3946dd1948f706626b825f018f",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_004": {
+      "foodId": "us_am_ld_004",
+      "title": "Baked Sweet Potato with Ginger",
+      "recipe": "recipes/us_am_ld_004/recipe.json",
+      "image": "recipes/us_am_ld_004/cover.webp",
+      "bytes": 7578,
+      "sha256": "38acf474d40166265176f2bf179119d1baf0e9e417858f67a90b98617d65966a",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_005": {
+      "foodId": "us_am_ld_005",
+      "title": "Baked Sweet Potato with Tomato",
+      "recipe": "recipes/us_am_ld_005/recipe.json",
+      "image": "recipes/us_am_ld_005/cover.webp",
+      "bytes": 7690,
+      "sha256": "a724aa98af0ec49c8923a76316b6f660e4afa067f459cff7942b7259f3c8b13b",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_006": {
+      "foodId": "us_am_ld_006",
+      "title": "Baked Sweet Potato with Fresh Herbs",
+      "recipe": "recipes/us_am_ld_006/recipe.json",
+      "image": "recipes/us_am_ld_006/cover.webp",
+      "bytes": 7626,
+      "sha256": "bbf9c25babb24767acd6184586ce41c00c9120cc0fd4865859f81f25eb7ce196",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_007": {
+      "foodId": "us_am_ld_007",
+      "title": "Greek Yogurt Oat Bowl",
+      "recipe": "recipes/us_am_ld_007/recipe.json",
+      "image": "recipes/us_am_ld_007/cover.webp",
+      "bytes": 6876,
+      "sha256": "0de4e8078a41852f10abdb200d46bd07b419a4a3c4ab13d19b66b604ba4b7465",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_008": {
+      "foodId": "us_am_ld_008",
+      "title": "Greek Yogurt Oat Bowl with Spinach",
+      "recipe": "recipes/us_am_ld_008/recipe.json",
+      "image": "recipes/us_am_ld_008/cover.webp",
+      "bytes": 7562,
+      "sha256": "0bd9517c874fc9d05aaa47ec652f2e43b88f67bc88eadc44b7762d9b35cd3f19",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_009": {
+      "foodId": "us_am_ld_009",
+      "title": "Greek Yogurt Oat Bowl with Carrot",
+      "recipe": "recipes/us_am_ld_009/recipe.json",
+      "image": "recipes/us_am_ld_009/cover.webp",
+      "bytes": 7480,
+      "sha256": "418251e2ee8f608b0d3ab2196ff09df3147125d044bb05fc797cb92973deaee7",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_010": {
+      "foodId": "us_am_ld_010",
+      "title": "Greek Yogurt Oat Bowl with Ginger",
+      "recipe": "recipes/us_am_ld_010/recipe.json",
+      "image": "recipes/us_am_ld_010/cover.webp",
+      "bytes": 7456,
+      "sha256": "557c0022d62a7cd74bc6f78c86cade31ed1617e6a1a6a38a4875f0c73abe850e",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_011": {
+      "foodId": "us_am_ld_011",
+      "title": "Greek Yogurt Oat Bowl with Tomato",
+      "recipe": "recipes/us_am_ld_011/recipe.json",
+      "image": "recipes/us_am_ld_011/cover.webp",
+      "bytes": 7516,
+      "sha256": "801a927e0febbfc32149fd3482962d4936219377daf9d39a461b8702c9da2bff",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_012": {
+      "foodId": "us_am_ld_012",
+      "title": "Greek Yogurt Oat Bowl with Fresh Herbs",
+      "recipe": "recipes/us_am_ld_012/recipe.json",
+      "image": "recipes/us_am_ld_012/cover.webp",
+      "bytes": 7560,
+      "sha256": "cf6e736437fd8d14677889645ebe0a8f7cfc5a8e005bf40e9bcf142704d80dd6",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_013": {
+      "foodId": "us_am_ld_013",
+      "title": "Soft Vegetable Omelet",
+      "recipe": "recipes/us_am_ld_013/recipe.json",
+      "image": "recipes/us_am_ld_013/cover.webp",
+      "bytes": 6876,
+      "sha256": "f13103a285c97f13785f4aa15bad1ed4d20227075fd88c2e3d68de21b8178b7a",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_014": {
+      "foodId": "us_am_ld_014",
+      "title": "Soft Vegetable Omelet with Spinach",
+      "recipe": "recipes/us_am_ld_014/recipe.json",
+      "image": "recipes/us_am_ld_014/cover.webp",
+      "bytes": 7454,
+      "sha256": "ffcfe3cf83c6b269a31e227d958817d87368055fb96f82252278e2ce035c2960",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_015": {
+      "foodId": "us_am_ld_015",
+      "title": "Soft Vegetable Omelet with Carrot",
+      "recipe": "recipes/us_am_ld_015/recipe.json",
+      "image": "recipes/us_am_ld_015/cover.webp",
+      "bytes": 7270,
+      "sha256": "f25d41a531fa7959be9ed34dd00b22dc4b8f5073e45bebf3acf97c022783224a",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_016": {
+      "foodId": "us_am_ld_016",
+      "title": "Soft Vegetable Omelet with Ginger",
+      "recipe": "recipes/us_am_ld_016/recipe.json",
+      "image": "recipes/us_am_ld_016/cover.webp",
+      "bytes": 7740,
+      "sha256": "e581d4a99ce5320cc40522aa1ce256fea28a7787d83aba551d3935a885c9ba4d",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_017": {
+      "foodId": "us_am_ld_017",
+      "title": "Soft Vegetable Omelet with Tomato",
+      "recipe": "recipes/us_am_ld_017/recipe.json",
+      "image": "recipes/us_am_ld_017/cover.webp",
+      "bytes": 7670,
+      "sha256": "2ce94250226d82f9b3359ea5e94a9ff00bf1b224b506f49d87bebea13f3e0f73",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_018": {
+      "foodId": "us_am_ld_018",
+      "title": "Soft Vegetable Omelet with Fresh Herbs",
+      "recipe": "recipes/us_am_ld_018/recipe.json",
+      "image": "recipes/us_am_ld_018/cover.webp",
+      "bytes": 7892,
+      "sha256": "ffb58dcf6a38d5036710b32bd45b41ca837abc90fe6ddf4af7ed0f6d0380f6db",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_019": {
+      "foodId": "us_am_ld_019",
+      "title": "Lentil Vegetable Soup",
+      "recipe": "recipes/us_am_ld_019/recipe.json",
+      "image": "recipes/us_am_ld_019/cover.webp",
+      "bytes": 6958,
+      "sha256": "0525f0b6098a4c8fa2e09ea0270fb26a88d2d83b848d78fd03404d521d2915fa",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_020": {
+      "foodId": "us_am_ld_020",
+      "title": "Lentil Vegetable Soup with Spinach",
+      "recipe": "recipes/us_am_ld_020/recipe.json",
+      "image": "recipes/us_am_ld_020/cover.webp",
+      "bytes": 7342,
+      "sha256": "941bd3526a0978a0f6e4b84241a73c23f72c31859e643db5e386d2a4c4774e6d",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_021": {
+      "foodId": "us_am_ld_021",
+      "title": "Lentil Vegetable Soup with Carrot",
+      "recipe": "recipes/us_am_ld_021/recipe.json",
+      "image": "recipes/us_am_ld_021/cover.webp",
+      "bytes": 7260,
+      "sha256": "39784a59a187d7064cacd66408e68d9abd52cdd67e26e64fb05c9c6edf2e27ab",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_022": {
+      "foodId": "us_am_ld_022",
+      "title": "Lentil Vegetable Soup with Ginger",
+      "recipe": "recipes/us_am_ld_022/recipe.json",
+      "image": "recipes/us_am_ld_022/cover.webp",
+      "bytes": 7418,
+      "sha256": "9f73c6728401c73ac0ac84f71b7692bd00f3def9f217956e446329dec41a7b25",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_023": {
+      "foodId": "us_am_ld_023",
+      "title": "Lentil Vegetable Soup with Tomato",
+      "recipe": "recipes/us_am_ld_023/recipe.json",
+      "image": "recipes/us_am_ld_023/cover.webp",
+      "bytes": 7368,
+      "sha256": "382a70e4550a7148657990162376fd85fdbe3588d3877a8f5d1d2a2141240bfe",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_024": {
+      "foodId": "us_am_ld_024",
+      "title": "Lentil Vegetable Soup with Fresh Herbs",
+      "recipe": "recipes/us_am_ld_024/recipe.json",
+      "image": "recipes/us_am_ld_024/cover.webp",
+      "bytes": 7260,
+      "sha256": "c092c8f638d0656c0761d5d6c6039c424bc3a9f5a09cd863ab3b20755c2c313b",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_025": {
+      "foodId": "us_am_ld_025",
+      "title": "Cottage Cheese and Berries",
+      "recipe": "recipes/us_am_ld_025/recipe.json",
+      "image": "recipes/us_am_ld_025/cover.webp",
+      "bytes": 7080,
+      "sha256": "437c0a07ae5ef272c1f1f67ab96f7f34af160ebc2113a65c27843721f60c689f",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_026": {
+      "foodId": "us_am_ld_026",
+      "title": "Cottage Cheese and Berries with Spinach",
+      "recipe": "recipes/us_am_ld_026/recipe.json",
+      "image": "recipes/us_am_ld_026/cover.webp",
+      "bytes": 7448,
+      "sha256": "c30a6ee7621541efc00d8587b9a02f5cbd3a24345ef500d4121724550ddb4ccd",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_027": {
+      "foodId": "us_am_ld_027",
+      "title": "Cottage Cheese and Berries with Carrot",
+      "recipe": "recipes/us_am_ld_027/recipe.json",
+      "image": "recipes/us_am_ld_027/cover.webp",
+      "bytes": 7784,
+      "sha256": "17a087666cfe4415c1dcb25d83c1ebfc736c4f47073d6f73d102751ed2ca14b2",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_028": {
+      "foodId": "us_am_ld_028",
+      "title": "Cottage Cheese and Berries with Ginger",
+      "recipe": "recipes/us_am_ld_028/recipe.json",
+      "image": "recipes/us_am_ld_028/cover.webp",
+      "bytes": 7324,
+      "sha256": "caed6247a73380e5d200eb62366200fcc6a86aaf0de9145d5aa03b02abb2fe55",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_029": {
+      "foodId": "us_am_ld_029",
+      "title": "Cottage Cheese and Berries with Tomato",
+      "recipe": "recipes/us_am_ld_029/recipe.json",
+      "image": "recipes/us_am_ld_029/cover.webp",
+      "bytes": 7568,
+      "sha256": "c6886ffbc242dcd28ff796b46774f3e5698a2a4f246c0b36a79355c7b588a701",
+      "kind": "labeled_illustration"
+    },
+    "us_am_ld_030": {
+      "foodId": "us_am_ld_030",
+      "title": "Cottage Cheese and Berries with Fresh Herbs",
+      "recipe": "recipes/us_am_ld_030/recipe.json",
+      "image": "recipes/us_am_ld_030/cover.webp",
+      "bytes": 7494,
+      "sha256": "dacc17d0fc49dbaed076190cebd2720f27fbe0915453df7a659a68eae7b163fb",
+      "kind": "labeled_illustration"
+    }
+  }
+}

@@ -1,0 +1,1086 @@
+{
+  "locale": "bd",
+  "imageType": "labeled_illustration",
+  "assets": {
+    "bd_be_wo_001": {
+      "foodId": "bd_be_wo_001",
+      "title": "Soft Moong Dal",
+      "recipe": "recipes/bd_be_wo_001/recipe.json",
+      "image": "recipes/bd_be_wo_001/cover.webp",
+      "bytes": 6648,
+      "sha256": "4088f9a1c69bda755c6fa029bd25e96e94fa5561d8ecee2dde1a7e763a0c1957",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_002": {
+      "foodId": "bd_be_wo_002",
+      "title": "Soft Moong Dal with Spinach",
+      "recipe": "recipes/bd_be_wo_002/recipe.json",
+      "image": "recipes/bd_be_wo_002/cover.webp",
+      "bytes": 7418,
+      "sha256": "3fd8af33b8dcbba09945e3c49a75a328a655940a310a71fe05900f2e889c6bd0",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_003": {
+      "foodId": "bd_be_wo_003",
+      "title": "Soft Moong Dal with Carrot",
+      "recipe": "recipes/bd_be_wo_003/recipe.json",
+      "image": "recipes/bd_be_wo_003/cover.webp",
+      "bytes": 7128,
+      "sha256": "8a17f7f5c6a7c5c1e2a41c57cf0564db2679d23be1ac7163da6c68a689e3ebbf",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_004": {
+      "foodId": "bd_be_wo_004",
+      "title": "Soft Moong Dal with Ginger",
+      "recipe": "recipes/bd_be_wo_004/recipe.json",
+      "image": "recipes/bd_be_wo_004/cover.webp",
+      "bytes": 7308,
+      "sha256": "95f599547c5d1fe8639cf1bbb2161c287a401c3a85f932d99b9c3e8fda13d31c",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_005": {
+      "foodId": "bd_be_wo_005",
+      "title": "Soft Moong Dal with Tomato",
+      "recipe": "recipes/bd_be_wo_005/recipe.json",
+      "image": "recipes/bd_be_wo_005/cover.webp",
+      "bytes": 7186,
+      "sha256": "bc7e6d3490d87c2b22bbd9f2b2fe599dac3ebf2d52869ed9700abc5412e2eed9",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_006": {
+      "foodId": "bd_be_wo_006",
+      "title": "Soft Moong Dal with Fresh Herbs",
+      "recipe": "recipes/bd_be_wo_006/recipe.json",
+      "image": "recipes/bd_be_wo_006/cover.webp",
+      "bytes": 7410,
+      "sha256": "773fac343e007beb4ba6552f2c77d45cf30b9e55fc871646287a70c4dc8b91e3",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_007": {
+      "foodId": "bd_be_wo_007",
+      "title": "Chira with Plain Yogurt",
+      "recipe": "recipes/bd_be_wo_007/recipe.json",
+      "image": "recipes/bd_be_wo_007/cover.webp",
+      "bytes": 6964,
+      "sha256": "b7f8b733e5b068c8f2262e86eddf64263e472d61da841842411e5e7ab2b31b81",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_008": {
+      "foodId": "bd_be_wo_008",
+      "title": "Chira with Plain Yogurt with Spinach",
+      "recipe": "recipes/bd_be_wo_008/recipe.json",
+      "image": "recipes/bd_be_wo_008/cover.webp",
+      "bytes": 7712,
+      "sha256": "8b9d819c211a72ae453c0c4797b95f5b0d2a8bf88b9a4444af790779deb3ce89",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_009": {
+      "foodId": "bd_be_wo_009",
+      "title": "Chira with Plain Yogurt with Carrot",
+      "recipe": "recipes/bd_be_wo_009/recipe.json",
+      "image": "recipes/bd_be_wo_009/cover.webp",
+      "bytes": 7674,
+      "sha256": "98b111775d5255f8f5120eb9028dabb4fd95ab4254880640e338e923792b3de0",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_010": {
+      "foodId": "bd_be_wo_010",
+      "title": "Chira with Plain Yogurt with Ginger",
+      "recipe": "recipes/bd_be_wo_010/recipe.json",
+      "image": "recipes/bd_be_wo_010/cover.webp",
+      "bytes": 7414,
+      "sha256": "a570180b3fb5bdfb8e39084fdd96d96cb5ab8bfa3bae8653036c67f098876419",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_011": {
+      "foodId": "bd_be_wo_011",
+      "title": "Chira with Plain Yogurt with Tomato",
+      "recipe": "recipes/bd_be_wo_011/recipe.json",
+      "image": "recipes/bd_be_wo_011/cover.webp",
+      "bytes": 7734,
+      "sha256": "29c8f2cdd6f01ca52150bdb0ce24e2d542f72dae0ec6238cba276257fbfa326c",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_012": {
+      "foodId": "bd_be_wo_012",
+      "title": "Chira with Plain Yogurt with Fresh Herbs",
+      "recipe": "recipes/bd_be_wo_012/recipe.json",
+      "image": "recipes/bd_be_wo_012/cover.webp",
+      "bytes": 8052,
+      "sha256": "7029b6250e707af3d1365bebca108ca8f7b520fcfbe1dc9f5ca2706292ca64ce",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_013": {
+      "foodId": "bd_be_wo_013",
+      "title": "Vegetable Suji",
+      "recipe": "recipes/bd_be_wo_013/recipe.json",
+      "image": "recipes/bd_be_wo_013/cover.webp",
+      "bytes": 6260,
+      "sha256": "99407cf683b289ca389e4165992c6b25a30398a983f32ab7eb38af84f5d14175",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_014": {
+      "foodId": "bd_be_wo_014",
+      "title": "Vegetable Suji with Spinach",
+      "recipe": "recipes/bd_be_wo_014/recipe.json",
+      "image": "recipes/bd_be_wo_014/cover.webp",
+      "bytes": 7224,
+      "sha256": "61a46253d5a50b884099f04bbcb5cacbaf6360c0e5a68536e6bba1dc3199ae68",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_015": {
+      "foodId": "bd_be_wo_015",
+      "title": "Vegetable Suji with Carrot",
+      "recipe": "recipes/bd_be_wo_015/recipe.json",
+      "image": "recipes/bd_be_wo_015/cover.webp",
+      "bytes": 7246,
+      "sha256": "795af3e236eb6b94533a6c6a2906fde2c129a2f0fd2cb6f72a58ffd2b8d2a9c6",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_016": {
+      "foodId": "bd_be_wo_016",
+      "title": "Vegetable Suji with Ginger",
+      "recipe": "recipes/bd_be_wo_016/recipe.json",
+      "image": "recipes/bd_be_wo_016/cover.webp",
+      "bytes": 7194,
+      "sha256": "8dab88b554509acfc6b0c88eaaba5a8a4dbf0f6ad21fb576ab2b79134e317e2d",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_017": {
+      "foodId": "bd_be_wo_017",
+      "title": "Vegetable Suji with Tomato",
+      "recipe": "recipes/bd_be_wo_017/recipe.json",
+      "image": "recipes/bd_be_wo_017/cover.webp",
+      "bytes": 7172,
+      "sha256": "c89d2dc55361f9daef859953d5336aed6febbcef45d58dd2510091f7202a3ce2",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_018": {
+      "foodId": "bd_be_wo_018",
+      "title": "Vegetable Suji with Fresh Herbs",
+      "recipe": "recipes/bd_be_wo_018/recipe.json",
+      "image": "recipes/bd_be_wo_018/cover.webp",
+      "bytes": 7676,
+      "sha256": "0502605ae447b0efcdd8ccb1f9892477964c98996ba29825b27401d8b6592131",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_019": {
+      "foodId": "bd_be_wo_019",
+      "title": "Steamed Egg Custard",
+      "recipe": "recipes/bd_be_wo_019/recipe.json",
+      "image": "recipes/bd_be_wo_019/cover.webp",
+      "bytes": 6882,
+      "sha256": "37bba9f25745ec57b001283e472a0f9b879751db9e689eb47db6a2d68217fd1c",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_020": {
+      "foodId": "bd_be_wo_020",
+      "title": "Steamed Egg Custard with Spinach",
+      "recipe": "recipes/bd_be_wo_020/recipe.json",
+      "image": "recipes/bd_be_wo_020/cover.webp",
+      "bytes": 7154,
+      "sha256": "0acabdba0a0557ebfbc7fbf36705fb246b1b0dcde5ffe086020f920b8b036f99",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_021": {
+      "foodId": "bd_be_wo_021",
+      "title": "Steamed Egg Custard with Carrot",
+      "recipe": "recipes/bd_be_wo_021/recipe.json",
+      "image": "recipes/bd_be_wo_021/cover.webp",
+      "bytes": 7586,
+      "sha256": "9af295325f084a4b0087e7e628a597fa68f78d035d471a5d3748e476d492245f",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_022": {
+      "foodId": "bd_be_wo_022",
+      "title": "Steamed Egg Custard with Ginger",
+      "recipe": "recipes/bd_be_wo_022/recipe.json",
+      "image": "recipes/bd_be_wo_022/cover.webp",
+      "bytes": 7022,
+      "sha256": "761d8a123734fa94d1243d6ce6d27b9607f9dcd33f29f3cac869310f2d54f0ce",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_023": {
+      "foodId": "bd_be_wo_023",
+      "title": "Steamed Egg Custard with Tomato",
+      "recipe": "recipes/bd_be_wo_023/recipe.json",
+      "image": "recipes/bd_be_wo_023/cover.webp",
+      "bytes": 7436,
+      "sha256": "2472f2b694bc6c9b895231e3a4b86ff821e14065adcff9fe62ba2d14ac002c61",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_024": {
+      "foodId": "bd_be_wo_024",
+      "title": "Steamed Egg Custard with Fresh Herbs",
+      "recipe": "recipes/bd_be_wo_024/recipe.json",
+      "image": "recipes/bd_be_wo_024/cover.webp",
+      "bytes": 7594,
+      "sha256": "de21b108a747a75cf1f82128876e8905b374c03b26f1815eba0a214fb24e0ab9",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_025": {
+      "foodId": "bd_be_wo_025",
+      "title": "Rice and Masoor Broth",
+      "recipe": "recipes/bd_be_wo_025/recipe.json",
+      "image": "recipes/bd_be_wo_025/cover.webp",
+      "bytes": 6862,
+      "sha256": "d0d20f2588508a0962db564935097ce4b943951ca875908bc85350b0b1baa2a3",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_026": {
+      "foodId": "bd_be_wo_026",
+      "title": "Rice and Masoor Broth with Spinach",
+      "recipe": "recipes/bd_be_wo_026/recipe.json",
+      "image": "recipes/bd_be_wo_026/cover.webp",
+      "bytes": 7530,
+      "sha256": "301aacefe786736a1e65d8049e197bd9faedb87818740049de00f27bb070d3df",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_027": {
+      "foodId": "bd_be_wo_027",
+      "title": "Rice and Masoor Broth with Carrot",
+      "recipe": "recipes/bd_be_wo_027/recipe.json",
+      "image": "recipes/bd_be_wo_027/cover.webp",
+      "bytes": 7092,
+      "sha256": "26138002249cfe33a65a4cacd0513841cbfbd2ab121089bb00940f8791579486",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_028": {
+      "foodId": "bd_be_wo_028",
+      "title": "Rice and Masoor Broth with Ginger",
+      "recipe": "recipes/bd_be_wo_028/recipe.json",
+      "image": "recipes/bd_be_wo_028/cover.webp",
+      "bytes": 7350,
+      "sha256": "c197364d89a34e572eebd9f1d1ed072b02d389fc60051e6a24a3918480836ec1",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_029": {
+      "foodId": "bd_be_wo_029",
+      "title": "Rice and Masoor Broth with Tomato",
+      "recipe": "recipes/bd_be_wo_029/recipe.json",
+      "image": "recipes/bd_be_wo_029/cover.webp",
+      "bytes": 7448,
+      "sha256": "20989aac03d1a93b105ac6b3fc06764a35250838cc74c285e01183450ee86eac",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_wo_030": {
+      "foodId": "bd_be_wo_030",
+      "title": "Rice and Masoor Broth with Fresh Herbs",
+      "recipe": "recipes/bd_be_wo_030/recipe.json",
+      "image": "recipes/bd_be_wo_030/cover.webp",
+      "bytes": 7694,
+      "sha256": "fa92fc74993ef87d53b498bab5852ce9322749637228abe530694ef244c77176",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_001": {
+      "foodId": "bd_be_mr_001",
+      "title": "Fish Curry with Rice",
+      "recipe": "recipes/bd_be_mr_001/recipe.json",
+      "image": "recipes/bd_be_mr_001/cover.webp",
+      "bytes": 6864,
+      "sha256": "4cbbafa37976bf8e902946b7fb87a7fb1880f4a75a59eb9d1bd93c7dafd7ae4a",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_002": {
+      "foodId": "bd_be_mr_002",
+      "title": "Fish Curry with Rice with Spinach",
+      "recipe": "recipes/bd_be_mr_002/recipe.json",
+      "image": "recipes/bd_be_mr_002/cover.webp",
+      "bytes": 7478,
+      "sha256": "24fde64ce39e335059a6ba6a8cdf87570f309f8cc8e9c0d999720d99eeaebcac",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_003": {
+      "foodId": "bd_be_mr_003",
+      "title": "Fish Curry with Rice with Carrot",
+      "recipe": "recipes/bd_be_mr_003/recipe.json",
+      "image": "recipes/bd_be_mr_003/cover.webp",
+      "bytes": 7532,
+      "sha256": "925805bda1ae5b81480ee212278cf01018c076962afe459c5b447313974d0f33",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_004": {
+      "foodId": "bd_be_mr_004",
+      "title": "Fish Curry with Rice with Ginger",
+      "recipe": "recipes/bd_be_mr_004/recipe.json",
+      "image": "recipes/bd_be_mr_004/cover.webp",
+      "bytes": 7850,
+      "sha256": "9312eedfc52dd8ba73b830d305b4289cfcad25c22c40618db8845108f6ef98ba",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_005": {
+      "foodId": "bd_be_mr_005",
+      "title": "Fish Curry with Rice with Tomato",
+      "recipe": "recipes/bd_be_mr_005/recipe.json",
+      "image": "recipes/bd_be_mr_005/cover.webp",
+      "bytes": 7212,
+      "sha256": "24c991d5da132e20861b76edb1b62ded17093ef3b73ea59133c800f00b9e039f",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_006": {
+      "foodId": "bd_be_mr_006",
+      "title": "Fish Curry with Rice with Fresh Herbs",
+      "recipe": "recipes/bd_be_mr_006/recipe.json",
+      "image": "recipes/bd_be_mr_006/cover.webp",
+      "bytes": 7816,
+      "sha256": "4c2a8e16f3d58c3628fc98fbf7531e791b223f87e4cbc45725b922e8ba2b751a",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_007": {
+      "foodId": "bd_be_mr_007",
+      "title": "Chicken Jhol Bowl",
+      "recipe": "recipes/bd_be_mr_007/recipe.json",
+      "image": "recipes/bd_be_mr_007/cover.webp",
+      "bytes": 6512,
+      "sha256": "7ba441d23e9f997d3f100d39596b0e97abd6d2bb6c7629a0784f370b99549e29",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_008": {
+      "foodId": "bd_be_mr_008",
+      "title": "Chicken Jhol Bowl with Spinach",
+      "recipe": "recipes/bd_be_mr_008/recipe.json",
+      "image": "recipes/bd_be_mr_008/cover.webp",
+      "bytes": 6928,
+      "sha256": "c0578a9bf4406e0639824fc1f0e7c3d282a3f62302392d1c1dfb9b6d9bafd05e",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_009": {
+      "foodId": "bd_be_mr_009",
+      "title": "Chicken Jhol Bowl with Carrot",
+      "recipe": "recipes/bd_be_mr_009/recipe.json",
+      "image": "recipes/bd_be_mr_009/cover.webp",
+      "bytes": 6910,
+      "sha256": "90f1420880f5dd7ec7d097032c7bebd13a33935cafeb597e683c056a355c0200",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_010": {
+      "foodId": "bd_be_mr_010",
+      "title": "Chicken Jhol Bowl with Ginger",
+      "recipe": "recipes/bd_be_mr_010/recipe.json",
+      "image": "recipes/bd_be_mr_010/cover.webp",
+      "bytes": 6820,
+      "sha256": "32b8c66290002476d2b24ff703d762521ea44528d3e8e1ba195c0c683b3f5453",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_011": {
+      "foodId": "bd_be_mr_011",
+      "title": "Chicken Jhol Bowl with Tomato",
+      "recipe": "recipes/bd_be_mr_011/recipe.json",
+      "image": "recipes/bd_be_mr_011/cover.webp",
+      "bytes": 7160,
+      "sha256": "c8823a442b32a5b5888b5cda06729a1f78b97928c553e7dc69e0a96f25d48381",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_012": {
+      "foodId": "bd_be_mr_012",
+      "title": "Chicken Jhol Bowl with Fresh Herbs",
+      "recipe": "recipes/bd_be_mr_012/recipe.json",
+      "image": "recipes/bd_be_mr_012/cover.webp",
+      "bytes": 7234,
+      "sha256": "ec1adab117c4808399a86fe39a62b0729c274a5e5c441571e0f1aeb31f1c9d4a",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_013": {
+      "foodId": "bd_be_mr_013",
+      "title": "Masoor Dal and Egg",
+      "recipe": "recipes/bd_be_mr_013/recipe.json",
+      "image": "recipes/bd_be_mr_013/cover.webp",
+      "bytes": 6950,
+      "sha256": "f6eba442feb994c1b0f63005bc4757d6ffcd3450b2474e3149602d9276ea2fe7",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_014": {
+      "foodId": "bd_be_mr_014",
+      "title": "Masoor Dal and Egg with Spinach",
+      "recipe": "recipes/bd_be_mr_014/recipe.json",
+      "image": "recipes/bd_be_mr_014/cover.webp",
+      "bytes": 7322,
+      "sha256": "a7f2e6860c4c62aa70bfa086ce49ea391d5e405d8de5fcad1caa69b4e1682c8b",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_015": {
+      "foodId": "bd_be_mr_015",
+      "title": "Masoor Dal and Egg with Carrot",
+      "recipe": "recipes/bd_be_mr_015/recipe.json",
+      "image": "recipes/bd_be_mr_015/cover.webp",
+      "bytes": 7394,
+      "sha256": "cde7555ab6707869a7ce1c811961038b421df2e1f84b78e54660d550d85c4b1c",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_016": {
+      "foodId": "bd_be_mr_016",
+      "title": "Masoor Dal and Egg with Ginger",
+      "recipe": "recipes/bd_be_mr_016/recipe.json",
+      "image": "recipes/bd_be_mr_016/cover.webp",
+      "bytes": 7674,
+      "sha256": "b94780fd26c3be3a3419430ff73c0ca074a54ddaf49a0691488eb60976aedaff",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_017": {
+      "foodId": "bd_be_mr_017",
+      "title": "Masoor Dal and Egg with Tomato",
+      "recipe": "recipes/bd_be_mr_017/recipe.json",
+      "image": "recipes/bd_be_mr_017/cover.webp",
+      "bytes": 7622,
+      "sha256": "4fb01c8a92b49b9909c375a4938f6ff013a29272e0dac65df6d537c0f1d5c1f1",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_018": {
+      "foodId": "bd_be_mr_018",
+      "title": "Masoor Dal and Egg with Fresh Herbs",
+      "recipe": "recipes/bd_be_mr_018/recipe.json",
+      "image": "recipes/bd_be_mr_018/cover.webp",
+      "bytes": 7864,
+      "sha256": "dcc7da5493d91dc66100eb33b962d47a19c1c64bdb8584f9d980cedd0d2c170f",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_019": {
+      "foodId": "bd_be_mr_019",
+      "title": "Chickpea Vegetable Bhuna",
+      "recipe": "recipes/bd_be_mr_019/recipe.json",
+      "image": "recipes/bd_be_mr_019/cover.webp",
+      "bytes": 7202,
+      "sha256": "6795f8318b117755e89793e4143e8191c70737f4072cc5963a3875d9e840c8b8",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_020": {
+      "foodId": "bd_be_mr_020",
+      "title": "Chickpea Vegetable Bhuna with Spinach",
+      "recipe": "recipes/bd_be_mr_020/recipe.json",
+      "image": "recipes/bd_be_mr_020/cover.webp",
+      "bytes": 7936,
+      "sha256": "f109f089d510076a96df5050b449383bf8c745f66a6485e4ee81f536341067cc",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_021": {
+      "foodId": "bd_be_mr_021",
+      "title": "Chickpea Vegetable Bhuna with Carrot",
+      "recipe": "recipes/bd_be_mr_021/recipe.json",
+      "image": "recipes/bd_be_mr_021/cover.webp",
+      "bytes": 7492,
+      "sha256": "ca52421a01ae3df4acd0a3733c3201b962e158fc934da33a50f5474485258fab",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_022": {
+      "foodId": "bd_be_mr_022",
+      "title": "Chickpea Vegetable Bhuna with Ginger",
+      "recipe": "recipes/bd_be_mr_022/recipe.json",
+      "image": "recipes/bd_be_mr_022/cover.webp",
+      "bytes": 7482,
+      "sha256": "30ead82a95dd091b791f90398e4052d5274601a45064795cb09756a1796833ad",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_023": {
+      "foodId": "bd_be_mr_023",
+      "title": "Chickpea Vegetable Bhuna with Tomato",
+      "recipe": "recipes/bd_be_mr_023/recipe.json",
+      "image": "recipes/bd_be_mr_023/cover.webp",
+      "bytes": 7806,
+      "sha256": "ec5e58194a09648c6fc3dd33758eb39fb6340a118b9517549c604c0111d17462",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_024": {
+      "foodId": "bd_be_mr_024",
+      "title": "Chickpea Vegetable Bhuna with Fresh Herbs",
+      "recipe": "recipes/bd_be_mr_024/recipe.json",
+      "image": "recipes/bd_be_mr_024/cover.webp",
+      "bytes": 8014,
+      "sha256": "4204d10ee5ddcb29e465f2e7e65c3e8d5f298a22a4ed1edad4f1d48a8d66a206",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_025": {
+      "foodId": "bd_be_mr_025",
+      "title": "Grilled Fish with Greens",
+      "recipe": "recipes/bd_be_mr_025/recipe.json",
+      "image": "recipes/bd_be_mr_025/cover.webp",
+      "bytes": 6618,
+      "sha256": "593a857dc752b4cd3dfa1614d12a101eab49e7f350201244125f406da62c407e",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_026": {
+      "foodId": "bd_be_mr_026",
+      "title": "Grilled Fish with Greens with Spinach",
+      "recipe": "recipes/bd_be_mr_026/recipe.json",
+      "image": "recipes/bd_be_mr_026/cover.webp",
+      "bytes": 7240,
+      "sha256": "201b0faef22ad51dcffffa84563235e2ea1da9c89767b8c033a82c926028b93e",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_027": {
+      "foodId": "bd_be_mr_027",
+      "title": "Grilled Fish with Greens with Carrot",
+      "recipe": "recipes/bd_be_mr_027/recipe.json",
+      "image": "recipes/bd_be_mr_027/cover.webp",
+      "bytes": 7676,
+      "sha256": "7f1c9b8f373823f60d93ea114a6a3a6b49c6afad43e075ecbd460707a37b68c9",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_028": {
+      "foodId": "bd_be_mr_028",
+      "title": "Grilled Fish with Greens with Ginger",
+      "recipe": "recipes/bd_be_mr_028/recipe.json",
+      "image": "recipes/bd_be_mr_028/cover.webp",
+      "bytes": 8118,
+      "sha256": "72fcb2651d9a1b26c557e26992f00436a9fe370cb49d0be6e248a088aa689cec",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_029": {
+      "foodId": "bd_be_mr_029",
+      "title": "Grilled Fish with Greens with Tomato",
+      "recipe": "recipes/bd_be_mr_029/recipe.json",
+      "image": "recipes/bd_be_mr_029/cover.webp",
+      "bytes": 7538,
+      "sha256": "a4218e8c290701e8e3ec00fa69d99d24f889ded8e1f3f907eded2c12978d7534",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_mr_030": {
+      "foodId": "bd_be_mr_030",
+      "title": "Grilled Fish with Greens with Fresh Herbs",
+      "recipe": "recipes/bd_be_mr_030/recipe.json",
+      "image": "recipes/bd_be_mr_030/cover.webp",
+      "bytes": 7650,
+      "sha256": "a39ea1b655afead372bc230b7fccb3800f8f59ab9d7bb48fe9dc11ad1ad230be",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_001": {
+      "foodId": "bd_be_hy_001",
+      "title": "Light Shobji Jhol",
+      "recipe": "recipes/bd_be_hy_001/recipe.json",
+      "image": "recipes/bd_be_hy_001/cover.webp",
+      "bytes": 6372,
+      "sha256": "94df053616b19be8aa5efbb4258896b7dfb1cfe1bf8451968087be8c40b58eb8",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_002": {
+      "foodId": "bd_be_hy_002",
+      "title": "Light Shobji Jhol with Spinach",
+      "recipe": "recipes/bd_be_hy_002/recipe.json",
+      "image": "recipes/bd_be_hy_002/cover.webp",
+      "bytes": 7086,
+      "sha256": "5fab6b51cb3d0d421d159b85cf74ac68acac7a190d3e3af39be91297a17a72ec",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_003": {
+      "foodId": "bd_be_hy_003",
+      "title": "Light Shobji Jhol with Carrot",
+      "recipe": "recipes/bd_be_hy_003/recipe.json",
+      "image": "recipes/bd_be_hy_003/cover.webp",
+      "bytes": 6950,
+      "sha256": "3b9afd56f429c2e757aef0001c9c6f77d3d9872760c8f8bed411dbb0c88a5ecc",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_004": {
+      "foodId": "bd_be_hy_004",
+      "title": "Light Shobji Jhol with Ginger",
+      "recipe": "recipes/bd_be_hy_004/recipe.json",
+      "image": "recipes/bd_be_hy_004/cover.webp",
+      "bytes": 7098,
+      "sha256": "8121aa63c86c4f2b8cd9a26674e1cb0cf8570d46aca5596cdd062e9f3a973ad4",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_005": {
+      "foodId": "bd_be_hy_005",
+      "title": "Light Shobji Jhol with Tomato",
+      "recipe": "recipes/bd_be_hy_005/recipe.json",
+      "image": "recipes/bd_be_hy_005/cover.webp",
+      "bytes": 7172,
+      "sha256": "31fd813ac9776d2b1d626564785976176c1537977ae5b7686889b68937d92b90",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_006": {
+      "foodId": "bd_be_hy_006",
+      "title": "Light Shobji Jhol with Fresh Herbs",
+      "recipe": "recipes/bd_be_hy_006/recipe.json",
+      "image": "recipes/bd_be_hy_006/cover.webp",
+      "bytes": 7060,
+      "sha256": "3ebd99cbed939fe0cd40c73c8cd98d0b7dcb63d1a282ef6207a1dc91cec35171",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_007": {
+      "foodId": "bd_be_hy_007",
+      "title": "Masoor Dal Broth",
+      "recipe": "recipes/bd_be_hy_007/recipe.json",
+      "image": "recipes/bd_be_hy_007/cover.webp",
+      "bytes": 6458,
+      "sha256": "e0e031ea39194681a643b21e6995157fda2a3287a6c0684b6356a356b13a0559",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_008": {
+      "foodId": "bd_be_hy_008",
+      "title": "Masoor Dal Broth with Spinach",
+      "recipe": "recipes/bd_be_hy_008/recipe.json",
+      "image": "recipes/bd_be_hy_008/cover.webp",
+      "bytes": 7188,
+      "sha256": "db34c006cd5f6257e98a2961c067effc6c6a3830afed6e257f798b9b45115bba",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_009": {
+      "foodId": "bd_be_hy_009",
+      "title": "Masoor Dal Broth with Carrot",
+      "recipe": "recipes/bd_be_hy_009/recipe.json",
+      "image": "recipes/bd_be_hy_009/cover.webp",
+      "bytes": 6808,
+      "sha256": "370f2b9d62015c28523d6ca02913d5ab4ba5cf5cef40c269ec1d6d79602bfe58",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_010": {
+      "foodId": "bd_be_hy_010",
+      "title": "Masoor Dal Broth with Ginger",
+      "recipe": "recipes/bd_be_hy_010/recipe.json",
+      "image": "recipes/bd_be_hy_010/cover.webp",
+      "bytes": 6936,
+      "sha256": "164ded0cbbec2014168d49bc9e83efca38dad9b1cde71f031be9140566c0ef08",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_011": {
+      "foodId": "bd_be_hy_011",
+      "title": "Masoor Dal Broth with Tomato",
+      "recipe": "recipes/bd_be_hy_011/recipe.json",
+      "image": "recipes/bd_be_hy_011/cover.webp",
+      "bytes": 7092,
+      "sha256": "4dfdae1006f762de4ea482cc0c958e0c3cb68986bd0ccaaba0ca85579e712593",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_012": {
+      "foodId": "bd_be_hy_012",
+      "title": "Masoor Dal Broth with Fresh Herbs",
+      "recipe": "recipes/bd_be_hy_012/recipe.json",
+      "image": "recipes/bd_be_hy_012/cover.webp",
+      "bytes": 6844,
+      "sha256": "94f881222f029125f86714476b7a63e88447e9696fdc5e6100d164b8c121cef3",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_013": {
+      "foodId": "bd_be_hy_013",
+      "title": "Ginger Fish Broth",
+      "recipe": "recipes/bd_be_hy_013/recipe.json",
+      "image": "recipes/bd_be_hy_013/cover.webp",
+      "bytes": 6482,
+      "sha256": "aa0a219a0806b1bb472da59368127ee3d604ce9a324426146b2ac024c29e8f4f",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_014": {
+      "foodId": "bd_be_hy_014",
+      "title": "Ginger Fish Broth with Spinach",
+      "recipe": "recipes/bd_be_hy_014/recipe.json",
+      "image": "recipes/bd_be_hy_014/cover.webp",
+      "bytes": 7116,
+      "sha256": "7dc23cfddb16d68bbc823e542c5de8c5394bec52f3f72217f9ae76634253b961",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_015": {
+      "foodId": "bd_be_hy_015",
+      "title": "Ginger Fish Broth with Carrot",
+      "recipe": "recipes/bd_be_hy_015/recipe.json",
+      "image": "recipes/bd_be_hy_015/cover.webp",
+      "bytes": 6602,
+      "sha256": "26060656d415f8fa63ac804f6516ddcd80ce793c38c5c92dee90721c7b846a32",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_016": {
+      "foodId": "bd_be_hy_016",
+      "title": "Ginger Fish Broth with Ginger",
+      "recipe": "recipes/bd_be_hy_016/recipe.json",
+      "image": "recipes/bd_be_hy_016/cover.webp",
+      "bytes": 7332,
+      "sha256": "cccefd7f0c1d6918ef767d84318dd3a24730efac505a9422d613c3fe5395ae10",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_017": {
+      "foodId": "bd_be_hy_017",
+      "title": "Ginger Fish Broth with Tomato",
+      "recipe": "recipes/bd_be_hy_017/recipe.json",
+      "image": "recipes/bd_be_hy_017/cover.webp",
+      "bytes": 7246,
+      "sha256": "9581c0ed9636e30f34d2419c2453cd98321fca71ea0a693380d07b4d55a400a7",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_018": {
+      "foodId": "bd_be_hy_018",
+      "title": "Ginger Fish Broth with Fresh Herbs",
+      "recipe": "recipes/bd_be_hy_018/recipe.json",
+      "image": "recipes/bd_be_hy_018/cover.webp",
+      "bytes": 7180,
+      "sha256": "83d82692abc270feb5f9258819b4074787c06841b7f5aeca71d155e6185df5d7",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_019": {
+      "foodId": "bd_be_hy_019",
+      "title": "Lau Vegetable Soup",
+      "recipe": "recipes/bd_be_hy_019/recipe.json",
+      "image": "recipes/bd_be_hy_019/cover.webp",
+      "bytes": 6450,
+      "sha256": "1c2c05a19eeb5a43d806178195903781439b6b52c15e4d3d91394b1c43c5282a",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_020": {
+      "foodId": "bd_be_hy_020",
+      "title": "Lau Vegetable Soup with Spinach",
+      "recipe": "recipes/bd_be_hy_020/recipe.json",
+      "image": "recipes/bd_be_hy_020/cover.webp",
+      "bytes": 7206,
+      "sha256": "8daae32f6dfcfabdcdb338f320800ca05ef4a9727209c330a995732a08050ae7",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_021": {
+      "foodId": "bd_be_hy_021",
+      "title": "Lau Vegetable Soup with Carrot",
+      "recipe": "recipes/bd_be_hy_021/recipe.json",
+      "image": "recipes/bd_be_hy_021/cover.webp",
+      "bytes": 7234,
+      "sha256": "05cb6cac9bde67ab6be5a261cf2260283cd6f29b3ff43388e464433a6356c0d7",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_022": {
+      "foodId": "bd_be_hy_022",
+      "title": "Lau Vegetable Soup with Ginger",
+      "recipe": "recipes/bd_be_hy_022/recipe.json",
+      "image": "recipes/bd_be_hy_022/cover.webp",
+      "bytes": 7274,
+      "sha256": "60a560155c7cf13e3b67e686df7201532bcd5334b0889d302ac1458b057dbee9",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_023": {
+      "foodId": "bd_be_hy_023",
+      "title": "Lau Vegetable Soup with Tomato",
+      "recipe": "recipes/bd_be_hy_023/recipe.json",
+      "image": "recipes/bd_be_hy_023/cover.webp",
+      "bytes": 7430,
+      "sha256": "e44153552e947c329be058fcc92b381329f6cb59859c35bf9975811ee21ad645",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_024": {
+      "foodId": "bd_be_hy_024",
+      "title": "Lau Vegetable Soup with Fresh Herbs",
+      "recipe": "recipes/bd_be_hy_024/recipe.json",
+      "image": "recipes/bd_be_hy_024/cover.webp",
+      "bytes": 7176,
+      "sha256": "4ab6114b906214c156230588eba52b289ed4378d190a77585b0ef49a3b184784",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_025": {
+      "foodId": "bd_be_hy_025",
+      "title": "Tomato Coriander Jhol",
+      "recipe": "recipes/bd_be_hy_025/recipe.json",
+      "image": "recipes/bd_be_hy_025/cover.webp",
+      "bytes": 6572,
+      "sha256": "87abb1e9685e38ae32b92b0a4301ebd7e85af5a3041344133543b50276dcb825",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_026": {
+      "foodId": "bd_be_hy_026",
+      "title": "Tomato Coriander Jhol with Spinach",
+      "recipe": "recipes/bd_be_hy_026/recipe.json",
+      "image": "recipes/bd_be_hy_026/cover.webp",
+      "bytes": 7228,
+      "sha256": "b7ae7f45d6512758ff5f7ca248e7b14af8693b89075647584c6950f195f19b42",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_027": {
+      "foodId": "bd_be_hy_027",
+      "title": "Tomato Coriander Jhol with Carrot",
+      "recipe": "recipes/bd_be_hy_027/recipe.json",
+      "image": "recipes/bd_be_hy_027/cover.webp",
+      "bytes": 7120,
+      "sha256": "6f903cecdfa6562c8d094859a716513a6ba120fee9516b6e5ad0fe5ff3411d6d",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_028": {
+      "foodId": "bd_be_hy_028",
+      "title": "Tomato Coriander Jhol with Ginger",
+      "recipe": "recipes/bd_be_hy_028/recipe.json",
+      "image": "recipes/bd_be_hy_028/cover.webp",
+      "bytes": 7088,
+      "sha256": "eb3ce57c8a5f4ebf7454ff6048ec0e063bf8d93c1fe2c2fe056e8d6cffd8bae7",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_029": {
+      "foodId": "bd_be_hy_029",
+      "title": "Tomato Coriander Jhol with Tomato",
+      "recipe": "recipes/bd_be_hy_029/recipe.json",
+      "image": "recipes/bd_be_hy_029/cover.webp",
+      "bytes": 7100,
+      "sha256": "f1dff26b6972be96b890875a318074c809fad7f767ff48e443e857893d0aceb0",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_hy_030": {
+      "foodId": "bd_be_hy_030",
+      "title": "Tomato Coriander Jhol with Fresh Herbs",
+      "recipe": "recipes/bd_be_hy_030/recipe.json",
+      "image": "recipes/bd_be_hy_030/cover.webp",
+      "bytes": 7368,
+      "sha256": "1e593cd934fc267b8950bbc289403533d604a387178d25001de48cbca8b555e1",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_001": {
+      "foodId": "bd_be_ld_001",
+      "title": "Soft Vegetable Khichuri",
+      "recipe": "recipes/bd_be_ld_001/recipe.json",
+      "image": "recipes/bd_be_ld_001/cover.webp",
+      "bytes": 7126,
+      "sha256": "ac7e293e78f8ae48f0102523abde2b2a1396d051945e0b0536500506af3ced60",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_002": {
+      "foodId": "bd_be_ld_002",
+      "title": "Soft Vegetable Khichuri with Spinach",
+      "recipe": "recipes/bd_be_ld_002/recipe.json",
+      "image": "recipes/bd_be_ld_002/cover.webp",
+      "bytes": 8060,
+      "sha256": "089249c39b97d3b132c568abd9cb34aca0f2c98758a709229aaf9680e450ff02",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_003": {
+      "foodId": "bd_be_ld_003",
+      "title": "Soft Vegetable Khichuri with Carrot",
+      "recipe": "recipes/bd_be_ld_003/recipe.json",
+      "image": "recipes/bd_be_ld_003/cover.webp",
+      "bytes": 7536,
+      "sha256": "e61c9c38af5cf18ac7653d80ec94b7f7c6043aa0fdb5577e8aed361aaa878b8e",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_004": {
+      "foodId": "bd_be_ld_004",
+      "title": "Soft Vegetable Khichuri with Ginger",
+      "recipe": "recipes/bd_be_ld_004/recipe.json",
+      "image": "recipes/bd_be_ld_004/cover.webp",
+      "bytes": 7780,
+      "sha256": "83851a814d7319a34526dfac3ed4d2d1ea67f1c4d8e4e0887c022151b8dee564",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_005": {
+      "foodId": "bd_be_ld_005",
+      "title": "Soft Vegetable Khichuri with Tomato",
+      "recipe": "recipes/bd_be_ld_005/recipe.json",
+      "image": "recipes/bd_be_ld_005/cover.webp",
+      "bytes": 7794,
+      "sha256": "fead9924ef89d5fac975eaf904959ab2a0017c4069319f40e1fc3c2078f1e4f6",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_006": {
+      "foodId": "bd_be_ld_006",
+      "title": "Soft Vegetable Khichuri with Fresh Herbs",
+      "recipe": "recipes/bd_be_ld_006/recipe.json",
+      "image": "recipes/bd_be_ld_006/cover.webp",
+      "bytes": 8402,
+      "sha256": "5191ecdc12392328bd710297d6142f3be8613bd5d0ed12211552ef3c0e6a3b4c",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_007": {
+      "foodId": "bd_be_ld_007",
+      "title": "Plain Doi and Chira",
+      "recipe": "recipes/bd_be_ld_007/recipe.json",
+      "image": "recipes/bd_be_ld_007/cover.webp",
+      "bytes": 6472,
+      "sha256": "433ea4e014922f60c77baed56ee03075bc9b0a165d63f35aa55a1405e237d608",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_008": {
+      "foodId": "bd_be_ld_008",
+      "title": "Plain Doi and Chira with Spinach",
+      "recipe": "recipes/bd_be_ld_008/recipe.json",
+      "image": "recipes/bd_be_ld_008/cover.webp",
+      "bytes": 7714,
+      "sha256": "a29929788c8ead0b8db61889443324bb0f5a482e6da323b64f4243a27a893289",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_009": {
+      "foodId": "bd_be_ld_009",
+      "title": "Plain Doi and Chira with Carrot",
+      "recipe": "recipes/bd_be_ld_009/recipe.json",
+      "image": "recipes/bd_be_ld_009/cover.webp",
+      "bytes": 7822,
+      "sha256": "8667c226fbae23985c5b98b63f9836b1270e792ed0f4b3dc9e1f5ecc6cbd666c",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_010": {
+      "foodId": "bd_be_ld_010",
+      "title": "Plain Doi and Chira with Ginger",
+      "recipe": "recipes/bd_be_ld_010/recipe.json",
+      "image": "recipes/bd_be_ld_010/cover.webp",
+      "bytes": 6976,
+      "sha256": "c0df671d0cd67fbcebbc7536b22155bc38f99dd3a664d54dba21a1914ea322f5",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_011": {
+      "foodId": "bd_be_ld_011",
+      "title": "Plain Doi and Chira with Tomato",
+      "recipe": "recipes/bd_be_ld_011/recipe.json",
+      "image": "recipes/bd_be_ld_011/cover.webp",
+      "bytes": 7306,
+      "sha256": "6b076d0e0353bb8d1ecab1a76f62162372e4df539f95164874870e6363fa8b17",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_012": {
+      "foodId": "bd_be_ld_012",
+      "title": "Plain Doi and Chira with Fresh Herbs",
+      "recipe": "recipes/bd_be_ld_012/recipe.json",
+      "image": "recipes/bd_be_ld_012/cover.webp",
+      "bytes": 7552,
+      "sha256": "826734b3c0c278e357a6ee6ffdc3c42dd7df5da6283b3dd9d5ddc645e31d2379",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_013": {
+      "foodId": "bd_be_ld_013",
+      "title": "Pumpkin Dal",
+      "recipe": "recipes/bd_be_ld_013/recipe.json",
+      "image": "recipes/bd_be_ld_013/cover.webp",
+      "bytes": 6318,
+      "sha256": "9c2a6bb015f84898b19ae09e516c799e59faa727706073bacf60a11bcdf80e02",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_014": {
+      "foodId": "bd_be_ld_014",
+      "title": "Pumpkin Dal with Spinach",
+      "recipe": "recipes/bd_be_ld_014/recipe.json",
+      "image": "recipes/bd_be_ld_014/cover.webp",
+      "bytes": 6768,
+      "sha256": "378926b07aa80415cbe0d585f37a45363554898bc3467558797666d8d4ab2966",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_015": {
+      "foodId": "bd_be_ld_015",
+      "title": "Pumpkin Dal with Carrot",
+      "recipe": "recipes/bd_be_ld_015/recipe.json",
+      "image": "recipes/bd_be_ld_015/cover.webp",
+      "bytes": 6992,
+      "sha256": "6ea32c0cefe7629bd0cfbe428d77fd7b53c7fe1b018aa59b21dfcee79a3e670f",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_016": {
+      "foodId": "bd_be_ld_016",
+      "title": "Pumpkin Dal with Ginger",
+      "recipe": "recipes/bd_be_ld_016/recipe.json",
+      "image": "recipes/bd_be_ld_016/cover.webp",
+      "bytes": 7090,
+      "sha256": "be1d513fdf9a098bdadc8fefc15a318ac3c9643c5b3669d1d6524dd87ab77401",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_017": {
+      "foodId": "bd_be_ld_017",
+      "title": "Pumpkin Dal with Tomato",
+      "recipe": "recipes/bd_be_ld_017/recipe.json",
+      "image": "recipes/bd_be_ld_017/cover.webp",
+      "bytes": 6984,
+      "sha256": "ba259369db21390c4eece350409ff23ef44139042f8e9e8ed5d5fe84bec7bc80",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_018": {
+      "foodId": "bd_be_ld_018",
+      "title": "Pumpkin Dal with Fresh Herbs",
+      "recipe": "recipes/bd_be_ld_018/recipe.json",
+      "image": "recipes/bd_be_ld_018/cover.webp",
+      "bytes": 7222,
+      "sha256": "89dbed5d0d2a21fd4da32f248be27dbe417c9afd2be30126d696721bc12d43a4",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_019": {
+      "foodId": "bd_be_ld_019",
+      "title": "Steamed Vegetables and Rice",
+      "recipe": "recipes/bd_be_ld_019/recipe.json",
+      "image": "recipes/bd_be_ld_019/cover.webp",
+      "bytes": 7574,
+      "sha256": "7d7eed3145c88097febd912aa7656c6dc35c13a4443df0eb5020ffa596944014",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_020": {
+      "foodId": "bd_be_ld_020",
+      "title": "Steamed Vegetables and Rice with Spinach",
+      "recipe": "recipes/bd_be_ld_020/recipe.json",
+      "image": "recipes/bd_be_ld_020/cover.webp",
+      "bytes": 7918,
+      "sha256": "25e8464710c4b5adbf236c6ec4f3ccf97a503e63c9c6a5240e2747dd1696adb9",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_021": {
+      "foodId": "bd_be_ld_021",
+      "title": "Steamed Vegetables and Rice with Carrot",
+      "recipe": "recipes/bd_be_ld_021/recipe.json",
+      "image": "recipes/bd_be_ld_021/cover.webp",
+      "bytes": 7894,
+      "sha256": "ec4edf4429bd16f9ceea4ae6e7ca8cc6ff925e9e31c2393fd03d384cc5ba2cb0",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_022": {
+      "foodId": "bd_be_ld_022",
+      "title": "Steamed Vegetables and Rice with Ginger",
+      "recipe": "recipes/bd_be_ld_022/recipe.json",
+      "image": "recipes/bd_be_ld_022/cover.webp",
+      "bytes": 8398,
+      "sha256": "0a96bca3c859db8ad1c542666d2331fad87e1d6fc9d65662823bdc8c89fec7d1",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_023": {
+      "foodId": "bd_be_ld_023",
+      "title": "Steamed Vegetables and Rice with Tomato",
+      "recipe": "recipes/bd_be_ld_023/recipe.json",
+      "image": "recipes/bd_be_ld_023/cover.webp",
+      "bytes": 8114,
+      "sha256": "03cb0b1709fcc3c42e786ed895cc526653b9a5af7a397f7b91279d71dae80db5",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_024": {
+      "foodId": "bd_be_ld_024",
+      "title": "Steamed Vegetables and Rice with Fresh Herbs",
+      "recipe": "recipes/bd_be_ld_024/recipe.json",
+      "image": "recipes/bd_be_ld_024/cover.webp",
+      "bytes": 8300,
+      "sha256": "768c7a548c3cfea260396a54c6e3d31cdb67873726cc201d6b303e4a40d66305",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_025": {
+      "foodId": "bd_be_ld_025",
+      "title": "Light Chicken Soup",
+      "recipe": "recipes/bd_be_ld_025/recipe.json",
+      "image": "recipes/bd_be_ld_025/cover.webp",
+      "bytes": 6312,
+      "sha256": "35c3c0bb73b5d1d432085961cca29618a4b131e528daef5ed17abcb27c5aa9c5",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_026": {
+      "foodId": "bd_be_ld_026",
+      "title": "Light Chicken Soup with Spinach",
+      "recipe": "recipes/bd_be_ld_026/recipe.json",
+      "image": "recipes/bd_be_ld_026/cover.webp",
+      "bytes": 7238,
+      "sha256": "acccf838404835c035414cc3e6642a7cf269b03382f4880ce102110d607ef29b",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_027": {
+      "foodId": "bd_be_ld_027",
+      "title": "Light Chicken Soup with Carrot",
+      "recipe": "recipes/bd_be_ld_027/recipe.json",
+      "image": "recipes/bd_be_ld_027/cover.webp",
+      "bytes": 7120,
+      "sha256": "abe19c1209e0b9a67c85e4563ffb29c099fca5e7ee5df788a882c927259245b2",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_028": {
+      "foodId": "bd_be_ld_028",
+      "title": "Light Chicken Soup with Ginger",
+      "recipe": "recipes/bd_be_ld_028/recipe.json",
+      "image": "recipes/bd_be_ld_028/cover.webp",
+      "bytes": 7160,
+      "sha256": "e4846367ae3b6999881d124e9d472de486cd6ace70463f5ae41a9280756e0283",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_029": {
+      "foodId": "bd_be_ld_029",
+      "title": "Light Chicken Soup with Tomato",
+      "recipe": "recipes/bd_be_ld_029/recipe.json",
+      "image": "recipes/bd_be_ld_029/cover.webp",
+      "bytes": 7016,
+      "sha256": "b69fd7d5e6cc5193b533e1003ff595e9b9399c43ff951eaca7d3471eaff9ddef",
+      "kind": "labeled_illustration"
+    },
+    "bd_be_ld_030": {
+      "foodId": "bd_be_ld_030",
+      "title": "Light Chicken Soup with Fresh Herbs",
+      "recipe": "recipes/bd_be_ld_030/recipe.json",
+      "image": "recipes/bd_be_ld_030/cover.webp",
+      "bytes": 7322,
+      "sha256": "0d1e8f2e3d0647a72a1e463589bd52314d7098f21f379990460cc58897bff689",
+      "kind": "labeled_illustration"
+    }
+  }
+}

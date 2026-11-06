@@ -20,7 +20,7 @@
     "hy",
     "ld"
   ],
-  "imageStatus": "pending",
+  "imageStatus": "ready_illustrated",
   "assetBudgetBytesPerCountry": 20000000,
   "maxImageBytes": 100000,
   "cdnBase": "https://cdn.jsdelivr.net/gh/JaxenLabs/jaxfit-content@v1.0.0/v1/content/"

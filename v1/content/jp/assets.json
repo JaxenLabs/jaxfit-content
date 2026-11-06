@@ -1,0 +1,1086 @@
+{
+  "locale": "jp",
+  "imageType": "labeled_illustration",
+  "assets": {
+    "jp_ja_wo_001": {
+      "foodId": "jp_ja_wo_001",
+      "title": "Okayu Rice Porridge",
+      "recipe": "recipes/jp_ja_wo_001/recipe.json",
+      "image": "recipes/jp_ja_wo_001/cover.webp",
+      "bytes": 6484,
+      "sha256": "3ec64dedacf0c0b306cdf8f6fa36b241c5d7cf5ccf3c9ab0b44dcdb54321030f",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_002": {
+      "foodId": "jp_ja_wo_002",
+      "title": "Okayu Rice Porridge with Spinach",
+      "recipe": "recipes/jp_ja_wo_002/recipe.json",
+      "image": "recipes/jp_ja_wo_002/cover.webp",
+      "bytes": 6944,
+      "sha256": "0df1f3f632ec279fd6c1610c6943fc36f7d562488eb78dc440f9d0b11b243734",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_003": {
+      "foodId": "jp_ja_wo_003",
+      "title": "Okayu Rice Porridge with Carrot",
+      "recipe": "recipes/jp_ja_wo_003/recipe.json",
+      "image": "recipes/jp_ja_wo_003/cover.webp",
+      "bytes": 7158,
+      "sha256": "a5c2936da22fc43662fbd6f0232b71979f491307db61535bd69b60e96f1cfd1c",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_004": {
+      "foodId": "jp_ja_wo_004",
+      "title": "Okayu Rice Porridge with Ginger",
+      "recipe": "recipes/jp_ja_wo_004/recipe.json",
+      "image": "recipes/jp_ja_wo_004/cover.webp",
+      "bytes": 7134,
+      "sha256": "6aee53aa50a432ca047cbb9e7a57fa26b272d5d9042853652166902d682bb19f",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_005": {
+      "foodId": "jp_ja_wo_005",
+      "title": "Okayu Rice Porridge with Tomato",
+      "recipe": "recipes/jp_ja_wo_005/recipe.json",
+      "image": "recipes/jp_ja_wo_005/cover.webp",
+      "bytes": 7444,
+      "sha256": "76024d0d72f028b901218f0f605e571b0ea6b53399b059c17183e15750b98198",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_006": {
+      "foodId": "jp_ja_wo_006",
+      "title": "Okayu Rice Porridge with Fresh Herbs",
+      "recipe": "recipes/jp_ja_wo_006/recipe.json",
+      "image": "recipes/jp_ja_wo_006/cover.webp",
+      "bytes": 7554,
+      "sha256": "dcb4ada35635f866cae954970b00b7f1a7d69b21664a8809df91b831da8ae770",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_007": {
+      "foodId": "jp_ja_wo_007",
+      "title": "Soft Tofu and Rice",
+      "recipe": "recipes/jp_ja_wo_007/recipe.json",
+      "image": "recipes/jp_ja_wo_007/cover.webp",
+      "bytes": 6326,
+      "sha256": "baebb206777599becc9cfc4a8178ad7f486d2a6302d20e0b422574551d8a2121",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_008": {
+      "foodId": "jp_ja_wo_008",
+      "title": "Soft Tofu and Rice with Spinach",
+      "recipe": "recipes/jp_ja_wo_008/recipe.json",
+      "image": "recipes/jp_ja_wo_008/cover.webp",
+      "bytes": 7334,
+      "sha256": "2ccd07aafc2313d89d57976f3dd7f945ac766f8cc8e567cf1499ca030c95be62",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_009": {
+      "foodId": "jp_ja_wo_009",
+      "title": "Soft Tofu and Rice with Carrot",
+      "recipe": "recipes/jp_ja_wo_009/recipe.json",
+      "image": "recipes/jp_ja_wo_009/cover.webp",
+      "bytes": 7122,
+      "sha256": "a1f5c6ff27a035d6e193656232e5561c7ae38f2fd73fb1d510e03871253087b1",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_010": {
+      "foodId": "jp_ja_wo_010",
+      "title": "Soft Tofu and Rice with Ginger",
+      "recipe": "recipes/jp_ja_wo_010/recipe.json",
+      "image": "recipes/jp_ja_wo_010/cover.webp",
+      "bytes": 7030,
+      "sha256": "a65f2be37518b22e61adc5768e7168e2cf14aafe6eea972469a5b85cd24cb2a0",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_011": {
+      "foodId": "jp_ja_wo_011",
+      "title": "Soft Tofu and Rice with Tomato",
+      "recipe": "recipes/jp_ja_wo_011/recipe.json",
+      "image": "recipes/jp_ja_wo_011/cover.webp",
+      "bytes": 7270,
+      "sha256": "81b967e37c0b862054f0909e8a770a3674150167500081f5311e783eb6771a76",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_012": {
+      "foodId": "jp_ja_wo_012",
+      "title": "Soft Tofu and Rice with Fresh Herbs",
+      "recipe": "recipes/jp_ja_wo_012/recipe.json",
+      "image": "recipes/jp_ja_wo_012/cover.webp",
+      "bytes": 7220,
+      "sha256": "d79017ec46f6c7806c96ad026c76c9a90aaffaaa12826d4f541dbe98eb46c938",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_013": {
+      "foodId": "jp_ja_wo_013",
+      "title": "Tamago Zosui",
+      "recipe": "recipes/jp_ja_wo_013/recipe.json",
+      "image": "recipes/jp_ja_wo_013/cover.webp",
+      "bytes": 6298,
+      "sha256": "eaf0809f2fbb84e31fcbb2971f10258b69be1a326b532e7f677ac1ea825019b0",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_014": {
+      "foodId": "jp_ja_wo_014",
+      "title": "Tamago Zosui with Spinach",
+      "recipe": "recipes/jp_ja_wo_014/recipe.json",
+      "image": "recipes/jp_ja_wo_014/cover.webp",
+      "bytes": 7146,
+      "sha256": "be06341d9ee1e977ddd257e7f030a833b0d10ec5e667652655637644989a4c43",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_015": {
+      "foodId": "jp_ja_wo_015",
+      "title": "Tamago Zosui with Carrot",
+      "recipe": "recipes/jp_ja_wo_015/recipe.json",
+      "image": "recipes/jp_ja_wo_015/cover.webp",
+      "bytes": 7054,
+      "sha256": "f04a3575e83b4324fa91ba0739ef84350efaf99a6356c1a3f017ebabbcb50d7b",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_016": {
+      "foodId": "jp_ja_wo_016",
+      "title": "Tamago Zosui with Ginger",
+      "recipe": "recipes/jp_ja_wo_016/recipe.json",
+      "image": "recipes/jp_ja_wo_016/cover.webp",
+      "bytes": 6850,
+      "sha256": "1dc590ce094c5ae6b15f8aa35a52639e0a1ca281f34169f7af9119b281bb3866",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_017": {
+      "foodId": "jp_ja_wo_017",
+      "title": "Tamago Zosui with Tomato",
+      "recipe": "recipes/jp_ja_wo_017/recipe.json",
+      "image": "recipes/jp_ja_wo_017/cover.webp",
+      "bytes": 7006,
+      "sha256": "17a0b9efbd97146be173ee2b342cdc17d662ab8264999c1dcdd6e8f4024ffaf5",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_018": {
+      "foodId": "jp_ja_wo_018",
+      "title": "Tamago Zosui with Fresh Herbs",
+      "recipe": "recipes/jp_ja_wo_018/recipe.json",
+      "image": "recipes/jp_ja_wo_018/cover.webp",
+      "bytes": 6714,
+      "sha256": "641b744599acfb973ca63a84f798450797872401bd0ac1ee41107ca39d46a832",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_019": {
+      "foodId": "jp_ja_wo_019",
+      "title": "Steamed Egg Chawanmushi",
+      "recipe": "recipes/jp_ja_wo_019/recipe.json",
+      "image": "recipes/jp_ja_wo_019/cover.webp",
+      "bytes": 6972,
+      "sha256": "6cb85ab00e3ff335c0cd4d7aa97867dbe0653b21eb7dc22ff38184f11e998228",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_020": {
+      "foodId": "jp_ja_wo_020",
+      "title": "Steamed Egg Chawanmushi with Spinach",
+      "recipe": "recipes/jp_ja_wo_020/recipe.json",
+      "image": "recipes/jp_ja_wo_020/cover.webp",
+      "bytes": 7674,
+      "sha256": "fec6d4494c617223d5c982d2269a2547af47af0e0bcde40af2f875ebfbc2b5c4",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_021": {
+      "foodId": "jp_ja_wo_021",
+      "title": "Steamed Egg Chawanmushi with Carrot",
+      "recipe": "recipes/jp_ja_wo_021/recipe.json",
+      "image": "recipes/jp_ja_wo_021/cover.webp",
+      "bytes": 7774,
+      "sha256": "0d4c7ba782355bd0d489ec4f53f595b91253741d612b53e34f301ce810e6c332",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_022": {
+      "foodId": "jp_ja_wo_022",
+      "title": "Steamed Egg Chawanmushi with Ginger",
+      "recipe": "recipes/jp_ja_wo_022/recipe.json",
+      "image": "recipes/jp_ja_wo_022/cover.webp",
+      "bytes": 7460,
+      "sha256": "2d47a35859e71c311636e5b9c4fe92d3a0421e071ed9aaa6a026ac8499d7ca94",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_023": {
+      "foodId": "jp_ja_wo_023",
+      "title": "Steamed Egg Chawanmushi with Tomato",
+      "recipe": "recipes/jp_ja_wo_023/recipe.json",
+      "image": "recipes/jp_ja_wo_023/cover.webp",
+      "bytes": 7584,
+      "sha256": "1159a5bb948ee049cbd41e335fb454973e2adc97e3e22074516459cf834fe350",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_024": {
+      "foodId": "jp_ja_wo_024",
+      "title": "Steamed Egg Chawanmushi with Fresh Herbs",
+      "recipe": "recipes/jp_ja_wo_024/recipe.json",
+      "image": "recipes/jp_ja_wo_024/cover.webp",
+      "bytes": 7892,
+      "sha256": "e5123c0c19cd6f93ff7a1c70a02e2bc6a617755d3cb32668ba37bbe7caf9eb35",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_025": {
+      "foodId": "jp_ja_wo_025",
+      "title": "Miso Vegetable Porridge",
+      "recipe": "recipes/jp_ja_wo_025/recipe.json",
+      "image": "recipes/jp_ja_wo_025/cover.webp",
+      "bytes": 6822,
+      "sha256": "a1e70b6ced6d8fd1c1f3423e615f5a115db69ec0dcf21b2fb9e68fb679055c3a",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_026": {
+      "foodId": "jp_ja_wo_026",
+      "title": "Miso Vegetable Porridge with Spinach",
+      "recipe": "recipes/jp_ja_wo_026/recipe.json",
+      "image": "recipes/jp_ja_wo_026/cover.webp",
+      "bytes": 7450,
+      "sha256": "9d04097eb7224d0bf4cd0c23cf22d608820fad5ee6f53c47edf8dd1c0c5d26e4",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_027": {
+      "foodId": "jp_ja_wo_027",
+      "title": "Miso Vegetable Porridge with Carrot",
+      "recipe": "recipes/jp_ja_wo_027/recipe.json",
+      "image": "recipes/jp_ja_wo_027/cover.webp",
+      "bytes": 7578,
+      "sha256": "34aa809fcfea83a8e4d8dfe1e774bea3698575c74f9019307ef8377ba977798d",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_028": {
+      "foodId": "jp_ja_wo_028",
+      "title": "Miso Vegetable Porridge with Ginger",
+      "recipe": "recipes/jp_ja_wo_028/recipe.json",
+      "image": "recipes/jp_ja_wo_028/cover.webp",
+      "bytes": 7528,
+      "sha256": "f0badcf6e3df48ba130810f7ecd3dbb6dfff490d90ed4825b11d2f4dbcfc4f4c",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_029": {
+      "foodId": "jp_ja_wo_029",
+      "title": "Miso Vegetable Porridge with Tomato",
+      "recipe": "recipes/jp_ja_wo_029/recipe.json",
+      "image": "recipes/jp_ja_wo_029/cover.webp",
+      "bytes": 7560,
+      "sha256": "254e9190c725f4a0418fe73541f1c4ba1d33404bf2ae97b3419f320eaa24d626",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_wo_030": {
+      "foodId": "jp_ja_wo_030",
+      "title": "Miso Vegetable Porridge with Fresh Herbs",
+      "recipe": "recipes/jp_ja_wo_030/recipe.json",
+      "image": "recipes/jp_ja_wo_030/cover.webp",
+      "bytes": 7586,
+      "sha256": "ea4be2ae116f3dc53a0fda9c1c477837493073ea53fabedd5f3a22d983e2e9dc",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_001": {
+      "foodId": "jp_ja_mr_001",
+      "title": "Grilled Salmon and Rice",
+      "recipe": "recipes/jp_ja_mr_001/recipe.json",
+      "image": "recipes/jp_ja_mr_001/cover.webp",
+      "bytes": 6622,
+      "sha256": "7604aa05b8718edceba801b5b8cc0b0b26192b9a8c276cc64e877e9f3912aadd",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_002": {
+      "foodId": "jp_ja_mr_002",
+      "title": "Grilled Salmon and Rice with Spinach",
+      "recipe": "recipes/jp_ja_mr_002/recipe.json",
+      "image": "recipes/jp_ja_mr_002/cover.webp",
+      "bytes": 7316,
+      "sha256": "7fc7a4c81e82f8a845626243eb39f24262795490ebebdc4a0b0301bc4fb483ba",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_003": {
+      "foodId": "jp_ja_mr_003",
+      "title": "Grilled Salmon and Rice with Carrot",
+      "recipe": "recipes/jp_ja_mr_003/recipe.json",
+      "image": "recipes/jp_ja_mr_003/cover.webp",
+      "bytes": 7296,
+      "sha256": "a3573d0d54e379978c78888329cd10ac0e075a7dfc25ec68c7fcf08fc5045747",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_004": {
+      "foodId": "jp_ja_mr_004",
+      "title": "Grilled Salmon and Rice with Ginger",
+      "recipe": "recipes/jp_ja_mr_004/recipe.json",
+      "image": "recipes/jp_ja_mr_004/cover.webp",
+      "bytes": 7214,
+      "sha256": "290243a48f5a4624be2929eb160610ca770d10c31055c9bcd86b3dda6eda25b5",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_005": {
+      "foodId": "jp_ja_mr_005",
+      "title": "Grilled Salmon and Rice with Tomato",
+      "recipe": "recipes/jp_ja_mr_005/recipe.json",
+      "image": "recipes/jp_ja_mr_005/cover.webp",
+      "bytes": 7408,
+      "sha256": "1a2353ad42e8379f5cc02224a51eba9db066ca2ea7e1724bd5a6b08d8ce186f2",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_006": {
+      "foodId": "jp_ja_mr_006",
+      "title": "Grilled Salmon and Rice with Fresh Herbs",
+      "recipe": "recipes/jp_ja_mr_006/recipe.json",
+      "image": "recipes/jp_ja_mr_006/cover.webp",
+      "bytes": 7396,
+      "sha256": "fd250f0dd3e6c2394598dc1b73d5d16896a0b5e72fb5c9e61f0925a6952039f7",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_007": {
+      "foodId": "jp_ja_mr_007",
+      "title": "Chicken Soboro Bowl",
+      "recipe": "recipes/jp_ja_mr_007/recipe.json",
+      "image": "recipes/jp_ja_mr_007/cover.webp",
+      "bytes": 6710,
+      "sha256": "5f2bd415d49994fed5fc1703990ae0875466e97553b7e909dd2d74b47c3762fe",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_008": {
+      "foodId": "jp_ja_mr_008",
+      "title": "Chicken Soboro Bowl with Spinach",
+      "recipe": "recipes/jp_ja_mr_008/recipe.json",
+      "image": "recipes/jp_ja_mr_008/cover.webp",
+      "bytes": 7498,
+      "sha256": "e6d318248159a83ca53fbae0078a5cab39b692550ebca14b1515fee4acc458f4",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_009": {
+      "foodId": "jp_ja_mr_009",
+      "title": "Chicken Soboro Bowl with Carrot",
+      "recipe": "recipes/jp_ja_mr_009/recipe.json",
+      "image": "recipes/jp_ja_mr_009/cover.webp",
+      "bytes": 6996,
+      "sha256": "89f61a1aa2c0d7405a3892383304087a8a2712950a43b394ca110577bd50bbb8",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_010": {
+      "foodId": "jp_ja_mr_010",
+      "title": "Chicken Soboro Bowl with Ginger",
+      "recipe": "recipes/jp_ja_mr_010/recipe.json",
+      "image": "recipes/jp_ja_mr_010/cover.webp",
+      "bytes": 7174,
+      "sha256": "5c6dfd350ae4ab91c927160fcea0118384e1f3def96114af2d65fda5fb428fbe",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_011": {
+      "foodId": "jp_ja_mr_011",
+      "title": "Chicken Soboro Bowl with Tomato",
+      "recipe": "recipes/jp_ja_mr_011/recipe.json",
+      "image": "recipes/jp_ja_mr_011/cover.webp",
+      "bytes": 7414,
+      "sha256": "f0dab94a1fe59c7731c41f58cb0fbc06a893070b8425cb9de3d5276912967659",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_012": {
+      "foodId": "jp_ja_mr_012",
+      "title": "Chicken Soboro Bowl with Fresh Herbs",
+      "recipe": "recipes/jp_ja_mr_012/recipe.json",
+      "image": "recipes/jp_ja_mr_012/cover.webp",
+      "bytes": 7600,
+      "sha256": "a668ab1c08fa013660fb009951d7bf16c5cd8b2bf304b5162a6e1c8f1688fb3c",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_013": {
+      "foodId": "jp_ja_mr_013",
+      "title": "Tofu Edamame Donburi",
+      "recipe": "recipes/jp_ja_mr_013/recipe.json",
+      "image": "recipes/jp_ja_mr_013/cover.webp",
+      "bytes": 6780,
+      "sha256": "ca7d205ea6c500b5308c7b56586c29d1080f87fb175a09f79a943957d871e085",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_014": {
+      "foodId": "jp_ja_mr_014",
+      "title": "Tofu Edamame Donburi with Spinach",
+      "recipe": "recipes/jp_ja_mr_014/recipe.json",
+      "image": "recipes/jp_ja_mr_014/cover.webp",
+      "bytes": 7306,
+      "sha256": "52237535a833c75678a23a015b8662410cc4dd5d46cbd38dc2d3302890470c16",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_015": {
+      "foodId": "jp_ja_mr_015",
+      "title": "Tofu Edamame Donburi with Carrot",
+      "recipe": "recipes/jp_ja_mr_015/recipe.json",
+      "image": "recipes/jp_ja_mr_015/cover.webp",
+      "bytes": 7158,
+      "sha256": "5745c45aab70f59e400490986e9681c886580b3be620eb7fc422b5e3b89ba31d",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_016": {
+      "foodId": "jp_ja_mr_016",
+      "title": "Tofu Edamame Donburi with Ginger",
+      "recipe": "recipes/jp_ja_mr_016/recipe.json",
+      "image": "recipes/jp_ja_mr_016/cover.webp",
+      "bytes": 7468,
+      "sha256": "8adf2e1f08e8a3b720a1d54d9fc8583109f5d8b1c0bfc155ccba5e00045038ab",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_017": {
+      "foodId": "jp_ja_mr_017",
+      "title": "Tofu Edamame Donburi with Tomato",
+      "recipe": "recipes/jp_ja_mr_017/recipe.json",
+      "image": "recipes/jp_ja_mr_017/cover.webp",
+      "bytes": 7356,
+      "sha256": "7e912c4a70b1c266eab5d37c24698c3a1f0a10552e8b1c1a0132da2d0f74f485",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_018": {
+      "foodId": "jp_ja_mr_018",
+      "title": "Tofu Edamame Donburi with Fresh Herbs",
+      "recipe": "recipes/jp_ja_mr_018/recipe.json",
+      "image": "recipes/jp_ja_mr_018/cover.webp",
+      "bytes": 7834,
+      "sha256": "77aa879a547205c90bd8f2f83b36fadb17eec9ca5870068257f26b66cd5be8af",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_019": {
+      "foodId": "jp_ja_mr_019",
+      "title": "Saba and Vegetable Plate",
+      "recipe": "recipes/jp_ja_mr_019/recipe.json",
+      "image": "recipes/jp_ja_mr_019/cover.webp",
+      "bytes": 6722,
+      "sha256": "2a16ebc35edb8234f98ee0fbb315e9bc5e36b8c3ef6a5ba528f82f85448c3cd9",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_020": {
+      "foodId": "jp_ja_mr_020",
+      "title": "Saba and Vegetable Plate with Spinach",
+      "recipe": "recipes/jp_ja_mr_020/recipe.json",
+      "image": "recipes/jp_ja_mr_020/cover.webp",
+      "bytes": 7526,
+      "sha256": "16b4cfa82c4b6f7bc17ea6516d5f826f2ce21daa71cb85414aff6dd95e95b233",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_021": {
+      "foodId": "jp_ja_mr_021",
+      "title": "Saba and Vegetable Plate with Carrot",
+      "recipe": "recipes/jp_ja_mr_021/recipe.json",
+      "image": "recipes/jp_ja_mr_021/cover.webp",
+      "bytes": 7128,
+      "sha256": "044f7fc9bc0a969d664532458d384d2b6f431678a06c4f2df947641969fd44b0",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_022": {
+      "foodId": "jp_ja_mr_022",
+      "title": "Saba and Vegetable Plate with Ginger",
+      "recipe": "recipes/jp_ja_mr_022/recipe.json",
+      "image": "recipes/jp_ja_mr_022/cover.webp",
+      "bytes": 7916,
+      "sha256": "387e17bc9f769cdadf9ddac511217a8407d8a345e48e91395192aa19557814ea",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_023": {
+      "foodId": "jp_ja_mr_023",
+      "title": "Saba and Vegetable Plate with Tomato",
+      "recipe": "recipes/jp_ja_mr_023/recipe.json",
+      "image": "recipes/jp_ja_mr_023/cover.webp",
+      "bytes": 7454,
+      "sha256": "f5c688d0d5975657bab4ee543fd74d8e630b076c51068dd7481c1dac108b5e80",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_024": {
+      "foodId": "jp_ja_mr_024",
+      "title": "Saba and Vegetable Plate with Fresh Herbs",
+      "recipe": "recipes/jp_ja_mr_024/recipe.json",
+      "image": "recipes/jp_ja_mr_024/cover.webp",
+      "bytes": 7630,
+      "sha256": "233b91b5acb93426b3c29b460d3136d892bdcffcd4f211331c9b7df86a35aeef",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_025": {
+      "foodId": "jp_ja_mr_025",
+      "title": "Egg and Spinach Rice Bowl",
+      "recipe": "recipes/jp_ja_mr_025/recipe.json",
+      "image": "recipes/jp_ja_mr_025/cover.webp",
+      "bytes": 7134,
+      "sha256": "e94dfb7d1e98b4931d45afe0128648e23f75fbbf45466cf005dc6da8b46be836",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_026": {
+      "foodId": "jp_ja_mr_026",
+      "title": "Egg and Spinach Rice Bowl with Spinach",
+      "recipe": "recipes/jp_ja_mr_026/recipe.json",
+      "image": "recipes/jp_ja_mr_026/cover.webp",
+      "bytes": 7526,
+      "sha256": "91cbce38a5551a72315ddc84c1c1bbb48fbd1cb5af5845c2eb0f3601d713882e",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_027": {
+      "foodId": "jp_ja_mr_027",
+      "title": "Egg and Spinach Rice Bowl with Carrot",
+      "recipe": "recipes/jp_ja_mr_027/recipe.json",
+      "image": "recipes/jp_ja_mr_027/cover.webp",
+      "bytes": 7068,
+      "sha256": "784fcbe5942d4258f14e2fc934a6bca90550b7cb2501e97c45e087a739a6fcdc",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_028": {
+      "foodId": "jp_ja_mr_028",
+      "title": "Egg and Spinach Rice Bowl with Ginger",
+      "recipe": "recipes/jp_ja_mr_028/recipe.json",
+      "image": "recipes/jp_ja_mr_028/cover.webp",
+      "bytes": 7498,
+      "sha256": "191dc7889675927f19bb7399adae1b2583e13ca8269571bbb728ba4a5e958813",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_029": {
+      "foodId": "jp_ja_mr_029",
+      "title": "Egg and Spinach Rice Bowl with Tomato",
+      "recipe": "recipes/jp_ja_mr_029/recipe.json",
+      "image": "recipes/jp_ja_mr_029/cover.webp",
+      "bytes": 7798,
+      "sha256": "94e80b76457fb08302cbbff57d268a18539f105f715bfaf1bb58a86ca2dfd0e4",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_mr_030": {
+      "foodId": "jp_ja_mr_030",
+      "title": "Egg and Spinach Rice Bowl with Fresh Herbs",
+      "recipe": "recipes/jp_ja_mr_030/recipe.json",
+      "image": "recipes/jp_ja_mr_030/cover.webp",
+      "bytes": 7522,
+      "sha256": "f255cd9450f2e065c95a94535cf63f242c2c4103deeb60f41b3664308d27493c",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_001": {
+      "foodId": "jp_ja_hy_001",
+      "title": "Kombu Dashi Broth",
+      "recipe": "recipes/jp_ja_hy_001/recipe.json",
+      "image": "recipes/jp_ja_hy_001/cover.webp",
+      "bytes": 6408,
+      "sha256": "8c5c6d57d8da5ef591cb8f2896b24d69fc0a821631cb57799bc492c3c11b9a09",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_002": {
+      "foodId": "jp_ja_hy_002",
+      "title": "Kombu Dashi Broth with Spinach",
+      "recipe": "recipes/jp_ja_hy_002/recipe.json",
+      "image": "recipes/jp_ja_hy_002/cover.webp",
+      "bytes": 7150,
+      "sha256": "0a574eb9e064766a104915705a65553ec1d9b6b3eeb49b7bdb9259c1be3bd118",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_003": {
+      "foodId": "jp_ja_hy_003",
+      "title": "Kombu Dashi Broth with Carrot",
+      "recipe": "recipes/jp_ja_hy_003/recipe.json",
+      "image": "recipes/jp_ja_hy_003/cover.webp",
+      "bytes": 6636,
+      "sha256": "949e139baee16b259b1339f3418896a3e9635cf973c71c536ca0e813fc91eecc",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_004": {
+      "foodId": "jp_ja_hy_004",
+      "title": "Kombu Dashi Broth with Ginger",
+      "recipe": "recipes/jp_ja_hy_004/recipe.json",
+      "image": "recipes/jp_ja_hy_004/cover.webp",
+      "bytes": 6966,
+      "sha256": "6f747af6cf35363487888ab3742561451cb18741e563c3db8499430837755762",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_005": {
+      "foodId": "jp_ja_hy_005",
+      "title": "Kombu Dashi Broth with Tomato",
+      "recipe": "recipes/jp_ja_hy_005/recipe.json",
+      "image": "recipes/jp_ja_hy_005/cover.webp",
+      "bytes": 6774,
+      "sha256": "df4445e38426d5cc90d00f5a3d45cbf51b9958ffe004eaad46b375a76508c8e0",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_006": {
+      "foodId": "jp_ja_hy_006",
+      "title": "Kombu Dashi Broth with Fresh Herbs",
+      "recipe": "recipes/jp_ja_hy_006/recipe.json",
+      "image": "recipes/jp_ja_hy_006/cover.webp",
+      "bytes": 7318,
+      "sha256": "303a2fb0befb7430629399f16ca7572ada403ab69723a8f10f316817cfc67ff2",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_007": {
+      "foodId": "jp_ja_hy_007",
+      "title": "Mushroom Miso Soup",
+      "recipe": "recipes/jp_ja_hy_007/recipe.json",
+      "image": "recipes/jp_ja_hy_007/cover.webp",
+      "bytes": 6710,
+      "sha256": "ebcc1ccdf02295a5d0982751f2b848817d51f393475e4fa1b3b1dfc98853ccc6",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_008": {
+      "foodId": "jp_ja_hy_008",
+      "title": "Mushroom Miso Soup with Spinach",
+      "recipe": "recipes/jp_ja_hy_008/recipe.json",
+      "image": "recipes/jp_ja_hy_008/cover.webp",
+      "bytes": 7082,
+      "sha256": "21c467595ec53d94c3deadc5aac99ef953ca650005ed5bfaee48e2611cd20691",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_009": {
+      "foodId": "jp_ja_hy_009",
+      "title": "Mushroom Miso Soup with Carrot",
+      "recipe": "recipes/jp_ja_hy_009/recipe.json",
+      "image": "recipes/jp_ja_hy_009/cover.webp",
+      "bytes": 7278,
+      "sha256": "36eb82c89d99670cd8e73601a395610bd15e25e60612bb05b3258aa04e8c9a2d",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_010": {
+      "foodId": "jp_ja_hy_010",
+      "title": "Mushroom Miso Soup with Ginger",
+      "recipe": "recipes/jp_ja_hy_010/recipe.json",
+      "image": "recipes/jp_ja_hy_010/cover.webp",
+      "bytes": 7312,
+      "sha256": "b26df18aa61b9afdf8cfce1c43252b039929f177adaed51d90031b2f3505a87d",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_011": {
+      "foodId": "jp_ja_hy_011",
+      "title": "Mushroom Miso Soup with Tomato",
+      "recipe": "recipes/jp_ja_hy_011/recipe.json",
+      "image": "recipes/jp_ja_hy_011/cover.webp",
+      "bytes": 7258,
+      "sha256": "a434fdfd108401bd5615d1e495bd4cc63d40e0ebee5c1ff0ff71de241abf1ea2",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_012": {
+      "foodId": "jp_ja_hy_012",
+      "title": "Mushroom Miso Soup with Fresh Herbs",
+      "recipe": "recipes/jp_ja_hy_012/recipe.json",
+      "image": "recipes/jp_ja_hy_012/cover.webp",
+      "bytes": 7362,
+      "sha256": "4acc5fa9536c995f53b6a1d0fccdbfc5651a78d283cf34eccaa1bbaaca36cb4f",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_013": {
+      "foodId": "jp_ja_hy_013",
+      "title": "Daikon Clear Soup",
+      "recipe": "recipes/jp_ja_hy_013/recipe.json",
+      "image": "recipes/jp_ja_hy_013/cover.webp",
+      "bytes": 6202,
+      "sha256": "cfef6fc975241194676462526733504774f151fad9a8d4ec02a532306c07b1f2",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_014": {
+      "foodId": "jp_ja_hy_014",
+      "title": "Daikon Clear Soup with Spinach",
+      "recipe": "recipes/jp_ja_hy_014/recipe.json",
+      "image": "recipes/jp_ja_hy_014/cover.webp",
+      "bytes": 6888,
+      "sha256": "088c22454f6e329475a6527da520465fe0db15cd298b837332586d3b9c5983a7",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_015": {
+      "foodId": "jp_ja_hy_015",
+      "title": "Daikon Clear Soup with Carrot",
+      "recipe": "recipes/jp_ja_hy_015/recipe.json",
+      "image": "recipes/jp_ja_hy_015/cover.webp",
+      "bytes": 6936,
+      "sha256": "9ccd557dc5bb051c4bc293ab2bc8a0f4dafbaf1b94efe5689a1dc9ebd63f4440",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_016": {
+      "foodId": "jp_ja_hy_016",
+      "title": "Daikon Clear Soup with Ginger",
+      "recipe": "recipes/jp_ja_hy_016/recipe.json",
+      "image": "recipes/jp_ja_hy_016/cover.webp",
+      "bytes": 7168,
+      "sha256": "94bed5c89b905d602fbb62b7d457c22670e20e388d2254e11d2208b61d0d8aa9",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_017": {
+      "foodId": "jp_ja_hy_017",
+      "title": "Daikon Clear Soup with Tomato",
+      "recipe": "recipes/jp_ja_hy_017/recipe.json",
+      "image": "recipes/jp_ja_hy_017/cover.webp",
+      "bytes": 6916,
+      "sha256": "bfe054fa86eecfea65c4928c19dd0bcf354864700a7a34f18ca61b6b21542c42",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_018": {
+      "foodId": "jp_ja_hy_018",
+      "title": "Daikon Clear Soup with Fresh Herbs",
+      "recipe": "recipes/jp_ja_hy_018/recipe.json",
+      "image": "recipes/jp_ja_hy_018/cover.webp",
+      "bytes": 7240,
+      "sha256": "0af8b6f704a64432df64d83cf7a2cc8b132d02f3fc7dd4333454c188c9342885",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_019": {
+      "foodId": "jp_ja_hy_019",
+      "title": "Tofu Wakame Soup",
+      "recipe": "recipes/jp_ja_hy_019/recipe.json",
+      "image": "recipes/jp_ja_hy_019/cover.webp",
+      "bytes": 6474,
+      "sha256": "69d0f9bfd489ed1959199ca214f5f9a6f0eef95133907857cc7611b8a1aa6b7b",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_020": {
+      "foodId": "jp_ja_hy_020",
+      "title": "Tofu Wakame Soup with Spinach",
+      "recipe": "recipes/jp_ja_hy_020/recipe.json",
+      "image": "recipes/jp_ja_hy_020/cover.webp",
+      "bytes": 6804,
+      "sha256": "0e26122226f5142108bcfa78dab95368416d26312de73780a59f02d567580da7",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_021": {
+      "foodId": "jp_ja_hy_021",
+      "title": "Tofu Wakame Soup with Carrot",
+      "recipe": "recipes/jp_ja_hy_021/recipe.json",
+      "image": "recipes/jp_ja_hy_021/cover.webp",
+      "bytes": 6938,
+      "sha256": "b49a99de4ae68195b87f5fc70212640f92e3eb9189dbef65f7e8f5d65d578044",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_022": {
+      "foodId": "jp_ja_hy_022",
+      "title": "Tofu Wakame Soup with Ginger",
+      "recipe": "recipes/jp_ja_hy_022/recipe.json",
+      "image": "recipes/jp_ja_hy_022/cover.webp",
+      "bytes": 7044,
+      "sha256": "44eb7a88b319979564a833bfd0692676774198c22de7b35984476cded5a49e15",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_023": {
+      "foodId": "jp_ja_hy_023",
+      "title": "Tofu Wakame Soup with Tomato",
+      "recipe": "recipes/jp_ja_hy_023/recipe.json",
+      "image": "recipes/jp_ja_hy_023/cover.webp",
+      "bytes": 7120,
+      "sha256": "0b67ab7b3e667ab32cf928bf9f0d80566a427c36ac7c69a8f6d08296b33f2cab",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_024": {
+      "foodId": "jp_ja_hy_024",
+      "title": "Tofu Wakame Soup with Fresh Herbs",
+      "recipe": "recipes/jp_ja_hy_024/recipe.json",
+      "image": "recipes/jp_ja_hy_024/cover.webp",
+      "bytes": 7446,
+      "sha256": "f0ddcb55cd31b8fba4f823a4d5a4d37d32dacaca97d6b02f4c88bec5c19c826d",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_025": {
+      "foodId": "jp_ja_hy_025",
+      "title": "Ginger Vegetable Dashi",
+      "recipe": "recipes/jp_ja_hy_025/recipe.json",
+      "image": "recipes/jp_ja_hy_025/cover.webp",
+      "bytes": 6544,
+      "sha256": "7da74e504b8a2328de358b60bd015f99ed75fde9dc07a87b97f9c70ec13ac264",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_026": {
+      "foodId": "jp_ja_hy_026",
+      "title": "Ginger Vegetable Dashi with Spinach",
+      "recipe": "recipes/jp_ja_hy_026/recipe.json",
+      "image": "recipes/jp_ja_hy_026/cover.webp",
+      "bytes": 7246,
+      "sha256": "5ccb44a4e71ffadad36b131ca17694f88b621d0e1da03fdbee7f5eb2fd9a6cc8",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_027": {
+      "foodId": "jp_ja_hy_027",
+      "title": "Ginger Vegetable Dashi with Carrot",
+      "recipe": "recipes/jp_ja_hy_027/recipe.json",
+      "image": "recipes/jp_ja_hy_027/cover.webp",
+      "bytes": 7218,
+      "sha256": "80d1aa9c09f4dbd6a1fd70dd737647ffcc65883f612375fcc2bef7fe995ee51f",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_028": {
+      "foodId": "jp_ja_hy_028",
+      "title": "Ginger Vegetable Dashi with Ginger",
+      "recipe": "recipes/jp_ja_hy_028/recipe.json",
+      "image": "recipes/jp_ja_hy_028/cover.webp",
+      "bytes": 7556,
+      "sha256": "454be63a1cf7c014181fff8dc3f82560fca4b80fbd6aff78db4fb1ecb29744a1",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_029": {
+      "foodId": "jp_ja_hy_029",
+      "title": "Ginger Vegetable Dashi with Tomato",
+      "recipe": "recipes/jp_ja_hy_029/recipe.json",
+      "image": "recipes/jp_ja_hy_029/cover.webp",
+      "bytes": 7212,
+      "sha256": "f8501a5718ca31aad7a3502ba11bf3476b7ae409f54e3166a5607636b7f85b87",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_hy_030": {
+      "foodId": "jp_ja_hy_030",
+      "title": "Ginger Vegetable Dashi with Fresh Herbs",
+      "recipe": "recipes/jp_ja_hy_030/recipe.json",
+      "image": "recipes/jp_ja_hy_030/cover.webp",
+      "bytes": 7542,
+      "sha256": "13c9de225d758c00d1735ad7802fc01d5c7ad152bcfb85dd40212bbaaa562c45",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_001": {
+      "foodId": "jp_ja_ld_001",
+      "title": "Soft Vegetable Zosui",
+      "recipe": "recipes/jp_ja_ld_001/recipe.json",
+      "image": "recipes/jp_ja_ld_001/cover.webp",
+      "bytes": 6512,
+      "sha256": "d7f98c0b236622b360995f7c11eab149d0846e2aecb282b91647ba75d990f810",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_002": {
+      "foodId": "jp_ja_ld_002",
+      "title": "Soft Vegetable Zosui with Spinach",
+      "recipe": "recipes/jp_ja_ld_002/recipe.json",
+      "image": "recipes/jp_ja_ld_002/cover.webp",
+      "bytes": 7352,
+      "sha256": "708a2380ef2871836be72d20fe9b42885c98f411f798de2e48b81323f3dce60a",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_003": {
+      "foodId": "jp_ja_ld_003",
+      "title": "Soft Vegetable Zosui with Carrot",
+      "recipe": "recipes/jp_ja_ld_003/recipe.json",
+      "image": "recipes/jp_ja_ld_003/cover.webp",
+      "bytes": 7236,
+      "sha256": "a679ecb5589f540c0fda7f17907de04d55153f31e3e579081bbf88100c8fc35c",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_004": {
+      "foodId": "jp_ja_ld_004",
+      "title": "Soft Vegetable Zosui with Ginger",
+      "recipe": "recipes/jp_ja_ld_004/recipe.json",
+      "image": "recipes/jp_ja_ld_004/cover.webp",
+      "bytes": 7250,
+      "sha256": "4198a25c2c6e840791f3e0de2b2c98ae11f0f3941cee2a073f92458d14ec83e0",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_005": {
+      "foodId": "jp_ja_ld_005",
+      "title": "Soft Vegetable Zosui with Tomato",
+      "recipe": "recipes/jp_ja_ld_005/recipe.json",
+      "image": "recipes/jp_ja_ld_005/cover.webp",
+      "bytes": 7270,
+      "sha256": "fadb7e591644662cfc2436d049e775ea32668a80d595a066101a2b27fdf3c034",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_006": {
+      "foodId": "jp_ja_ld_006",
+      "title": "Soft Vegetable Zosui with Fresh Herbs",
+      "recipe": "recipes/jp_ja_ld_006/recipe.json",
+      "image": "recipes/jp_ja_ld_006/cover.webp",
+      "bytes": 7326,
+      "sha256": "f1c828ff31ab84ac2b31524eebb3463dce291a1e48a50da6dfcdc6f595f35b47",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_007": {
+      "foodId": "jp_ja_ld_007",
+      "title": "Silken Tofu Bowl",
+      "recipe": "recipes/jp_ja_ld_007/recipe.json",
+      "image": "recipes/jp_ja_ld_007/cover.webp",
+      "bytes": 6580,
+      "sha256": "abfe72a036e438278c4e2d5a66e2b0643db59a06411ca1ff00c6d79c90961c2b",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_008": {
+      "foodId": "jp_ja_ld_008",
+      "title": "Silken Tofu Bowl with Spinach",
+      "recipe": "recipes/jp_ja_ld_008/recipe.json",
+      "image": "recipes/jp_ja_ld_008/cover.webp",
+      "bytes": 7234,
+      "sha256": "90a27beba38114c9951267b7c5a90bb76084b2c0de775c04612e7ea5754cbb2a",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_009": {
+      "foodId": "jp_ja_ld_009",
+      "title": "Silken Tofu Bowl with Carrot",
+      "recipe": "recipes/jp_ja_ld_009/recipe.json",
+      "image": "recipes/jp_ja_ld_009/cover.webp",
+      "bytes": 6958,
+      "sha256": "b17156a4a4cb84074b0b29799654290815c3b29119f8c7d78ceedaa7caa590e1",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_010": {
+      "foodId": "jp_ja_ld_010",
+      "title": "Silken Tofu Bowl with Ginger",
+      "recipe": "recipes/jp_ja_ld_010/recipe.json",
+      "image": "recipes/jp_ja_ld_010/cover.webp",
+      "bytes": 6896,
+      "sha256": "d3f257fdd470cabb9765c8f106694d3ddcc1a24c108100afba314812289c7e2f",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_011": {
+      "foodId": "jp_ja_ld_011",
+      "title": "Silken Tofu Bowl with Tomato",
+      "recipe": "recipes/jp_ja_ld_011/recipe.json",
+      "image": "recipes/jp_ja_ld_011/cover.webp",
+      "bytes": 7482,
+      "sha256": "7ecc1a0289dc96e229f15bea3d7341e121a64c4c0c206517f07ff5b43b1a6940",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_012": {
+      "foodId": "jp_ja_ld_012",
+      "title": "Silken Tofu Bowl with Fresh Herbs",
+      "recipe": "recipes/jp_ja_ld_012/recipe.json",
+      "image": "recipes/jp_ja_ld_012/cover.webp",
+      "bytes": 7372,
+      "sha256": "314cadc9d7a4a024051e3470e3b804e0b36cd618d9fb8f0c0825dafc1c94303b",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_013": {
+      "foodId": "jp_ja_ld_013",
+      "title": "Steamed Kabocha",
+      "recipe": "recipes/jp_ja_ld_013/recipe.json",
+      "image": "recipes/jp_ja_ld_013/cover.webp",
+      "bytes": 6378,
+      "sha256": "accbf87db516dc43b9dde7a3bd0a72e7e2e614191847e016e8a8fff9c9a0087c",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_014": {
+      "foodId": "jp_ja_ld_014",
+      "title": "Steamed Kabocha with Spinach",
+      "recipe": "recipes/jp_ja_ld_014/recipe.json",
+      "image": "recipes/jp_ja_ld_014/cover.webp",
+      "bytes": 7344,
+      "sha256": "2202011cb91b5b0d053b9ad7d2237a30c730103c82141b1a071f731fa147352e",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_015": {
+      "foodId": "jp_ja_ld_015",
+      "title": "Steamed Kabocha with Carrot",
+      "recipe": "recipes/jp_ja_ld_015/recipe.json",
+      "image": "recipes/jp_ja_ld_015/cover.webp",
+      "bytes": 6854,
+      "sha256": "0faff95a79a190ad7946bb96d5f09f3cd39c3913325073ed982d53a90bdc3656",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_016": {
+      "foodId": "jp_ja_ld_016",
+      "title": "Steamed Kabocha with Ginger",
+      "recipe": "recipes/jp_ja_ld_016/recipe.json",
+      "image": "recipes/jp_ja_ld_016/cover.webp",
+      "bytes": 7108,
+      "sha256": "4dd4a4224c3bd88ea28e1db13bbdfeffd4b148926059d5c241e7691dd42fd4f4",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_017": {
+      "foodId": "jp_ja_ld_017",
+      "title": "Steamed Kabocha with Tomato",
+      "recipe": "recipes/jp_ja_ld_017/recipe.json",
+      "image": "recipes/jp_ja_ld_017/cover.webp",
+      "bytes": 7480,
+      "sha256": "d72bdc8e02310f990c9117fd681aaceab875cf2bdbefb6c6b845cb24cea83a95",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_018": {
+      "foodId": "jp_ja_ld_018",
+      "title": "Steamed Kabocha with Fresh Herbs",
+      "recipe": "recipes/jp_ja_ld_018/recipe.json",
+      "image": "recipes/jp_ja_ld_018/cover.webp",
+      "bytes": 7454,
+      "sha256": "a552c30ad60982dab34c42adb786e1fc0da93f1cf859493c5a67c0d066d2938d",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_019": {
+      "foodId": "jp_ja_ld_019",
+      "title": "Simple Onigiri and Soup",
+      "recipe": "recipes/jp_ja_ld_019/recipe.json",
+      "image": "recipes/jp_ja_ld_019/cover.webp",
+      "bytes": 6704,
+      "sha256": "150eb934d542d3daa6ffe8e2beeaf3f1dd98d1dcdd997f35b19fe01502cf8b5f",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_020": {
+      "foodId": "jp_ja_ld_020",
+      "title": "Simple Onigiri and Soup with Spinach",
+      "recipe": "recipes/jp_ja_ld_020/recipe.json",
+      "image": "recipes/jp_ja_ld_020/cover.webp",
+      "bytes": 7100,
+      "sha256": "0f45235501ef968a7de19781a319d1274b86e2f19081541f60853696eeec5175",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_021": {
+      "foodId": "jp_ja_ld_021",
+      "title": "Simple Onigiri and Soup with Carrot",
+      "recipe": "recipes/jp_ja_ld_021/recipe.json",
+      "image": "recipes/jp_ja_ld_021/cover.webp",
+      "bytes": 7078,
+      "sha256": "430a75459da24dc59354fa0335ee27b2b6b4d301bbaf7299d92ec9a035aa3774",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_022": {
+      "foodId": "jp_ja_ld_022",
+      "title": "Simple Onigiri and Soup with Ginger",
+      "recipe": "recipes/jp_ja_ld_022/recipe.json",
+      "image": "recipes/jp_ja_ld_022/cover.webp",
+      "bytes": 7102,
+      "sha256": "c74a69697ce0c0132f70ca06b027f8ac3501c7d2511708dd24a1bf22a69a748e",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_023": {
+      "foodId": "jp_ja_ld_023",
+      "title": "Simple Onigiri and Soup with Tomato",
+      "recipe": "recipes/jp_ja_ld_023/recipe.json",
+      "image": "recipes/jp_ja_ld_023/cover.webp",
+      "bytes": 7114,
+      "sha256": "9c1b4b4f2f3142bf5b33def23c203b6ecf84b53995524a9f70b8e4f51ebfd421",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_024": {
+      "foodId": "jp_ja_ld_024",
+      "title": "Simple Onigiri and Soup with Fresh Herbs",
+      "recipe": "recipes/jp_ja_ld_024/recipe.json",
+      "image": "recipes/jp_ja_ld_024/cover.webp",
+      "bytes": 7418,
+      "sha256": "658ea3b7c5b27260a05439170935480e3bb6a1e3e67598b0a3b64c4cd27807be",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_025": {
+      "foodId": "jp_ja_ld_025",
+      "title": "Light Soba Vegetable Soup",
+      "recipe": "recipes/jp_ja_ld_025/recipe.json",
+      "image": "recipes/jp_ja_ld_025/cover.webp",
+      "bytes": 6888,
+      "sha256": "3a19c032babee7eae2a317aaea6d435ff19b42aa93f6e7f3b171e6cc330f3e99",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_026": {
+      "foodId": "jp_ja_ld_026",
+      "title": "Light Soba Vegetable Soup with Spinach",
+      "recipe": "recipes/jp_ja_ld_026/recipe.json",
+      "image": "recipes/jp_ja_ld_026/cover.webp",
+      "bytes": 7762,
+      "sha256": "7ae15cc37dcafaab82d23fc96b72c8e75d34447ac4237508581635c5fbe125aa",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_027": {
+      "foodId": "jp_ja_ld_027",
+      "title": "Light Soba Vegetable Soup with Carrot",
+      "recipe": "recipes/jp_ja_ld_027/recipe.json",
+      "image": "recipes/jp_ja_ld_027/cover.webp",
+      "bytes": 7152,
+      "sha256": "4a5dab9449d9b464b3f51d1c8366cde723f8024ec25a9bca862b25e8c4cb6f9e",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_028": {
+      "foodId": "jp_ja_ld_028",
+      "title": "Light Soba Vegetable Soup with Ginger",
+      "recipe": "recipes/jp_ja_ld_028/recipe.json",
+      "image": "recipes/jp_ja_ld_028/cover.webp",
+      "bytes": 7236,
+      "sha256": "8ded0b38396e5742c53952725929120cd0635ebd85f4c6af3590cb9688c6493d",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_029": {
+      "foodId": "jp_ja_ld_029",
+      "title": "Light Soba Vegetable Soup with Tomato",
+      "recipe": "recipes/jp_ja_ld_029/recipe.json",
+      "image": "recipes/jp_ja_ld_029/cover.webp",
+      "bytes": 7434,
+      "sha256": "6b063c8de7d92089bac0d1f4a18b19df1c8d97b9f272d618cc823c77c919efac",
+      "kind": "labeled_illustration"
+    },
+    "jp_ja_ld_030": {
+      "foodId": "jp_ja_ld_030",
+      "title": "Light Soba Vegetable Soup with Fresh Herbs",
+      "recipe": "recipes/jp_ja_ld_030/recipe.json",
+      "image": "recipes/jp_ja_ld_030/cover.webp",
+      "bytes": 7642,
+      "sha256": "22dba2447fdaa7dda7ee2423bf71485e5471536487313028f8f5f902be60790f",
+      "kind": "labeled_illustration"
+    }
+  }
+}
