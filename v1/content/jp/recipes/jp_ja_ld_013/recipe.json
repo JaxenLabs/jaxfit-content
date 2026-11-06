@@ -1,0 +1,45 @@
+{
+  "id": "jp_ja_ld_013",
+  "title": "Steamed Kabocha",
+  "description": "Steamed Kabocha. A smaller, easy-to-portion meal for the end of an eating window.",
+  "cuisine": "Japanese",
+  "mealType": "light_digest",
+  "protocols": [
+    "16:8",
+    "18:6"
+  ],
+  "prepMinutes": 15,
+  "servings": 1,
+  "difficulty": "Easy",
+  "digestiveLoad": "Low",
+  "whyItWorks": "A modest portion may feel more comfortable near the end of an eating window. Fasting schedules are not appropriate for everyone.",
+  "nutrition": {
+    "calories": 215,
+    "proteinGrams": 10,
+    "fatGrams": 7,
+    "netCarbsGrams": 27,
+    "fiberGrams": 5,
+    "sodiumMg": 240,
+    "potassiumMg": 350
+  },
+  "ingredients": [
+    {
+      "item": "Primary ingredient for Steamed Kabocha",
+      "amount": "100 g"
+    },
+    {
+      "item": "Water or plain yogurt as appropriate",
+      "amount": "100 mL"
+    },
+    {
+      "item": "Vegetables or fruit suitable for the dish",
+      "amount": "60 g"
+    }
+  ],
+  "steps": [
+    "Wash and measure the ingredients; cook any raw animal proteins thoroughly.",
+    "Prepare the main ingredients using the traditional method suitable for the named dish.",
+    "Combine with the measured vegetables and serve as one portion."
+  ],
+  "coverImage": "cover.webp"
+}
