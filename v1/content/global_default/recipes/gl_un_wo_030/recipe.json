@@ -1,0 +1,49 @@
+{
+  "id": "gl_un_wo_030",
+  "title": "Silken Tofu Bowl with Fresh Herbs",
+  "description": "Silken Tofu Bowl with Fresh Herbs. A light, measured portion to ease into a meal after a fasting window.",
+  "cuisine": "Universal",
+  "mealType": "window_opener",
+  "protocols": [
+    "16:8",
+    "18:6"
+  ],
+  "prepMinutes": 15,
+  "servings": 1,
+  "difficulty": "Easy",
+  "digestiveLoad": "Low",
+  "whyItWorks": "A moderate serving combines fluid and food energy without requiring a very large first meal. Digestive tolerance varies by person.",
+  "nutrition": {
+    "calories": 245,
+    "proteinGrams": 12,
+    "fatGrams": 8,
+    "netCarbsGrams": 29,
+    "fiberGrams": 5,
+    "sodiumMg": 260,
+    "potassiumMg": 380
+  },
+  "ingredients": [
+    {
+      "item": "Primary ingredient for Silken Tofu Bowl",
+      "amount": "100 g"
+    },
+    {
+      "item": "Water or plain yogurt as appropriate",
+      "amount": "100 mL"
+    },
+    {
+      "item": "Vegetables or fruit suitable for the dish",
+      "amount": "60 g"
+    },
+    {
+      "item": "Fresh mixed herbs",
+      "amount": "5 g"
+    }
+  ],
+  "steps": [
+    "Wash and measure the ingredients; cook any raw animal proteins thoroughly.",
+    "Prepare the main ingredients using the traditional method suitable for the named dish.",
+    "Combine with the measured vegetables and serve as one portion."
+  ],
+  "coverImage": "cover.webp"
+}
