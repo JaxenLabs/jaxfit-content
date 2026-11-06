@@ -1,0 +1,49 @@
+{
+  "id": "bd_be_hy_021",
+  "title": "Lau Vegetable Soup with Carrot",
+  "description": "Lau Vegetable Soup with Carrot. A warm fluid-rich option to accompany hydration and a balanced diet.",
+  "cuisine": "Bengali",
+  "mealType": "hydration_broth",
+  "protocols": [
+    "16:8",
+    "18:6"
+  ],
+  "prepMinutes": 20,
+  "servings": 1,
+  "difficulty": "Easy",
+  "digestiveLoad": "Low",
+  "whyItWorks": "Broth provides fluid, and ingredients may contribute minerals; sodium depends strongly on the stock and added salt.",
+  "nutrition": {
+    "calories": 95,
+    "proteinGrams": 4,
+    "fatGrams": 2,
+    "netCarbsGrams": 13,
+    "fiberGrams": 3,
+    "sodiumMg": 310,
+    "potassiumMg": 290
+  },
+  "ingredients": [
+    {
+      "item": "Water or unsalted stock",
+      "amount": "350 mL"
+    },
+    {
+      "item": "Mixed vegetables",
+      "amount": "120 g"
+    },
+    {
+      "item": "Main ingredient for Lau Vegetable Soup",
+      "amount": "80 g"
+    },
+    {
+      "item": "Carrot",
+      "amount": "40 g"
+    }
+  ],
+  "steps": [
+    "Wash and prepare the vegetables and other ingredients.",
+    "Simmer gently in water or unsalted stock until all ingredients are fully cooked.",
+    "Serve warm; add salt only as appropriate for your dietary needs."
+  ],
+  "coverImage": "cover.webp"
+}
